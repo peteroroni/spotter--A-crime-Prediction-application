@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "172879457217",
+    "project_id": "crime-app-54827",
+    "storage_bucket": "crime-app-54827.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172879457217:android:b743fb9c259931a3d7dd40",
+        "android_client_info": {
+          "package_name": "com.example.spotter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdiJVp55NoVf4sy5eY9fS_CFLs4N08_pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
