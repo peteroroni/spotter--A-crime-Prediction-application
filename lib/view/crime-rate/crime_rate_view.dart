@@ -16,7 +16,7 @@ class CrimeRateView extends StatelessWidget {
     final provider = Provider.of<CrimeRateViewModel>(context);
     return SafeArea(
       child: Scaffold(
-        appBar: const ConstantAppBar(text: 'Top 5 Crime Areas'),
+        appBar: const ConstantAppBar(text: 'Dashboard & Statistics'),
         body: FutureBuilder(
           future: provider.getTopCrimes(),
           builder: (context, snapshot) {

@@ -1,12 +1,16 @@
+// ignore: unused_import
+import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:provider/provider.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:webview_flutter/webview_flutter.dart';
+import 'package:flutter_speed_dial/flutter_speed_dial.dart';
+import 'package:flutter/services.dart' show rootBundle;
 
 import 'package:spotter/constants/colors.dart';
 import 'package:spotter/constants/textstyles.dart';
-import 'package:spotter/constant-widgets/constant_home_category.dart';
 import 'package:spotter/view-model/auth_view_model.dart';
 import 'package:spotter/view/home-view/about_us_view.dart';
 import 'package:spotter/view/home-view/crime_prediction_view.dart';
@@ -26,11 +30,24 @@ class HomeView extends StatefulWidget {
 class _HomeViewState extends State<HomeView> {
   final LocalNotificationService _localNotificationService =
       LocalNotificationService();
+  // ignore: unused_field
+  late WebViewController _webViewController;
+  String _mapHtml = "";
 
   @override
   void initState() {
     super.initState();
     _initializeNotifications();
+    _loadMapHtml();
+  }
+
+  Future<void> _loadMapHtml() async {
+    final htmlContent = await rootBundle.loadString(
+      'assets/images/crime_clusters_map.html',
+    );
+    setState(() {
+      _mapHtml = htmlContent;
+    });
   }
 
   void _initializeNotifications() {
@@ -50,6 +67,7 @@ class _HomeViewState extends State<HomeView> {
   @override
   Widget build(BuildContext context) {
     final authViewModel = Provider.of<AuthViewModel>(context);
+    final username = authViewModel.user?.displayName ?? 'User';
 
     return SafeArea(
       child: Scaffold(
@@ -57,11 +75,6 @@ class _HomeViewState extends State<HomeView> {
           backgroundColor: kPrimaryColor,
           centerTitle: true,
           automaticallyImplyLeading: false,
-          shape: RoundedRectangleBorder(
-            borderRadius: BorderRadius.vertical(
-              bottom: Radius.circular(Get.width * 0.001),
-            ),
-          ),
           title: Text('SPOTTER', style: kHead1White),
           actions: [
             PopupMenuButton(
@@ -102,6 +115,47 @@ class _HomeViewState extends State<HomeView> {
             ),
           ],
         ),
+        floatingActionButton: SpeedDial(
+          icon: Icons.more_horiz, // main FAB icon
+          backgroundColor: kPrimaryColor, // customizable color
+          overlayOpacity: 0.2,
+          spacing: 12,
+          spaceBetweenChildren: 8,
+          children: [
+            SpeedDialChild(
+              child: const Icon(Icons.add), // + icon for visual cue
+              labelWidget: Row(
+                mainAxisSize: MainAxisSize.min,
+                children: const [
+                  Icon(
+                    Icons.add,
+                    size: 16,
+                    color: Colors.black,
+                  ), // extra + icon next to text
+                  SizedBox(width: 4),
+                  Text('Report A Crime', style: TextStyle(color: Colors.black)),
+                ],
+              ),
+              onTap: () => Get.to(() => const RegistrationFormView()),
+            ),
+            SpeedDialChild(
+              child: const Icon(Icons.online_prediction),
+              label: 'Crime Prediction',
+              onTap: () => Get.to(() => const CrimePredictionView()),
+            ),
+            SpeedDialChild(
+              child: const Icon(Icons.call),
+              label: 'Emergency Services',
+              onTap: () => Get.to(() => const EmergencyServicesView()),
+            ),
+            SpeedDialChild(
+              child: const Icon(Icons.article),
+              label: 'Security Tips',
+              onTap: () => Get.to(() => const SecurityTipsView()),
+            ),
+          ],
+        ),
+
         body: Padding(
           padding: EdgeInsets.symmetric(
             vertical: Get.height * 0.02,
@@ -110,42 +164,52 @@ class _HomeViewState extends State<HomeView> {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              Text('Report a crime and stay safe', style: kHead2Black),
-              SizedBox(height: Get.height * 0.03),
-              GridView(
-                shrinkWrap: true,
-                physics: const NeverScrollableScrollPhysics(),
-                gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
-                  crossAxisCount: 2,
-                  crossAxisSpacing: Get.width * 0.03,
-                  mainAxisSpacing: Get.height * 0.015,
-                ),
+              Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
-                  ConstantHomeCategory(
-                    text: 'Report A Crime',
-                    icon: Icons.report,
-                    onTap: () => Get.to(() => const RegistrationFormView()),
+                  const CircleAvatar(
+                    radius: 28,
+                    backgroundColor: Colors.grey,
+                    child: Icon(Icons.person, size: 38, color: Colors.white),
                   ),
-                  ConstantHomeCategory(
-                    text: 'Crime Prediction',
-                    icon: Icons.online_prediction,
-                    onTap: () => Get.to(() => const CrimePredictionView()),
-                  ),
-                  ConstantHomeCategory(
-                    text: 'Emergency Services',
-                    icon: Icons.call,
-                    onTap: () => Get.to(() => const EmergencyServicesView()),
-                  ),
-                  ConstantHomeCategory(
-                    text: 'Security Tips',
-                    icon: Icons.article,
-                    onTap: () => Get.to(() => const SecurityTipsView()),
+                  const SizedBox(height: 8),
+                  Text.rich(
+                    TextSpan(
+                      children: [
+                        const TextSpan(
+                          text: 'Welcome, ',
+                          style: TextStyle(color: Colors.black, fontSize: 28.0),
+                        ),
+                        TextSpan(
+                          text: username,
+                          style: const TextStyle(
+                            color: Colors.blue,
+                            fontWeight: FontWeight.bold,
+                            fontSize: 28.0,
+                          ),
+                        ),
+                      ],
+                    ),
                   ),
                 ],
               ),
-              SizedBox(height: Get.height * 0.04),
+
+              const SizedBox(height: 20),
+              Text('Crime Hotspot Map', style: kHead2Black),
+              const SizedBox(height: 14),
+              _mapHtml.isNotEmpty
+                  ? SizedBox(
+                      height: Get.height * 0.3,
+                      child: WebViewWidget(
+                        controller: WebViewController()
+                          ..setJavaScriptMode(JavaScriptMode.unrestricted)
+                          ..loadHtmlString(_mapHtml),
+                      ),
+                    )
+                  : const Center(child: CircularProgressIndicator()),
+              const SizedBox(height: 20),
               Text('Crime Reports by Users', style: kHead2Black),
-              SizedBox(height: Get.height * 0.015),
+              const SizedBox(height: 10),
               Expanded(
                 child: StreamBuilder<QuerySnapshot>(
                   stream: FirebaseFirestore.instance
@@ -169,7 +233,7 @@ class _HomeViewState extends State<HomeView> {
                     return ListView.builder(
                       itemCount: reports.length,
                       itemBuilder: (context, index) {
-                        final data = snapshot.data!.docs[index];
+                        final data = reports[index];
                         final timestamp = (data['timestamp'] as Timestamp?)
                             ?.toDate();
                         final date = timestamp != null

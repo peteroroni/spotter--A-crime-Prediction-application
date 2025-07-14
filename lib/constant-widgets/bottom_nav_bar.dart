@@ -71,7 +71,7 @@ class _BottomNavigationBarWidgetState extends State<BottomNavigationBarWidget> {
               BottomNavigationBarItem(
                 icon: DecoratedIcon(
                   icon: Icon(
-                    Icons.batch_prediction,
+                    Icons.pie_chart_outline_outlined,
                     size: 26.r,
                     //   color: kWhite,
                   ),
