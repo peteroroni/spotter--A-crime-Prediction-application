@@ -1,4 +1,5 @@
-// ignore: unused_import
+// ignore_for_file: unused_import
+
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
@@ -6,9 +7,7 @@ import 'package:provider/provider.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:webview_flutter/webview_flutter.dart';
-import 'package:flutter_speed_dial/flutter_speed_dial.dart';
 import 'package:flutter/services.dart' show rootBundle;
-
 import 'package:spotter/constants/colors.dart';
 import 'package:spotter/constants/textstyles.dart';
 import 'package:spotter/view-model/auth_view_model.dart';
@@ -20,6 +19,9 @@ import 'package:spotter/view/home-view/security_tips_view.dart';
 import 'package:spotter/view/home-view/report_details_view.dart';
 import 'package:spotter/notification_service.dart';
 
+// Add this at the top with your imports
+import 'package:spotter/database/user_controller.dart';
+
 class HomeView extends StatefulWidget {
   const HomeView({super.key});
 
@@ -30,6 +32,7 @@ class HomeView extends StatefulWidget {
 class _HomeViewState extends State<HomeView> {
   final LocalNotificationService _localNotificationService =
       LocalNotificationService();
+  final UserController userController = Get.put(UserController());
   // ignore: unused_field
   late WebViewController _webViewController;
   String _mapHtml = "";
@@ -45,9 +48,7 @@ class _HomeViewState extends State<HomeView> {
     final htmlContent = await rootBundle.loadString(
       'assets/images/crime_clusters_map.html',
     );
-    setState(() {
-      _mapHtml = htmlContent;
-    });
+    setState(() => _mapHtml = htmlContent);
   }
 
   void _initializeNotifications() {
@@ -67,7 +68,6 @@ class _HomeViewState extends State<HomeView> {
   @override
   Widget build(BuildContext context) {
     final authViewModel = Provider.of<AuthViewModel>(context);
-    final username = authViewModel.user?.displayName ?? 'User';
 
     return SafeArea(
       child: Scaffold(
@@ -115,45 +115,15 @@ class _HomeViewState extends State<HomeView> {
             ),
           ],
         ),
-        floatingActionButton: SpeedDial(
-          icon: Icons.more_horiz, // main FAB icon
-          backgroundColor: kPrimaryColor, // customizable color
-          overlayOpacity: 0.2,
-          spacing: 12,
-          spaceBetweenChildren: 8,
-          children: [
-            SpeedDialChild(
-              child: const Icon(Icons.add), // + icon for visual cue
-              labelWidget: Row(
-                mainAxisSize: MainAxisSize.min,
-                children: const [
-                  Icon(
-                    Icons.add,
-                    size: 16,
-                    color: Colors.black,
-                  ), // extra + icon next to text
-                  SizedBox(width: 4),
-                  Text('Report A Crime', style: TextStyle(color: Colors.black)),
-                ],
-              ),
-              onTap: () => Get.to(() => const RegistrationFormView()),
-            ),
-            SpeedDialChild(
-              child: const Icon(Icons.online_prediction),
-              label: 'Crime Prediction',
-              onTap: () => Get.to(() => const CrimePredictionView()),
-            ),
-            SpeedDialChild(
-              child: const Icon(Icons.call),
-              label: 'Emergency Services',
-              onTap: () => Get.to(() => const EmergencyServicesView()),
-            ),
-            SpeedDialChild(
-              child: const Icon(Icons.article),
-              label: 'Security Tips',
-              onTap: () => Get.to(() => const SecurityTipsView()),
-            ),
-          ],
+
+        floatingActionButton: FloatingActionButton.extended(
+          backgroundColor: kPrimaryColor,
+          icon: const Icon(Icons.add, color: Colors.white),
+          label: const Text(
+            "Report A Crime",
+            style: TextStyle(color: Colors.white),
+          ),
+          onPressed: () => Get.to(() => const RegistrationFormView()),
         ),
 
         body: Padding(
@@ -173,27 +143,31 @@ class _HomeViewState extends State<HomeView> {
                     child: Icon(Icons.person, size: 38, color: Colors.white),
                   ),
                   const SizedBox(height: 8),
-                  Text.rich(
-                    TextSpan(
-                      children: [
-                        const TextSpan(
-                          text: 'Welcome, ',
-                          style: TextStyle(color: Colors.black, fontSize: 28.0),
-                        ),
-                        TextSpan(
-                          text: username,
-                          style: const TextStyle(
-                            color: Colors.blue,
-                            fontWeight: FontWeight.bold,
-                            fontSize: 28.0,
+                  Obx(
+                    () => Text.rich(
+                      TextSpan(
+                        children: [
+                          const TextSpan(
+                            text: 'Welcome, ',
+                            style: TextStyle(
+                              color: Colors.black,
+                              fontSize: 28.0,
+                            ),
                           ),
-                        ),
-                      ],
+                          TextSpan(
+                            text: userController.username.value,
+                            style: const TextStyle(
+                              color: Colors.blue,
+                              fontWeight: FontWeight.bold,
+                              fontSize: 28.0,
+                            ),
+                          ),
+                        ],
+                      ),
                     ),
                   ),
                 ],
               ),
-
               const SizedBox(height: 20),
               Text('Crime Hotspot Map', style: kHead2Black),
               const SizedBox(height: 14),
@@ -208,6 +182,42 @@ class _HomeViewState extends State<HomeView> {
                     )
                   : const Center(child: CircularProgressIndicator()),
               const SizedBox(height: 20),
+              Row(
+                mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                children: [
+                  Expanded(
+                    child: ElevatedButton(
+                      style: ElevatedButton.styleFrom(
+                        elevation: 8,
+                        shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.circular(16),
+                        ),
+                        backgroundColor: Colors.white,
+                        foregroundColor: Colors.black,
+                      ),
+                      onPressed: () =>
+                          Get.to(() => const EmergencyServicesView()),
+                      child: const Text('Emergency Services'),
+                    ),
+                  ),
+                  const SizedBox(width: 10),
+                  Expanded(
+                    child: ElevatedButton(
+                      style: ElevatedButton.styleFrom(
+                        elevation: 8,
+                        shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.circular(16),
+                        ),
+                        backgroundColor: Colors.white,
+                        foregroundColor: Colors.black,
+                      ),
+                      onPressed: () => Get.to(() => const SecurityTipsView()),
+                      child: const Text('Security Tips'),
+                    ),
+                  ),
+                ],
+              ),
+              const SizedBox(height: 20),
               Text('Crime Reports by Users', style: kHead2Black),
               const SizedBox(height: 10),
               Expanded(
@@ -220,11 +230,9 @@ class _HomeViewState extends State<HomeView> {
                     if (snapshot.connectionState == ConnectionState.waiting) {
                       return const Center(child: CircularProgressIndicator());
                     }
-
                     if (snapshot.hasError) {
                       return Center(child: Text('Error: ${snapshot.error}'));
                     }
-
                     if (!snapshot.hasData || snapshot.data!.docs.isEmpty) {
                       return const Center(child: Text('No reports available'));
                     }
@@ -244,9 +252,21 @@ class _HomeViewState extends State<HomeView> {
                           color: Colors.grey[100],
                           margin: const EdgeInsets.symmetric(vertical: 5),
                           child: ListTile(
-                            title: Text(
-                              '${data['crimeType']} at ${data['location']}',
-                              style: kBody1Black,
+                            title: RichText(
+                              text: TextSpan(
+                                children: [
+                                  TextSpan(
+                                    text: '${data['crimeType']} ',
+                                    style: kBody1Black.copyWith(
+                                      fontWeight: FontWeight.bold,
+                                    ),
+                                  ),
+                                  TextSpan(
+                                    text: 'at ${data['location']}',
+                                    style: kBody1Black,
+                                  ),
+                                ],
+                              ),
                             ),
                             subtitle: Column(
                               crossAxisAlignment: CrossAxisAlignment.start,
@@ -258,6 +278,7 @@ class _HomeViewState extends State<HomeView> {
                                 Text(date, style: kBody2Grey),
                               ],
                             ),
+                            trailing: const Icon(Icons.arrow_forward_ios),
                             onTap: () => Get.to(
                               () => ReportDetailsView(
                                 category: data['crimeType'],

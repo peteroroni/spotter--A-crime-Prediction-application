@@ -34,7 +34,13 @@ class AuthViewModel with ChangeNotifier {
       );
 
       if (userCredential.user != null) {
-        await _createUserDocumentIfMissing(name: name);
+        try {
+          await _createUserDocumentIfMissing(name: name);
+        } catch (e) {
+          debugPrint('Firestore user doc creation failed: $e');
+          Fluttertoast.showToast(msg: 'Failed to save user data');
+        }
+
         progressDialog.dismiss();
         Fluttertoast.showToast(msg: 'Sign Up Successfully');
         Get.off(() => const LoginView());
@@ -44,12 +50,12 @@ class AuthViewModel with ChangeNotifier {
       Fluttertoast.showToast(msg: _firebaseErrorToMessage(e.code));
     } catch (e) {
       progressDialog.dismiss();
-      debugPrint('CreateUser error: $e');
+      debugPrint('Unexpected sign-up error: $e');
       Fluttertoast.showToast(msg: 'Something went wrong');
     }
   }
 
-  /// Logs in a user and ensures Firestore document exists
+  /// Logs in an existing user and ensures Firestore user document exists
   Future<void> loginUser(
     BuildContext context,
     String email,
@@ -69,7 +75,12 @@ class AuthViewModel with ChangeNotifier {
       );
 
       if (userCredential.user != null) {
-        await _createUserDocumentIfMissing(); // Firestore sync for login
+        try {
+          await _createUserDocumentIfMissing(); // Firestore sync
+        } catch (e) {
+          debugPrint('Firestore login sync failed: $e');
+        }
+
         final SharedPreferences prefs = await SharedPreferences.getInstance();
         await prefs.setBool('isLoggedIn', true);
 
@@ -82,67 +93,80 @@ class AuthViewModel with ChangeNotifier {
       Fluttertoast.showToast(msg: _firebaseErrorToMessage(e.code));
     } catch (e) {
       progressDialog.dismiss();
-      debugPrint('Login error: $e');
+      debugPrint('Unexpected login error: $e');
       Fluttertoast.showToast(msg: 'Something went wrong');
     }
   }
 
-  /// Sends a password reset email
+  /// Sends a password reset email to the given email address
   void resetPassword(String email) {
     try {
       auth.sendPasswordResetEmail(email: email);
       Fluttertoast.showToast(msg: 'Please check email and reset password');
       Get.back();
     } catch (e) {
-      debugPrint('ResetPassword error: $e');
+      debugPrint('Reset password error: $e');
       Fluttertoast.showToast(msg: 'Something went wrong');
     }
   }
 
-  /// Logs out the user and clears local session
+  /// Logs the user out and clears local data
   Future<void> signOut() async {
-    await auth.signOut();
-    SharedPreferences prefs = await SharedPreferences.getInstance();
-    await prefs.clear();
-    Get.offAll(() => LoginView());
-  }
-
-  /// Ensures user document exists in Firestore
-  Future<void> _createUserDocumentIfMissing({String? name}) async {
-    final currentUser = auth.currentUser;
-    if (currentUser == null) return;
-
-    final userDoc = firestore.collection('Users').doc(currentUser.uid);
-    final snapshot = await userDoc.get();
-
-    if (!snapshot.exists) {
-      await userDoc.set({
-        'userId': currentUser.uid,
-        'email': currentUser.email,
-        'name': name ?? currentUser.displayName ?? '',
-        'createdAt': FieldValue.serverTimestamp(),
-      });
-      debugPrint('Firestore user document created for ${currentUser.uid}');
-    } else {
-      debugPrint(
-        'Firestore user document already exists for ${currentUser.uid}',
-      );
+    try {
+      await auth.signOut();
+      SharedPreferences prefs = await SharedPreferences.getInstance();
+      await prefs.clear();
+      Get.offAll(() => LoginView());
+    } catch (e) {
+      debugPrint('Logout error: $e');
+      Fluttertoast.showToast(msg: 'Failed to sign out');
     }
   }
 
-  /// Converts FirebaseAuth error codes to readable messages
+  /// Creates user Firestore document if it doesn't exist
+  Future<void> _createUserDocumentIfMissing({String? name}) async {
+    try {
+      final currentUser = auth.currentUser;
+      if (currentUser == null) {
+        debugPrint('No authenticated user found');
+        return;
+      }
+
+      final userDoc = firestore.collection('Users').doc(currentUser.uid);
+      final snapshot = await userDoc.get();
+
+      if (!snapshot.exists) {
+        await userDoc.set({
+          'userId': currentUser.uid,
+          'email': currentUser.email ?? '',
+          'name': name ?? currentUser.displayName ?? '',
+          'createdAt': FieldValue.serverTimestamp(),
+        });
+        debugPrint('Firestore user document created for ${currentUser.uid}');
+      } else {
+        debugPrint('User document already exists for ${currentUser.uid}');
+      }
+    } catch (e) {
+      debugPrint('Firestore user doc creation error: $e');
+      rethrow;
+    }
+  }
+
+  /// Translates FirebaseAuth error codes into user-friendly messages
   String _firebaseErrorToMessage(String code) {
     switch (code) {
       case 'email-already-in-use':
         return 'Email already in use';
       case 'weak-password':
-        return 'Password is weak';
+        return 'Password is too weak';
       case 'wrong-password':
-        return 'Invalid Password';
+        return 'Incorrect password';
       case 'invalid-email':
-        return 'Invalid Email';
+        return 'Invalid email address';
       case 'user-not-found':
-        return 'User not found';
+        return 'No account found for this email';
+      case 'network-request-failed':
+        return 'No internet connection';
       default:
         return 'Authentication error';
     }
