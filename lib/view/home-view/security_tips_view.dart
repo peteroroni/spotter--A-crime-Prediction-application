@@ -21,7 +21,8 @@ class SecurityTipsView extends StatelessWidget {
     return SafeArea(
       child: Scaffold(
         appBar: AppBar(
-          backgroundColor: const Color.fromARGB(255, 12, 1, 71),
+          backgroundColor: const Color.fromARGB(255, 96, 125, 139),
+
           elevation: 0.5,
           leading: IconButton(
             icon: const Icon(

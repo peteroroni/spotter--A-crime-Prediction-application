@@ -8,6 +8,8 @@ import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 import 'package:flutter/services.dart' show rootBundle;
+import 'package:intl/intl.dart';
+
 import 'package:spotter/constants/colors.dart';
 import 'package:spotter/constants/textstyles.dart';
 import 'package:spotter/view-model/auth_view_model.dart';
@@ -15,11 +17,12 @@ import 'package:spotter/view/home-view/about_us_view.dart';
 import 'package:spotter/view/home-view/crime_prediction_view.dart';
 import 'package:spotter/view/home-view/emergency_services_view.dart';
 import 'package:spotter/view/home-view/registration-form/registration_form_view.dart';
+import 'package:spotter/view/profile-view/user_profile_view.dart';
+// ignore: duplicate_import
+import 'package:spotter/view/home-view/crime_prediction_view.dart';
 import 'package:spotter/view/home-view/security_tips_view.dart';
 import 'package:spotter/view/home-view/report_details_view.dart';
 import 'package:spotter/notification_service.dart';
-
-// Add this at the top with your imports
 import 'package:spotter/database/user_controller.dart';
 
 class HomeView extends StatefulWidget {
@@ -72,7 +75,7 @@ class _HomeViewState extends State<HomeView> {
     return SafeArea(
       child: Scaffold(
         appBar: AppBar(
-          backgroundColor: kPrimaryColor,
+          backgroundColor: Colors.blueGrey,
           centerTitle: true,
           automaticallyImplyLeading: false,
           title: Text('SPOTTER', style: kHead1White),
@@ -81,6 +84,10 @@ class _HomeViewState extends State<HomeView> {
               color: constantColor,
               iconColor: kWhite,
               itemBuilder: (context) => [
+                PopupMenuItem(
+                  onTap: () => Get.to(() => const UserProfileView()),
+                  child: Text('Edit Profile', style: kBody1Black),
+                ),
                 PopupMenuItem(
                   onTap: () => Get.to(() => const AboutUsView()),
                   child: Text('About Us', style: kBody1Black),
@@ -117,7 +124,7 @@ class _HomeViewState extends State<HomeView> {
         ),
 
         floatingActionButton: FloatingActionButton.extended(
-          backgroundColor: kPrimaryColor,
+          backgroundColor: Colors.blueGrey,
           icon: const Icon(Icons.add, color: Colors.white),
           label: const Text(
             "Report A Crime",
@@ -137,11 +144,25 @@ class _HomeViewState extends State<HomeView> {
               Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
-                  const CircleAvatar(
-                    radius: 28,
-                    backgroundColor: Colors.grey,
-                    child: Icon(Icons.person, size: 38, color: Colors.white),
+                  Material(
+                    color: Colors.transparent,
+                    child: InkWell(
+                      borderRadius: BorderRadius.circular(28),
+                      onTap: () {
+                        Get.to(() => UserProfileView());
+                      },
+                      child: const CircleAvatar(
+                        radius: 28,
+                        backgroundColor: Colors.blueGrey,
+                        child: Icon(
+                          Icons.person,
+                          size: 38,
+                          color: Colors.white38,
+                        ),
+                      ),
+                    ),
                   ),
+
                   const SizedBox(height: 8),
                   Obx(
                     () => Text.rich(
@@ -150,7 +171,7 @@ class _HomeViewState extends State<HomeView> {
                           const TextSpan(
                             text: 'Welcome, ',
                             style: TextStyle(
-                              color: Colors.black,
+                              color: Colors.blueGrey,
                               fontSize: 28.0,
                             ),
                           ),
@@ -169,7 +190,14 @@ class _HomeViewState extends State<HomeView> {
                 ],
               ),
               const SizedBox(height: 20),
-              Text('Crime Hotspot Map', style: kHead2Black),
+              Text(
+                'Crime Hotspot Map',
+                style: TextStyle(
+                  fontSize: 30,
+                  fontWeight: FontWeight.bold,
+                  color: Colors.blueGrey,
+                ),
+              ),
               const SizedBox(height: 14),
               _mapHtml.isNotEmpty
                   ? SizedBox(
@@ -192,33 +220,46 @@ class _HomeViewState extends State<HomeView> {
                         shape: RoundedRectangleBorder(
                           borderRadius: BorderRadius.circular(16),
                         ),
-                        backgroundColor: Colors.white,
-                        foregroundColor: Colors.black,
+                        backgroundColor: Colors.blueGrey,
+                        foregroundColor: Colors.white,
                       ),
                       onPressed: () =>
                           Get.to(() => const EmergencyServicesView()),
-                      child: const Text('Emergency Services'),
+                      child: const Text(
+                        'Emergency Services',
+                        style: TextStyle(fontSize: 20),
+                      ),
                     ),
                   ),
                   const SizedBox(width: 10),
                   Expanded(
                     child: ElevatedButton(
                       style: ElevatedButton.styleFrom(
-                        elevation: 8,
+                        elevation: 12,
                         shape: RoundedRectangleBorder(
                           borderRadius: BorderRadius.circular(16),
                         ),
-                        backgroundColor: Colors.white,
-                        foregroundColor: Colors.black,
+                        backgroundColor: Colors.blueGrey,
+                        foregroundColor: Colors.white,
                       ),
                       onPressed: () => Get.to(() => const SecurityTipsView()),
-                      child: const Text('Security Tips'),
+                      child: const Text(
+                        'Security Tips',
+                        style: TextStyle(fontSize: 20),
+                      ),
                     ),
                   ),
                 ],
               ),
-              const SizedBox(height: 20),
-              Text('Crime Reports by Users', style: kHead2Black),
+              const SizedBox(height: 30),
+              Text(
+                'Crime Reports by Users',
+                style: TextStyle(
+                  fontSize: 30,
+                  fontWeight: FontWeight.bold,
+                  color: Colors.blueGrey,
+                ),
+              ),
               const SizedBox(height: 10),
               Expanded(
                 child: StreamBuilder<QuerySnapshot>(
@@ -241,61 +282,99 @@ class _HomeViewState extends State<HomeView> {
                     return ListView.builder(
                       itemCount: reports.length,
                       itemBuilder: (context, index) {
-                        final data = reports[index];
-                        final timestamp = (data['timestamp'] as Timestamp?)
-                            ?.toDate();
-                        final date = timestamp != null
-                            ? '${timestamp.year}-${timestamp.month}-${timestamp.day}'
+                        final doc = reports[index];
+                        final data = doc.data() as Map<String, dynamic>;
+
+                        final Timestamp? ts = data['timestamp'] as Timestamp?;
+                        final DateTime? dateTime = ts?.toDate();
+                        final String date = dateTime != null
+                            ? DateFormat('MMM d, yyyy').format(
+                                dateTime,
+                              ) // e.g., Jul 17, 2025
                             : 'Unknown Date';
 
-                        return Card(
-                          color: Colors.grey[100],
-                          margin: const EdgeInsets.symmetric(vertical: 5),
-                          child: ListTile(
-                            title: RichText(
-                              text: TextSpan(
-                                children: [
-                                  TextSpan(
-                                    text: '${data['crimeType']} ',
-                                    style: kBody1Black.copyWith(
-                                      fontWeight: FontWeight.bold,
-                                    ),
-                                  ),
-                                  TextSpan(
-                                    text: 'at ${data['location']}',
-                                    style: kBody1Black,
-                                  ),
-                                ],
-                              ),
-                            ),
-                            subtitle: Column(
-                              crossAxisAlignment: CrossAxisAlignment.start,
-                              children: [
-                                Text(
-                                  'Posted by: ${data['userEmail']}',
-                                  style: kBody2Grey,
-                                ),
-                                Text(date, style: kBody2Grey),
-                              ],
-                            ),
-                            trailing: const Icon(Icons.arrow_forward_ios),
-                            onTap: () => Get.to(
-                              () => ReportDetailsView(
-                                category: data['crimeType'],
-                                date: date,
-                                place: data['location'],
-                                time: data['timeOfCrime'],
-                                description: data['description'],
-                                email: data['userEmail'],
-                              ),
-                            ),
-                          ),
+                        return buildCustomReportTile(
+                          data: data,
+                          date: date,
+                          titleFontSize: 16,
+                          subtitleFontSize: 13,
+                          iconSize: 20,
                         );
                       },
                     );
                   },
                 ),
               ),
+            ],
+          ),
+        ),
+      ),
+    );
+  }
+
+  Widget buildCustomReportTile({
+    required Map<String, dynamic> data,
+    required String date,
+    double titleFontSize = 14,
+    double subtitleFontSize = 12,
+    double iconSize = 16,
+  }) {
+    return Card(
+      color: Colors.grey[100],
+      margin: const EdgeInsets.symmetric(vertical: 5),
+      child: Padding(
+        padding: const EdgeInsets.symmetric(horizontal: 10.0, vertical: 8.0),
+        child: InkWell(
+          onTap: () => Get.to(
+            () => ReportDetailsView(
+              category: data['crimeType'],
+              date: date,
+              place: data['location'],
+              time: data['timeOfCrime'],
+              description: data['description'],
+              email: data['userEmail'],
+            ),
+          ),
+          child: Row(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Expanded(
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    RichText(
+                      text: TextSpan(
+                        children: [
+                          TextSpan(
+                            text: '${data['crimeType']} ',
+                            style: kBody1Black.copyWith(
+                              fontWeight: FontWeight.bold,
+                              fontSize: titleFontSize,
+                            ),
+                          ),
+                          TextSpan(
+                            text: 'at ${data['location']}',
+                            style: kBody1Black.copyWith(
+                              fontSize: titleFontSize,
+                            ),
+                          ),
+                        ],
+                      ),
+                    ),
+                    const SizedBox(height: 4),
+                    Text(
+                      'Posted by: ${data['userEmail']}',
+                      style: kBody2Grey.copyWith(fontSize: subtitleFontSize),
+                    ),
+                    Text(
+                      date,
+                      style: kBody2Grey.copyWith(fontSize: subtitleFontSize),
+                    ),
+                  ],
+                ),
+              ),
+              const SizedBox(width: 10),
+              Icon(Icons.arrow_forward_ios, size: iconSize),
             ],
           ),
         ),

@@ -5,7 +5,9 @@
 // ignore_for_file: unused_import, unnecessary_cast
 
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
 import 'package:provider/provider.dart';
+import 'package:spotter/constant-widgets/bottom_nav_bar.dart';
 import 'package:spotter/constants/textstyles.dart';
 import 'package:spotter/constant-widgets/constant_appbar.dart';
 import 'package:spotter/view-model/crime_rate_view_model.dart';
@@ -32,7 +34,26 @@ class _CrimeRateViewState extends State<CrimeRateView> {
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
-        appBar: const ConstantAppBar(text: 'Dashboard & Statistics'),
+        appBar: AppBar(
+          backgroundColor: const Color.fromARGB(255, 96, 125, 139),
+
+          elevation: 0.5,
+          leading: IconButton(
+            icon: const Icon(
+              Icons.arrow_back_ios,
+              color: Color.fromARGB(255, 250, 248, 248),
+            ),
+            onPressed: () => Get.offAll(() => BottomNavigationBarWidget()),
+          ),
+          centerTitle: true,
+          title: const Text(
+            'Crime Prediction',
+            style: TextStyle(
+              fontWeight: FontWeight.bold,
+              color: Color.fromARGB(255, 248, 250, 250),
+            ),
+          ),
+        ),
         floatingActionButton: Column(
           mainAxisAlignment: MainAxisAlignment.end,
           children: [
@@ -89,9 +110,11 @@ class _CrimeRateViewState extends State<CrimeRateView> {
             final mostCommonCrime = crimeTypes.isNotEmpty
                 ? crimeTypes.entries.reduce((a, b) => a.value > b.value ? a : b)
                 : const MapEntry("N/A", 0);
-            final avgPerDay = (filteredReports.length / 30).toStringAsFixed(1);
-            final avgPerWeek = (filteredReports.length / 4).toStringAsFixed(1);
-            final avgPerMonth = filteredReports.length.toString();
+            final avgPerDay = (filteredReports.length / 360).toStringAsFixed(1);
+            final avgPerWeek = (filteredReports.length / 54).toStringAsFixed(1);
+            final avgPerMonth = (filteredReports.length / 14).toStringAsFixed(
+              0,
+            );
 
             final topCrimeTypes = _topEntries(crimeTypes);
             final topLocations = _topEntries(locations);

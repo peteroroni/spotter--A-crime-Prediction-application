@@ -1,3 +1,5 @@
+import 'package:spotter/constant-widgets/bottom_nav_bar.dart';
+// ignore: unused_import
 import 'package:spotter/constant-widgets/constant_appbar.dart';
 import 'package:spotter/constant-widgets/constant_textfield.dart';
 import 'package:spotter/constants/colors.dart';
@@ -39,7 +41,26 @@ class _UserProfileViewState extends State<UserProfileView> {
     );
     return SafeArea(
       child: Scaffold(
-        appBar: const ConstantAppBar(text: 'ProfileView'),
+        appBar: AppBar(
+          backgroundColor: const Color.fromARGB(255, 96, 125, 139),
+
+          elevation: 0.5,
+          leading: IconButton(
+            icon: const Icon(
+              Icons.arrow_back_ios,
+              color: Color.fromARGB(255, 250, 248, 248),
+            ),
+            onPressed: () => Get.offAll(() => BottomNavigationBarWidget()),
+          ),
+          centerTitle: true,
+          title: const Text(
+            'User Profile',
+            style: TextStyle(
+              fontWeight: FontWeight.bold,
+              color: Color.fromARGB(255, 248, 250, 250),
+            ),
+          ),
+        ),
         body: StreamBuilder(
           stream: profileViewModel.getUserData(),
           builder: ((context, snapshot) {

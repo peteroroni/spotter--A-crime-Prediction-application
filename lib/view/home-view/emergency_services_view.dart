@@ -1,4 +1,6 @@
-import 'package:spotter/constant-widgets/constant_appbar.dart';
+import 'package:spotter/constant-widgets/bottom_nav_bar.dart';
+// ignore: unused_import
+import 'package:spotter/constant-widgets/constant_appbar.dart'; //this import is not used in the current file but may be needed for future use
 import 'package:spotter/constants/textstyles.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
@@ -13,7 +15,26 @@ class EmergencyServicesView extends StatelessWidget {
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
-        appBar: const ConstantAppBar(text: 'Emergency Services'),
+        appBar: AppBar(
+          backgroundColor: const Color.fromARGB(255, 96, 125, 139),
+
+          elevation: 0.5,
+          leading: IconButton(
+            icon: const Icon(
+              Icons.arrow_back_ios,
+              color: Color.fromARGB(255, 250, 248, 248),
+            ),
+            onPressed: () => Get.offAll(() => BottomNavigationBarWidget()),
+          ),
+          centerTitle: true,
+          title: const Text(
+            'Emergency Services',
+            style: TextStyle(
+              fontWeight: FontWeight.bold,
+              color: Color.fromARGB(255, 248, 250, 250),
+            ),
+          ),
+        ),
         body: SingleChildScrollView(
           padding: EdgeInsets.symmetric(horizontal: 16.w, vertical: 24.h),
           child: Column(

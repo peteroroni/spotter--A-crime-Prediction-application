@@ -1,7 +1,9 @@
+import 'package:flutter_svg/flutter_svg.dart';
+
 import 'package:spotter/constants/colors.dart';
 import 'package:spotter/view/crime-rate/crime_rate_view.dart';
 import 'package:spotter/view/home-view/home_view.dart';
-import 'package:spotter/view/profile-view/user_profile_view.dart';
+import 'package:spotter/view/home-view/crime_prediction_view.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get.dart';
@@ -21,7 +23,7 @@ class _BottomNavigationBarWidgetState extends State<BottomNavigationBarWidget> {
   List<Widget> pages = [
     const HomeView(),
     const CrimeRateView(),
-    const UserProfileView(),
+    const CrimePredictionPage(),
   ];
 
   @override
@@ -45,15 +47,15 @@ class _BottomNavigationBarWidgetState extends State<BottomNavigationBarWidget> {
           ),
           child: BottomNavigationBar(
             currentIndex: isSelectedTab,
-            //   type: BottomNavigationBarType.shifting,
+            // type: BottomNavigationBarType.shifting,
             onTap: (index) {
               setState(() {
                 isSelectedTab = index;
               });
             },
-            selectedItemColor: Colors.teal,
+            selectedItemColor: Colors.black,
             unselectedItemColor: kWhite,
-            backgroundColor: kPrimaryColor,
+            backgroundColor: Colors.blueGrey,
             items: [
               BottomNavigationBarItem(
                 icon: DecoratedIcon(
@@ -63,36 +65,42 @@ class _BottomNavigationBarWidgetState extends State<BottomNavigationBarWidget> {
                     //    color: kWhite,
                   ),
                   decoration: IconDecoration(
-                    border: IconBorder(color: kBlack, width: 2.w),
+                    // border: IconBorder(color: kBlack, width: 2.w),
                   ),
                 ),
-                label: '',
+                label: 'Home',
               ),
               BottomNavigationBarItem(
                 icon: DecoratedIcon(
                   icon: Icon(
-                    Icons.pie_chart_outline_outlined,
+                    Icons.insert_chart,
                     size: 26.r,
                     //   color: kWhite,
                   ),
                   decoration: IconDecoration(
-                    border: IconBorder(color: kBlack, width: 2.w),
+                    // border: IconBorder(color: kBlack, width: 2.w),
                   ),
                 ),
-                label: '',
+                label: 'Statistics',
               ),
               BottomNavigationBarItem(
-                icon: DecoratedIcon(
-                  icon: Icon(
-                    Icons.person_pin,
-                    size: 26.r,
-                    //   color: kWhite,
-                  ),
-                  decoration: IconDecoration(
-                    border: IconBorder(color: kBlack, width: 2.w),
+                icon: Container(
+                  padding: EdgeInsets.all(4.w),
+                  //decoration: BoxDecoration(
+                  //border: Border.all(color: kBlack, width: 2.w),
+                  //shape: BoxShape.circle, // Optional: circle border
+                  //),
+                  child: SvgPicture.asset(
+                    'assets/images/prediction.svg',
+                    width: 26.r,
+                    height: 26.r,
+                    colorFilter: ColorFilter.mode(
+                      Colors.white,
+                      BlendMode.srcIn,
+                    ),
                   ),
                 ),
-                label: '',
+                label: 'Predictions',
               ),
             ],
           ),

@@ -1,3 +1,4 @@
+// ignore: unused_import
 import 'package:spotter/constant-widgets/constant_appbar.dart';
 import 'package:spotter/constant-widgets/constant_button.dart';
 import 'package:spotter/constant-widgets/constant_textfield.dart';
@@ -102,7 +103,26 @@ class _RegistrationFormViewState extends State<RegistrationFormView> {
 
     return SafeArea(
       child: Scaffold(
-        appBar: const ConstantAppBar(text: 'Report Crime'),
+        appBar: AppBar(
+          backgroundColor: const Color.fromARGB(255, 96, 125, 139),
+
+          elevation: 0.5,
+          leading: IconButton(
+            icon: const Icon(
+              Icons.arrow_back_ios,
+              color: Color.fromARGB(255, 250, 248, 248),
+            ),
+            onPressed: () => Get.offAll(() => BottomNavigationBarWidget()),
+          ),
+          centerTitle: true,
+          title: const Text(
+            'Report A Crime',
+            style: TextStyle(
+              fontWeight: FontWeight.bold,
+              color: Color.fromARGB(255, 248, 250, 250),
+            ),
+          ),
+        ),
         body: Padding(
           padding: EdgeInsets.symmetric(horizontal: 16.w, vertical: 12.h),
           child: SingleChildScrollView(
