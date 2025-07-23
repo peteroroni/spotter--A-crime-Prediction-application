@@ -3,12 +3,12 @@ import firebase_admin
 from firebase_admin import credentials, firestore
 
 # Step 1: Initialize Firebase Admin
-cred = credentials.Certificate("serviceAccountKey.json")
+cred = credentials.Certificate(".env/serviceAccountKey.json")
 firebase_admin.initialize_app(cred)
 db = firestore.client()
 
 # Step 2: Load CSV
-df = pd.read_csv("crimes.csv")
+df = pd.read_csv("2crimes.csv")
 
 # Optional: Parse/clean datetime
 df['datetime'] = pd.to_datetime(df['date'] + ' ' + df['time'], errors='coerce')

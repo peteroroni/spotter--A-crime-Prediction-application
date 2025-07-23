@@ -1,0 +1,940 @@
+location,lat,long,category,time,time_classification,date,description,reported
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,reckless driving,07:07,morning,2024-10-02,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku kuna mtu alichukua picha kwa kutumia simu.,no
+Juja Stage,-1.099,37.02,domestic violence,07:14,morning,2024-06-16,Nilishuhudia tukio hilo ambapo hakuna aliyekuwa tayari kuingilia kati wakati walionekana wakitumia panga na silaha nyingine.,no
+Juja Market,-1.096,37.0175,assault,22:36,night,2024-12-14,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.,no
+JKUAT hostels area,-1.09,37.012,kidnapping,01:41,night,2025-06-02,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio kuna mtu alichukua picha kwa kutumia simu.",no
+Juja City Mall,-1.095,37.0165,burglary,12:41,afternoon,2024-11-18,Kwa macho yangu mwenyewe niliona kwamba hakuna aliyekuwa tayari kuingilia kati wakati tukio lilivutia watu wengi waliokuwa wakipita.,no
+Juja Market,-1.096,37.0175,phone snatching,18:35,evening,2024-10-05,Nilishuhudia tukio hilo ambapo watu walipiga kelele wakitaka msaada huku tukio lilivutia watu wengi waliokuwa wakipita.,no
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,kidnapping,02:08,night,2025-05-03,"Wakati nilipokuwa karibu, niliona jinsi watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.",yes
+Highpoint,-1.1,37.015,fraud,22:51,night,2025-04-17,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku tukio lilivutia watu wengi waliokuwa wakipita.,no
+Juja Square,-1.098,37.019,reckless driving,15:45,afternoon,2024-06-07,"Nilipokuwa karibu na eneo hilo, niliona kuwa watu walipiga kelele wakitaka msaada huku tukio lilivutia watu wengi waliokuwa wakipita.",yes
+Cherry Park,-1.0948,37.0106,robbery,00:57,night,2024-11-09,"Nilipokuwa karibu na eneo hilo, niliona kuwa watu walipiga kelele wakitaka msaada huku tukio lilivutia watu wengi waliokuwa wakipita.",no
+Juja Market,-1.096,37.0175,armed robbery,04:29,night,2025-01-29,Mimi binafsi niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati walionekana wakitumia panga na silaha nyingine.,yes
+JKUAT Main Gate,-1.0925,37.011,traffic violations,07:29,morning,2025-03-14,"Nilipokuwa karibu na eneo hilo, niliona kuwa watu walipiga kelele wakitaka msaada huku kulikuwa na vilio na machafuko makubwa.",yes
+Gate C,-1.0922,37.0131,murder,06:48,morning,2024-10-19,Mimi binafsi niliona jinsi majirani walijaribu kuingilia kati lakini kulikuwa na vilio na machafuko makubwa.,no
+Juja Square,-1.098,37.019,reckless driving,22:24,night,2025-01-25,"Nilipokuwa karibu na eneo hilo, niliona kuwa hakuna aliyekuwa tayari kuingilia kati wakati tukio lilivutia watu wengi waliokuwa wakipita.",no
+JKUAT Main Gate,-1.0925,37.011,traffic violations,23:06,night,2024-11-07,Kwa macho yangu mwenyewe niliona kwamba mtuhumiwa alikimbilia upande wa polisi walifika baada ya dakika kadhaa.,no
+Juja Square,-1.098,37.019,armed robbery,16:29,afternoon,2024-08-13,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.,yes
+Cherry Park,-1.0948,37.0106,assault,17:53,evening,2025-06-14,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.,yes
+Juja Police Station,-1.0915,37.014,drug trafficking,11:41,morning,2025-02-20,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa kulikuwa na vilio na machafuko makubwa.,no
+Cherry Park,-1.0948,37.0106,robbery,20:44,evening,2025-02-20,"Nilipokuwa karibu na eneo hilo, niliona kuwa hakuna aliyekuwa tayari kuingilia kati wakati kuna mtu alichukua picha kwa kutumia simu.",no
+Highpoint,-1.1,37.015,sexual harrasment,19:28,evening,2025-06-16,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa kulikuwa na vilio na machafuko makubwa.,no
+Cherry Park,-1.0948,37.0106,kidnapping,23:17,night,2025-04-07,Kwa macho yangu mwenyewe niliona kwamba watu walipiga kelele wakitaka msaada huku tukio lilivutia watu wengi waliokuwa wakipita.,yes
+Juja Market,-1.096,37.0175,burglary,20:11,evening,2024-05-06,Nilishuhudia tukio hilo ambapo mhalifu alikimbia mara moja baada ya tukio kuna mtu alichukua picha kwa kutumia simu.,no
+Juja Square,-1.098,37.019,murder,18:05,evening,2025-07-11,Nilishuhudia tukio hilo ambapo mhalifu alikimbia mara moja baada ya tukio kuna mtu alichukua picha kwa kutumia simu.,yes
+Juja Stage,-1.099,37.02,drug trafficking,16:19,afternoon,2024-09-16,Mimi binafsi niliona jinsi majirani walijaribu kuingilia kati lakini kuna mtu alichukua picha kwa kutumia simu.,yes
+JKUAT Hospital,-1.0905,37.0119,drug possession,04:29,night,2024-05-10,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.,yes
+JKUAT Hospital,-1.0922,37.0131,drug possession,10:16,morning,2024-12-15,Nilishuhudia tukio hilo ambapo hakuna aliyekuwa tayari kuingilia kati wakati kulikuwa na vilio na machafuko makubwa.,yes
+JKUAT hostels area,-1.09,37.012,armed robbery,02:59,night,2024-10-06,Mimi binafsi niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati kulikuwa na vilio na machafuko makubwa.,yes
+Cherry Park,-1.0948,37.0106,burglary,12:16,afternoon,2024-05-08,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa kulikuwa na vilio na machafuko makubwa.,yes
+Gachororo,-1.0905,37.0119,sexual harrasment,02:34,night,2025-03-19,"Wakati nilipokuwa karibu, niliona jinsi majirani walijaribu kuingilia kati lakini kulikuwa na vilio na machafuko makubwa.",yes
+Juja City Mall,-1.095,37.0165,domestic violence,17:05,evening,2025-06-14,"Nilipokuwa karibu na eneo hilo, niliona kuwa mtuhumiwa alikimbilia upande wa kuna mtu alichukua picha kwa kutumia simu.",no
+Juja Market,-1.096,37.0175,drug possession,23:27,night,2024-06-21,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.",yes
+Juja Square,-1.098,37.019,murder,16:52,afternoon,2025-03-21,"Wakati nilipokuwa karibu, niliona jinsi majirani walijaribu kuingilia kati lakini walionekana wakitumia panga na silaha nyingine.",no
+Cherry Park,-1.0948,37.0106,burglary,10:06,morning,2025-03-03,"Wakati nilipokuwa karibu, niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati kuna mtu alichukua picha kwa kutumia simu.",no
+Juja Stage,-1.099,37.02,phone snatching,16:32,afternoon,2025-01-01,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.,no
+Juja Market,-1.096,37.0175,drug possession,02:22,night,2025-04-15,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.,yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,fraud,15:43,afternoon,2025-07-10,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa walionekana wakitumia panga na silaha nyingine.,yes
+JKUAT Main Gate,-1.0925,37.011,drug trafficking,20:06,evening,2025-05-27,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio tukio lilivutia watu wengi waliokuwa wakipita.",yes
+Gachororo,-1.0905,37.0119,murder,10:17,morning,2024-10-31,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.,yes
+Gate C,-1.0922,37.0131,kidnapping,01:19,night,2025-02-02,Nilishuhudia tukio hilo ambapo watu walipiga kelele wakitaka msaada huku tukio lilivutia watu wengi waliokuwa wakipita.,yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,traffic violations,13:35,afternoon,2025-03-21,"Nilipokuwa karibu na eneo hilo, niliona kuwa mtuhumiwa alikimbilia upande wa kuna mtu alichukua picha kwa kutumia simu.",yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,domestic violence,01:24,night,2025-04-17,Kwa macho yangu mwenyewe niliona kwamba watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.,yes
+Juja Stage,-1.099,37.02,domestic violence,13:50,afternoon,2024-06-10,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.,yes
+Gate B,-1.0932,37.0125,traffic violations,11:53,morning,2024-09-06,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku tukio lilivutia watu wengi waliokuwa wakipita.,no
+JKUAT Hospital,-1.0915,37.014,drug trafficking,11:41,morning,2025-02-20,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa kulikuwa na vilio na machafuko makubwa.,no
+Gate C,-1.0922,37.0131,traffic violations,08:55,morning,2025-01-01,Mimi binafsi niliona jinsi mtuhumiwa alikimbilia upande wa kulikuwa na vilio na machafuko makubwa.,yes
+JKUAT Enterprises LTD.,-1.0915,37.014,armed robbery,04:40,night,2024-06-11,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini kuna mtu alichukua picha kwa kutumia simu.,no
+Gachororo,-1.0905,37.0119,burglary,09:24,morning,2025-03-31,"Wakati nilipokuwa karibu, niliona jinsi watu walipiga kelele wakitaka msaada huku walionekana wakitumia panga na silaha nyingine.",yes
+JKUAT Enterprises LTD.,-1.0915,37.014,assault,04:59,night,2024-10-23,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa kuna mtu alichukua picha kwa kutumia simu.,yes
+JKUAT Hospital,-1.1,37.015,drug possession,18:56,evening,2024-06-27,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku tukio lilivutia watu wengi waliokuwa wakipita.,yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,reckless driving,06:24,morning,2024-06-15,"Nilipokuwa karibu na eneo hilo, niliona kuwa hakuna aliyekuwa tayari kuingilia kati wakati kulikuwa na vilio na machafuko makubwa.",yes
+Juja Stage,-1.099,37.02,battery,05:05,night,2025-03-13,Mimi binafsi niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati kuna mtu alichukua picha kwa kutumia simu.,no
+JKUAT Hospital,-1.098,37.019,drug possession,06:00,morning,2024-12-06,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku kuna mtu alichukua picha kwa kutumia simu.,yes
+JKUAT Main Gate,-1.0925,37.011,fraud,21:42,night,2024-11-17,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.",yes
+Gachororo,-1.0905,37.0119,phone snatching,05:48,night,2024-08-15,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.,yes
+Juja Market,-1.096,37.0175,armed robbery,08:31,morning,2025-05-06,"Wakati nilipokuwa karibu, niliona jinsi mtuhumiwa alikimbilia upande wa walionekana wakitumia panga na silaha nyingine.",yes
+Juja Police Station,-1.099,37.02,drug trafficking,02:52,night,2024-12-21,Kwa macho yangu mwenyewe niliona kwamba hakuna aliyekuwa tayari kuingilia kati wakati kuna mtu alichukua picha kwa kutumia simu.,no
+Gate B,-1.0932,37.0125,fraud,22:52,night,2024-07-29,Kwa macho yangu mwenyewe niliona kwamba hakuna aliyekuwa tayari kuingilia kati wakati tukio lilivutia watu wengi waliokuwa wakipita.,no
+JKUAT Main Gate,-1.0925,37.011,armed robbery,07:21,morning,2024-07-31,"Nilipokuwa karibu na eneo hilo, niliona kuwa majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.",no
+Juja Market,-1.096,37.0175,domestic violence,01:43,night,2025-02-10,Nilishuhudia tukio hilo ambapo hakuna aliyekuwa tayari kuingilia kati wakati polisi walifika baada ya dakika kadhaa.,no
+JKUAT Main Gate,-1.0925,37.011,fraud,09:06,morning,2024-11-27,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku walionekana wakitumia panga na silaha nyingine.,yes
+Gate B,-1.0932,37.0125,reckless driving,15:37,afternoon,2024-05-08,Kwa macho yangu mwenyewe niliona kwamba hakuna aliyekuwa tayari kuingilia kati wakati kuna mtu alichukua picha kwa kutumia simu.,yes
+JKUAT hostels area,-1.09,37.012,drug trafficking,02:13,night,2025-01-22,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa polisi walifika baada ya dakika kadhaa.,yes
+JKUAT Main Gate,-1.0925,37.011,assault,22:38,night,2025-07-14,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.,no
+Gachororo,-1.0905,37.0119,reckless driving,11:13,morning,2024-05-16,Nilishuhudia tukio hilo ambapo mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.,no
+Gachororo,-1.0905,37.0119,murder,14:29,afternoon,2025-01-02,Nilishuhudia tukio hilo ambapo hakuna aliyekuwa tayari kuingilia kati wakati kuna mtu alichukua picha kwa kutumia simu.,yes
+Cherry Park,-1.0948,37.0106,burglary,21:45,night,2025-02-22,Mimi binafsi niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati kuna mtu alichukua picha kwa kutumia simu.,no
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,drug possession,14:38,afternoon,2025-05-27,Kwa macho yangu mwenyewe niliona kwamba hakuna aliyekuwa tayari kuingilia kati wakati walionekana wakitumia panga na silaha nyingine.,yes
+JKUAT Enterprises LTD.,-1.0915,37.014,drug possession,19:57,evening,2024-06-20,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.,yes
+Highpoint,-1.1,37.015,drug possession,01:08,night,2024-05-14,"Wakati nilipokuwa karibu, niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati walionekana wakitumia panga na silaha nyingine.",yes
+JKUAT Main Gate,-1.0925,37.011,armed robbery,17:48,evening,2025-02-16,Kwa macho yangu mwenyewe niliona kwamba hakuna aliyekuwa tayari kuingilia kati wakati walionekana wakitumia panga na silaha nyingine.,no
+Gate B,-1.0932,37.0125,drug possession,07:40,morning,2024-06-10,"Wakati nilipokuwa karibu, niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati polisi walifika baada ya dakika kadhaa.",yes
+Juja City Mall,-1.095,37.0165,assault,16:37,afternoon,2024-08-01,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa kuna mtu alichukua picha kwa kutumia simu.,no
+JKUAT Main Gate,-1.0925,37.011,reckless driving,18:23,evening,2024-10-11,"Wakati nilipokuwa karibu, niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati polisi walifika baada ya dakika kadhaa.",yes
+Juja Police Station,-1.0922,37.0131,assault,04:06,night,2024-11-23,Nilishuhudia tukio hilo ambapo mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.,yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,robbery,21:54,night,2025-06-05,"Nilipokuwa karibu na eneo hilo, niliona kuwa mtuhumiwa alikimbilia upande wa walionekana wakitumia panga na silaha nyingine.",yes
+Juja Square,-1.098,37.019,murder,18:29,evening,2024-10-04,"Nilipokuwa karibu na eneo hilo, niliona kuwa mtuhumiwa alikimbilia upande wa polisi walifika baada ya dakika kadhaa.",yes
+Juja Market,-1.096,37.0175,battery,22:37,night,2024-12-13,"Nilipokuwa karibu na eneo hilo, niliona kuwa watu walipiga kelele wakitaka msaada huku kulikuwa na vilio na machafuko makubwa.",yes
+Gachororo,-1.0905,37.0119,reckless driving,05:45,night,2024-09-15,Mimi binafsi niliona jinsi mtuhumiwa alikimbilia upande wa tukio lilivutia watu wengi waliokuwa wakipita.,no
+Gachororo,-1.0905,37.0119,armed robbery,12:27,afternoon,2024-11-10,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa tukio lilivutia watu wengi waliokuwa wakipita.,no
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,phone snatching,03:57,night,2025-05-03,"Nilipokuwa karibu na eneo hilo, niliona kuwa hakuna aliyekuwa tayari kuingilia kati wakati kulikuwa na vilio na machafuko makubwa.",no
+Gate B,-1.0932,37.0125,robbery,17:25,evening,2025-02-14,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.,no
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,murder,18:54,evening,2025-07-09,Nilishuhudia tukio hilo ambapo watu walipiga kelele wakitaka msaada huku kuna mtu alichukua picha kwa kutumia simu.,no
+Juja Police Station,-1.09,37.012,assault,07:46,morning,2024-09-12,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa kulikuwa na vilio na machafuko makubwa.,yes
+JKUAT Enterprises LTD.,-1.0915,37.014,fraud,06:05,morning,2025-03-05,Nilishuhudia tukio hilo ambapo mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.,no
+JKUAT Enterprises LTD.,-1.0915,37.014,drug trafficking,04:04,night,2024-05-10,Kwa macho yangu mwenyewe niliona kwamba mtuhumiwa alikimbilia upande wa polisi walifika baada ya dakika kadhaa.,no
+JKUAT Main Gate,-1.0925,37.011,traffic violations,13:34,afternoon,2024-08-27,Nilishuhudia tukio hilo ambapo mhalifu alikimbia mara moja baada ya tukio kuna mtu alichukua picha kwa kutumia simu.,yes
+Gachororo,-1.0905,37.0119,kidnapping,13:46,afternoon,2025-05-20,Mimi binafsi niliona jinsi majirani walijaribu kuingilia kati lakini kulikuwa na vilio na machafuko makubwa.,yes
+Juja Square,-1.098,37.019,reckless driving,19:07,evening,2024-08-23,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.,no
+Gate C,-1.0922,37.0131,fraud,07:05,morning,2024-07-15,"Wakati nilipokuwa karibu, niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati polisi walifika baada ya dakika kadhaa.",yes
+Gate B,-1.0932,37.0125,reckless driving,06:52,morning,2025-05-12,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini kulikuwa na vilio na machafuko makubwa.,no
+JKUAT Enterprises LTD.,-1.0915,37.014,reckless driving,10:11,morning,2024-06-13,Kwa macho yangu mwenyewe niliona kwamba mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.,yes
+JKUAT Main Gate,-1.0925,37.011,burglary,05:10,night,2025-03-30,Nilishuhudia tukio hilo ambapo mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.,no
+JKUAT hostels area,-1.09,37.012,battery,10:32,morning,2024-12-28,Kwa macho yangu mwenyewe niliona kwamba watu walipiga kelele wakitaka msaada huku tukio lilivutia watu wengi waliokuwa wakipita.,yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,drug trafficking,11:26,morning,2024-11-22,"Nilipokuwa karibu na eneo hilo, niliona kuwa hakuna aliyekuwa tayari kuingilia kati wakati walionekana wakitumia panga na silaha nyingine.",yes
+Juja Stage,-1.099,37.02,sexual harrasment,00:04,night,2024-12-15,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.",no
+Gate B,-1.0932,37.0125,drug trafficking,09:48,morning,2025-01-29,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku kuna mtu alichukua picha kwa kutumia simu.,yes
+JKUAT hostels area,-1.09,37.012,fraud,01:28,night,2025-01-29,"Nilipokuwa karibu na eneo hilo, niliona kuwa mtuhumiwa alikimbilia upande wa walionekana wakitumia panga na silaha nyingine.",yes
+JKUAT Enterprises LTD.,-1.0915,37.014,drug trafficking,20:59,evening,2024-06-17,"Nilipokuwa karibu na eneo hilo, niliona kuwa watu walipiga kelele wakitaka msaada huku kulikuwa na vilio na machafuko makubwa.",yes
+Gachororo,-1.0905,37.0119,traffic violations,13:37,afternoon,2024-06-03,"Nilipokuwa karibu na eneo hilo, niliona kuwa watu walipiga kelele wakitaka msaada huku kulikuwa na vilio na machafuko makubwa.",no
+JKUAT Hospital,-1.0948,37.0106,drug trafficking,03:48,night,2024-09-20,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.",no
+Gate C,-1.0922,37.0131,battery,07:10,morning,2024-10-27,"Wakati nilipokuwa karibu, niliona jinsi watu walipiga kelele wakitaka msaada huku kulikuwa na vilio na machafuko makubwa.",yes
+Cherry Park,-1.0948,37.0106,drug possession,16:41,afternoon,2024-06-11,Kwa macho yangu mwenyewe niliona kwamba watu walipiga kelele wakitaka msaada huku kulikuwa na vilio na machafuko makubwa.,yes
+Gachororo,-1.0905,37.0119,reckless driving,15:33,afternoon,2024-06-22,Kwa macho yangu mwenyewe niliona kwamba mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.,no
+JKUAT Main Gate,-1.0925,37.011,sexual harrasment,19:51,evening,2024-12-30,"Nilipokuwa karibu na eneo hilo, niliona kuwa majirani walijaribu kuingilia kati lakini kulikuwa na vilio na machafuko makubwa.",yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,reckless driving,12:37,afternoon,2024-11-29,"Wakati nilipokuwa karibu, niliona jinsi watu walipiga kelele wakitaka msaada huku walionekana wakitumia panga na silaha nyingine.",yes
+Cherry Park,-1.0948,37.0106,drug possession,21:17,night,2025-01-01,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa polisi walifika baada ya dakika kadhaa.,no
+JKUAT Hospital,-1.0915,37.014,drug possession,04:59,night,2025-05-08,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.,no
+Juja Market,-1.096,37.0175,kidnapping,08:05,morning,2024-12-26,Mimi binafsi niliona jinsi majirani walijaribu kuingilia kati lakini kulikuwa na vilio na machafuko makubwa.,yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,robbery,21:27,night,2024-08-03,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa tukio lilivutia watu wengi waliokuwa wakipita.,yes
+Gate B,-1.0932,37.0125,battery,12:33,afternoon,2024-10-16,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio tukio lilivutia watu wengi waliokuwa wakipita.",no
+Cherry Park,-1.0948,37.0106,fraud,00:42,night,2025-07-09,Kwa macho yangu mwenyewe niliona kwamba mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.,yes
+Juja Square,-1.098,37.019,drug trafficking,08:38,morning,2024-07-14,Nilishuhudia tukio hilo ambapo hakuna aliyekuwa tayari kuingilia kati wakati polisi walifika baada ya dakika kadhaa.,yes
+Juja Police Station,-1.0915,37.014,drug possession,04:59,night,2025-05-08,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.,no
+Gate B,-1.0932,37.0125,phone snatching,12:16,afternoon,2025-03-18,"Nilipokuwa karibu na eneo hilo, niliona kuwa watu walipiga kelele wakitaka msaada huku kulikuwa na vilio na machafuko makubwa.",no
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,assault,23:59,night,2025-04-18,Kwa macho yangu mwenyewe niliona kwamba mhalifu alikimbia mara moja baada ya tukio kuna mtu alichukua picha kwa kutumia simu.,no
+JKUAT Enterprises LTD.,-1.0915,37.014,drug trafficking,05:03,night,2025-04-16,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa walionekana wakitumia panga na silaha nyingine.,no
+Gachororo,-1.0905,37.0119,sexual harrasment,01:16,night,2025-02-12,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.",yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,assault,02:36,night,2024-05-08,"Wakati nilipokuwa karibu, niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati tukio lilivutia watu wengi waliokuwa wakipita.",yes
+Highpoint,-1.1,37.015,fraud,03:16,night,2025-06-14,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku walionekana wakitumia panga na silaha nyingine.,yes
+Juja Market,-1.096,37.0175,phone snatching,18:47,evening,2025-01-06,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini kulikuwa na vilio na machafuko makubwa.,yes
+JKUAT hostels area,-1.09,37.012,assault,17:42,evening,2024-11-09,Nilishuhudia tukio hilo ambapo mhalifu alikimbia mara moja baada ya tukio tukio lilivutia watu wengi waliokuwa wakipita.,yes
+Juja City Mall,-1.095,37.0165,robbery,14:46,afternoon,2025-04-30,"Wakati nilipokuwa karibu, niliona jinsi mtuhumiwa alikimbilia upande wa walionekana wakitumia panga na silaha nyingine.",yes
+JKUAT Main Gate,-1.0925,37.011,kidnapping,02:45,night,2024-07-07,Mimi binafsi niliona jinsi mtuhumiwa alikimbilia upande wa walionekana wakitumia panga na silaha nyingine.,no
+Gate C,-1.0922,37.0131,robbery,00:02,night,2024-11-14,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.,no
+Highpoint,-1.1,37.015,kidnapping,15:47,afternoon,2025-01-17,Kwa macho yangu mwenyewe niliona kwamba hakuna aliyekuwa tayari kuingilia kati wakati tukio lilivutia watu wengi waliokuwa wakipita.,yes
+JKUAT Hospital,-1.1,37.015,drug possession,23:07,night,2024-08-02,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio tukio lilivutia watu wengi waliokuwa wakipita.",yes
+Gate C,-1.0922,37.0131,traffic violations,08:25,morning,2024-07-12,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa walionekana wakitumia panga na silaha nyingine.,no
+Juja Square,-1.098,37.019,phone snatching,11:32,morning,2025-02-09,"Nilipokuwa karibu na eneo hilo, niliona kuwa majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.",yes
+Juja Stage,-1.099,37.02,assault,05:32,night,2024-06-30,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini kulikuwa na vilio na machafuko makubwa.,no
+JKUAT Enterprises LTD.,-1.0915,37.014,drug possession,03:50,night,2024-08-13,Nilishuhudia tukio hilo ambapo watu walipiga kelele wakitaka msaada huku kuna mtu alichukua picha kwa kutumia simu.,no
+JKUAT Main Gate,-1.0925,37.011,assault,02:28,night,2024-11-13,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio tukio lilivutia watu wengi waliokuwa wakipita.",no
+JKUAT Main Gate,-1.0925,37.011,murder,08:42,morning,2024-06-27,"Wakati nilipokuwa karibu, niliona jinsi mtuhumiwa alikimbilia upande wa kulikuwa na vilio na machafuko makubwa.",yes
+Highpoint,-1.1,37.015,domestic violence,15:04,afternoon,2024-06-12,"Wakati nilipokuwa karibu, niliona jinsi majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.",no
+Cherry Park,-1.0948,37.0106,phone snatching,20:30,evening,2025-04-20,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini kulikuwa na vilio na machafuko makubwa.,yes
+Gate C,-1.0922,37.0131,assault,04:06,night,2024-11-23,Nilishuhudia tukio hilo ambapo mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.,yes
+Highpoint,-1.1,37.015,murder,07:45,morning,2025-04-28,Mimi binafsi niliona jinsi majirani walijaribu kuingilia kati lakini walionekana wakitumia panga na silaha nyingine.,yes
+Gate B,-1.0932,37.0125,kidnapping,08:46,morning,2024-08-11,"Nilipokuwa karibu na eneo hilo, niliona kuwa majirani walijaribu kuingilia kati lakini kulikuwa na vilio na machafuko makubwa.",yes
+JKUAT hostels area,-1.09,37.012,kidnapping,13:19,afternoon,2025-01-09,"Wakati nilipokuwa karibu, niliona jinsi majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.",yes
+Gachororo,-1.0905,37.0119,sexual harrasment,10:14,morning,2024-06-18,Kwa macho yangu mwenyewe niliona kwamba hakuna aliyekuwa tayari kuingilia kati wakati kulikuwa na vilio na machafuko makubwa.,no
+Cherry Park,-1.0948,37.0106,burglary,00:47,night,2025-03-01,Kwa macho yangu mwenyewe niliona kwamba hakuna aliyekuwa tayari kuingilia kati wakati kuna mtu alichukua picha kwa kutumia simu.,no
+JKUAT Main Gate,-1.0925,37.011,drug trafficking,19:30,evening,2024-07-24,Mimi binafsi niliona jinsi majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.,no
+Cherry Park,-1.0948,37.0106,drug trafficking,12:05,afternoon,2024-11-30,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.",yes
+Gachororo,-1.0905,37.0119,traffic violations,10:11,morning,2025-04-29,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa polisi walifika baada ya dakika kadhaa.,no
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,domestic violence,02:18,night,2025-01-15,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio kuna mtu alichukua picha kwa kutumia simu.",no
+Juja City Mall,-1.095,37.0165,burglary,10:35,morning,2024-07-19,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio tukio lilivutia watu wengi waliokuwa wakipita.",yes
+Highpoint,-1.1,37.015,sexual harrasment,00:20,night,2025-05-16,Kwa macho yangu mwenyewe niliona kwamba mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.,no
+Juja Police Station,-1.0922,37.0131,drug possession,20:02,evening,2024-09-07,Nilishuhudia tukio hilo ambapo watu walipiga kelele wakitaka msaada huku tukio lilivutia watu wengi waliokuwa wakipita.,yes
+JKUAT Enterprises LTD.,-1.0915,37.014,traffic violations,22:59,night,2024-05-02,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.,yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,sexual harrasment,22:53,night,2024-11-15,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.",yes
+Juja City Mall,-1.095,37.0165,drug possession,18:23,evening,2024-10-25,"Wakati nilipokuwa karibu, niliona jinsi watu walipiga kelele wakitaka msaada huku kulikuwa na vilio na machafuko makubwa.",no
+Cherry Park,-1.0948,37.0106,robbery,02:06,night,2024-06-03,Mimi binafsi niliona jinsi majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.,yes
+Highpoint,-1.1,37.015,fraud,03:55,night,2024-12-20,Nilishuhudia tukio hilo ambapo hakuna aliyekuwa tayari kuingilia kati wakati polisi walifika baada ya dakika kadhaa.,no
+Juja Market,-1.096,37.0175,drug possession,11:21,morning,2024-09-12,Kwa macho yangu mwenyewe niliona kwamba mtuhumiwa alikimbilia upande wa tukio lilivutia watu wengi waliokuwa wakipita.,no
+Juja Square,-1.098,37.019,armed robbery,02:31,night,2024-06-18,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini kulikuwa na vilio na machafuko makubwa.,yes
+Cherry Park,-1.0948,37.0106,battery,22:51,night,2024-06-06,Mimi binafsi niliona jinsi mtuhumiwa alikimbilia upande wa kuna mtu alichukua picha kwa kutumia simu.,no
+Juja City Mall,-1.095,37.0165,robbery,04:07,night,2024-05-28,"Nilipokuwa karibu na eneo hilo, niliona kuwa majirani walijaribu kuingilia kati lakini kulikuwa na vilio na machafuko makubwa.",yes
+Highpoint,-1.1,37.015,drug trafficking,05:10,night,2025-06-07,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.,yes
+JKUAT Main Gate,-1.0925,37.011,domestic violence,01:39,night,2024-06-13,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku walionekana wakitumia panga na silaha nyingine.,yes
+Juja Square,-1.098,37.019,murder,07:23,morning,2025-06-29,"Nilipokuwa karibu na eneo hilo, niliona kuwa hakuna aliyekuwa tayari kuingilia kati wakati walionekana wakitumia panga na silaha nyingine.",no
+Juja Square,-1.098,37.019,murder,12:42,afternoon,2024-09-20,Kwa macho yangu mwenyewe niliona kwamba watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.,yes
+Juja Stage,-1.099,37.02,traffic violations,07:18,morning,2024-07-21,"Nilipokuwa karibu na eneo hilo, niliona kuwa watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.",no
+JKUAT hostels area,-1.09,37.012,burglary,03:41,night,2024-09-04,Nilishuhudia tukio hilo ambapo watu walipiga kelele wakitaka msaada huku walionekana wakitumia panga na silaha nyingine.,no
+JKUAT Hospital,-1.0922,37.0131,drug trafficking,00:06,night,2024-07-25,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.",no
+Gate B,-1.0932,37.0125,fraud,04:52,night,2024-11-02,"Wakati nilipokuwa karibu, niliona jinsi watu walipiga kelele wakitaka msaada huku kuna mtu alichukua picha kwa kutumia simu.",yes
+Juja City Mall,-1.095,37.0165,kidnapping,03:40,night,2024-09-22,"Nilipokuwa karibu na eneo hilo, niliona kuwa mtuhumiwa alikimbilia upande wa kulikuwa na vilio na machafuko makubwa.",yes
+Juja Stage,-1.099,37.02,reckless driving,22:38,night,2025-02-05,"Nilipokuwa karibu na eneo hilo, niliona kuwa hakuna aliyekuwa tayari kuingilia kati wakati polisi walifika baada ya dakika kadhaa.",no
+Highpoint,-1.1,37.015,assault,05:03,night,2025-02-26,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa polisi walifika baada ya dakika kadhaa.,no
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,drug trafficking,17:07,evening,2025-01-30,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.,yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,burglary,02:45,night,2024-12-04,Kwa macho yangu mwenyewe niliona kwamba hakuna aliyekuwa tayari kuingilia kati wakati kulikuwa na vilio na machafuko makubwa.,yes
+JKUAT Main Gate,-1.0925,37.011,sexual harrasment,15:54,afternoon,2024-11-15,Kwa macho yangu mwenyewe niliona kwamba watu walipiga kelele wakitaka msaada huku kulikuwa na vilio na machafuko makubwa.,yes
+Gate B,-1.0932,37.0125,armed robbery,23:40,night,2025-03-10,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini kuna mtu alichukua picha kwa kutumia simu.,no
+JKUAT Enterprises LTD.,-1.0915,37.014,reckless driving,04:03,night,2025-02-15,"Wakati nilipokuwa karibu, niliona jinsi watu walipiga kelele wakitaka msaada huku kuna mtu alichukua picha kwa kutumia simu.",no
+JKUAT hostels area,-1.09,37.012,battery,21:32,night,2024-12-27,Mimi binafsi niliona jinsi mtuhumiwa alikimbilia upande wa kuna mtu alichukua picha kwa kutumia simu.,yes
+Juja Police Station,-1.0932,37.0125,assault,23:07,night,2024-09-17,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa tukio lilivutia watu wengi waliokuwa wakipita.,no
+Gate C,-1.0922,37.0131,traffic violations,22:11,night,2025-04-29,Kwa macho yangu mwenyewe niliona kwamba watu walipiga kelele wakitaka msaada huku walionekana wakitumia panga na silaha nyingine.,no
+JKUAT Hospital,-1.097,37.018,drug possession,06:39,morning,2024-12-01,Mimi binafsi niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati walionekana wakitumia panga na silaha nyingine.,no
+Juja Stage,-1.099,37.02,sexual harrasment,21:31,night,2024-11-04,"Nilipokuwa karibu na eneo hilo, niliona kuwa majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.",no
+Juja Market,-1.096,37.0175,battery,17:51,evening,2025-06-16,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.",no
+JKUAT Hospital,-1.093,37.0155,assault,03:01,night,2024-05-17,Kwa macho yangu mwenyewe niliona kwamba mhalifu alikimbia mara moja baada ya tukio kuna mtu alichukua picha kwa kutumia simu.,yes
+Highpoint,-1.1,37.015,fraud,02:25,night,2024-08-30,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini kuna mtu alichukua picha kwa kutumia simu.,no
+JKUAT hostels area,-1.09,37.012,armed robbery,00:25,night,2025-06-30,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini kulikuwa na vilio na machafuko makubwa.,yes
+Gachororo,-1.0905,37.0119,drug trafficking,06:09,morning,2025-06-22,"Wakati nilipokuwa karibu, niliona jinsi mtuhumiwa alikimbilia upande wa kulikuwa na vilio na machafuko makubwa.",yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,battery,23:38,night,2024-10-19,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini kuna mtu alichukua picha kwa kutumia simu.,no
+Gate C,-1.0922,37.0131,drug trafficking,12:03,afternoon,2025-06-17,"Wakati nilipokuwa karibu, niliona jinsi majirani walijaribu kuingilia kati lakini kulikuwa na vilio na machafuko makubwa.",no
+Highpoint,-1.1,37.015,kidnapping,05:42,night,2024-07-23,Kwa macho yangu mwenyewe niliona kwamba hakuna aliyekuwa tayari kuingilia kati wakati polisi walifika baada ya dakika kadhaa.,yes
+JKUAT Enterprises LTD.,-1.0915,37.014,kidnapping,10:17,morning,2025-02-07,Nilishuhudia tukio hilo ambapo hakuna aliyekuwa tayari kuingilia kati wakati kulikuwa na vilio na machafuko makubwa.,yes
+Juja Police Station,-1.091,37.0135,drug possession,03:32,night,2025-03-22,Kwa macho yangu mwenyewe niliona kwamba mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.,yes
+Juja Square,-1.098,37.019,drug possession,22:21,night,2024-05-07,"Nilipokuwa karibu na eneo hilo, niliona kuwa watu walipiga kelele wakitaka msaada huku kulikuwa na vilio na machafuko makubwa.",no
+Highpoint,-1.1,37.015,fraud,18:47,evening,2025-04-13,Kwa macho yangu mwenyewe niliona kwamba watu walipiga kelele wakitaka msaada huku kuna mtu alichukua picha kwa kutumia simu.,yes
+Gate C,-1.0922,37.0131,sexual harrasment,16:04,afternoon,2024-07-08,Mimi binafsi niliona jinsi majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.,yes
+Gachororo,-1.0905,37.0119,battery,00:31,night,2024-12-30,Mimi binafsi niliona jinsi majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.,no
+Juja City Mall,-1.095,37.0165,sexual harrasment,03:42,night,2024-07-21,Mimi binafsi niliona jinsi mtuhumiwa alikimbilia upande wa walionekana wakitumia panga na silaha nyingine.,yes
+Gate B,-1.0932,37.0125,phone snatching,17:12,evening,2024-12-19,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.",no
+Juja Square,-1.098,37.019,traffic violations,15:09,afternoon,2024-11-03,"Wakati nilipokuwa karibu, niliona jinsi majirani walijaribu kuingilia kati lakini walionekana wakitumia panga na silaha nyingine.",yes
+JKUAT Main Gate,-1.0925,37.011,phone snatching,10:37,morning,2024-06-12,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku kuna mtu alichukua picha kwa kutumia simu.,no
+Gate B,-1.0932,37.0125,murder,02:03,night,2025-01-28,Kwa macho yangu mwenyewe niliona kwamba mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.,no
+Juja Square,-1.098,37.019,reckless driving,21:25,night,2025-01-21,Kwa macho yangu mwenyewe niliona kwamba hakuna aliyekuwa tayari kuingilia kati wakati polisi walifika baada ya dakika kadhaa.,yes
+Highpoint,-1.1,37.015,traffic violations,02:47,night,2024-10-17,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku kuna mtu alichukua picha kwa kutumia simu.,no
+JKUAT Main Gate,-1.0925,37.011,assault,02:22,night,2025-01-05,"Nilipokuwa karibu na eneo hilo, niliona kuwa hakuna aliyekuwa tayari kuingilia kati wakati walionekana wakitumia panga na silaha nyingine.",yes
+JKUAT Hospital,-1.091,37.0135,drug possession,05:38,night,2025-02-16,Nilishuhudia tukio hilo ambapo hakuna aliyekuwa tayari kuingilia kati wakati polisi walifika baada ya dakika kadhaa.,no
+Juja Police Station,-1.093,37.0155,drug possession,21:08,night,2024-11-26,"Nilipokuwa karibu na eneo hilo, niliona kuwa watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.",yes
+Cherry Park,-1.0948,37.0106,armed robbery,20:01,evening,2025-02-07,"Wakati nilipokuwa karibu, niliona jinsi mtuhumiwa alikimbilia upande wa walionekana wakitumia panga na silaha nyingine.",no
+Juja City Mall,-1.095,37.0165,reckless driving,22:03,night,2024-12-13,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku kulikuwa na vilio na machafuko makubwa.,no
+Cherry Park,-1.0948,37.0106,drug trafficking,20:09,evening,2024-10-24,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini kuna mtu alichukua picha kwa kutumia simu.,no
+Gate C,-1.0922,37.0131,drug trafficking,01:13,night,2025-06-20,"Nilipokuwa karibu na eneo hilo, niliona kuwa watu walipiga kelele wakitaka msaada huku kulikuwa na vilio na machafuko makubwa.",no
+Gate B,-1.0932,37.0125,reckless driving,10:43,morning,2025-05-16,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.",no
+Gate B,-1.0932,37.0125,burglary,00:25,night,2024-11-29,Nilishuhudia tukio hilo ambapo mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.,yes
+Juja Police Station,-1.098,37.019,drug possession,06:00,morning,2024-12-06,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku kuna mtu alichukua picha kwa kutumia simu.,yes
+JKUAT hostels area,-1.09,37.012,fraud,10:50,morning,2025-05-04,"Nilipokuwa karibu na eneo hilo, niliona kuwa mtuhumiwa alikimbilia upande wa tukio lilivutia watu wengi waliokuwa wakipita.",yes
+Juja City Mall,-1.095,37.0165,fraud,01:59,night,2024-12-08,"Nilipokuwa karibu na eneo hilo, niliona kuwa majirani walijaribu kuingilia kati lakini kuna mtu alichukua picha kwa kutumia simu.",no
+Juja City Mall,-1.095,37.0165,armed robbery,21:18,night,2024-09-02,"Wakati nilipokuwa karibu, niliona jinsi majirani walijaribu kuingilia kati lakini kuna mtu alichukua picha kwa kutumia simu.",yes
+Juja Square,-1.098,37.019,reckless driving,23:42,night,2024-06-07,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.",no
+Cherry Park,-1.0948,37.0106,sexual harrasment,00:38,night,2024-05-02,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.,yes
+JKUAT Enterprises LTD.,-1.0915,37.014,reckless driving,02:38,night,2024-08-07,"Wakati nilipokuwa karibu, niliona jinsi watu walipiga kelele wakitaka msaada huku kulikuwa na vilio na machafuko makubwa.",no
+Juja Market,-1.096,37.0175,armed robbery,08:35,morning,2024-05-23,Kwa macho yangu mwenyewe niliona kwamba hakuna aliyekuwa tayari kuingilia kati wakati kuna mtu alichukua picha kwa kutumia simu.,no
+Cherry Park,-1.0948,37.0106,armed robbery,08:54,morning,2024-08-03,"Nilipokuwa karibu na eneo hilo, niliona kuwa hakuna aliyekuwa tayari kuingilia kati wakati walionekana wakitumia panga na silaha nyingine.",yes
+Juja Stage,-1.099,37.02,armed robbery,23:21,night,2024-05-25,"Nilipokuwa karibu na eneo hilo, niliona kuwa majirani walijaribu kuingilia kati lakini kulikuwa na vilio na machafuko makubwa.",yes
+JKUAT Hospital,-1.098,37.019,drug possession,08:08,morning,2025-05-19,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.",yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,drug trafficking,21:08,night,2025-04-22,"Nilipokuwa karibu na eneo hilo, niliona kuwa hakuna aliyekuwa tayari kuingilia kati wakati walionekana wakitumia panga na silaha nyingine.",no
+Gate B,-1.0932,37.0125,robbery,03:03,night,2024-06-13,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini kuna mtu alichukua picha kwa kutumia simu.,no
+Juja Stage,-1.099,37.02,drug possession,11:19,morning,2025-01-13,"Nilipokuwa karibu na eneo hilo, niliona kuwa watu walipiga kelele wakitaka msaada huku walionekana wakitumia panga na silaha nyingine.",no
+JKUAT Enterprises LTD.,-1.0915,37.014,drug possession,13:49,afternoon,2025-03-09,Mimi binafsi niliona jinsi mtuhumiwa alikimbilia upande wa tukio lilivutia watu wengi waliokuwa wakipita.,no
+Gate B,-1.0932,37.0125,fraud,07:20,morning,2025-01-12,Kwa macho yangu mwenyewe niliona kwamba mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.,yes
+Gachororo,-1.0905,37.0119,fraud,06:31,morning,2025-05-20,"Wakati nilipokuwa karibu, niliona jinsi mtuhumiwa alikimbilia upande wa kulikuwa na vilio na machafuko makubwa.",yes
+JKUAT Hospital,-1.097,37.018,drug trafficking,14:01,afternoon,2025-06-19,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.,yes
+JKUAT hostels area,-1.09,37.012,armed robbery,01:24,night,2024-11-15,"Wakati nilipokuwa karibu, niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati kulikuwa na vilio na machafuko makubwa.",yes
+JKUAT Main Gate,-1.0925,37.011,sexual harrasment,20:56,evening,2025-02-04,Kwa macho yangu mwenyewe niliona kwamba hakuna aliyekuwa tayari kuingilia kati wakati tukio lilivutia watu wengi waliokuwa wakipita.,no
+Juja City Mall,-1.095,37.0165,assault,14:14,afternoon,2025-03-03,Kwa macho yangu mwenyewe niliona kwamba watu walipiga kelele wakitaka msaada huku tukio lilivutia watu wengi waliokuwa wakipita.,yes
+Juja Stage,-1.099,37.02,robbery,19:10,evening,2025-06-13,Mimi binafsi niliona jinsi mtuhumiwa alikimbilia upande wa walionekana wakitumia panga na silaha nyingine.,no
+JKUAT hostels area,-1.09,37.012,burglary,13:48,afternoon,2025-03-24,Kwa macho yangu mwenyewe niliona kwamba mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.,yes
+JKUAT Hospital,-1.0948,37.0106,assault,00:11,night,2025-01-22,"Wakati nilipokuwa karibu, niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati tukio lilivutia watu wengi waliokuwa wakipita.",yes
+Gate C,-1.0922,37.0131,sexual harrasment,01:46,night,2024-05-31,Mimi binafsi niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati polisi walifika baada ya dakika kadhaa.,yes
+Juja Police Station,-1.097,37.018,drug trafficking,14:01,afternoon,2025-06-19,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.,yes
+Gate B,-1.0932,37.0125,domestic violence,18:48,evening,2024-08-04,Kwa macho yangu mwenyewe niliona kwamba mtuhumiwa alikimbilia upande wa kuna mtu alichukua picha kwa kutumia simu.,no
+JKUAT Enterprises LTD.,-1.0915,37.014,fraud,05:34,night,2024-08-09,"Wakati nilipokuwa karibu, niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati polisi walifika baada ya dakika kadhaa.",no
+Juja Square,-1.098,37.019,sexual harrasment,02:38,night,2024-10-21,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.",no
+JKUAT Main Gate,-1.0925,37.011,traffic violations,21:17,night,2025-06-20,"Wakati nilipokuwa karibu, niliona jinsi watu walipiga kelele wakitaka msaada huku kulikuwa na vilio na machafuko makubwa.",no
+Gachororo,-1.0905,37.0119,kidnapping,00:29,night,2024-09-13,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio kuna mtu alichukua picha kwa kutumia simu.",yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,murder,13:56,afternoon,2025-03-04,Kwa macho yangu mwenyewe niliona kwamba watu walipiga kelele wakitaka msaada huku walionekana wakitumia panga na silaha nyingine.,no
+Gate C,-1.0922,37.0131,battery,14:15,afternoon,2024-06-19,Nilishuhudia tukio hilo ambapo watu walipiga kelele wakitaka msaada huku tukio lilivutia watu wengi waliokuwa wakipita.,yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,drug possession,05:51,night,2024-07-22,"Wakati nilipokuwa karibu, niliona jinsi majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.",no
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,kidnapping,17:26,evening,2025-03-28,"Wakati nilipokuwa karibu, niliona jinsi majirani walijaribu kuingilia kati lakini walionekana wakitumia panga na silaha nyingine.",yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,reckless driving,03:35,night,2024-06-24,Mimi binafsi niliona jinsi majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.,no
+JKUAT hostels area,-1.09,37.012,robbery,22:35,night,2024-10-17,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio kuna mtu alichukua picha kwa kutumia simu.",no
+Juja Market,-1.096,37.0175,drug possession,20:16,evening,2024-05-22,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.,yes
+JKUAT hostels area,-1.09,37.012,reckless driving,07:25,morning,2024-12-03,Kwa macho yangu mwenyewe niliona kwamba hakuna aliyekuwa tayari kuingilia kati wakati polisi walifika baada ya dakika kadhaa.,yes
+JKUAT hostels area,-1.09,37.012,burglary,08:51,morning,2025-07-01,Mimi binafsi niliona jinsi mtuhumiwa alikimbilia upande wa kuna mtu alichukua picha kwa kutumia simu.,no
+Cherry Park,-1.0948,37.0106,murder,04:14,night,2024-11-06,Kwa macho yangu mwenyewe niliona kwamba mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.,no
+Juja Police Station,-1.1,37.015,drug possession,18:56,evening,2024-06-27,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku tukio lilivutia watu wengi waliokuwa wakipita.,yes
+Highpoint,-1.1,37.015,armed robbery,03:09,night,2024-11-29,"Nilipokuwa karibu na eneo hilo, niliona kuwa mtuhumiwa alikimbilia upande wa tukio lilivutia watu wengi waliokuwa wakipita.",no
+Gachororo,-1.0905,37.0119,domestic violence,03:20,night,2024-08-18,"Nilipokuwa karibu na eneo hilo, niliona kuwa mtuhumiwa alikimbilia upande wa polisi walifika baada ya dakika kadhaa.",yes
+JKUAT Enterprises LTD.,-1.0915,37.014,robbery,17:03,evening,2024-05-11,"Nilipokuwa karibu na eneo hilo, niliona kuwa mtuhumiwa alikimbilia upande wa tukio lilivutia watu wengi waliokuwa wakipita.",yes
+Juja Square,-1.098,37.019,fraud,16:49,afternoon,2025-04-16,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa polisi walifika baada ya dakika kadhaa.,no
+JKUAT Main Gate,-1.0925,37.011,drug possession,11:36,morning,2025-05-14,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku kuna mtu alichukua picha kwa kutumia simu.,no
+Juja Market,-1.096,37.0175,reckless driving,00:50,night,2024-06-14,"Nilipokuwa karibu na eneo hilo, niliona kuwa mtuhumiwa alikimbilia upande wa kuna mtu alichukua picha kwa kutumia simu.",no
+JKUAT Enterprises LTD.,-1.0915,37.014,phone snatching,09:36,morning,2025-01-13,"Nilipokuwa karibu na eneo hilo, niliona kuwa mtuhumiwa alikimbilia upande wa tukio lilivutia watu wengi waliokuwa wakipita.",yes
+JKUAT Main Gate,-1.0925,37.011,armed robbery,06:36,morning,2025-02-18,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa walionekana wakitumia panga na silaha nyingine.,yes
+Juja Stage,-1.099,37.02,robbery,21:52,night,2024-07-02,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.,no
+Juja Stage,-1.099,37.02,robbery,02:39,night,2024-07-07,Nilishuhudia tukio hilo ambapo mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.,no
+Juja Square,-1.098,37.019,robbery,04:56,night,2024-10-06,"Wakati nilipokuwa karibu, niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati kulikuwa na vilio na machafuko makubwa.",no
+Juja Police Station,-1.0932,37.0125,drug possession,01:54,night,2024-11-29,"Nilipokuwa karibu na eneo hilo, niliona kuwa watu walipiga kelele wakitaka msaada huku tukio lilivutia watu wengi waliokuwa wakipita.",no
+Juja City Mall,-1.095,37.0165,robbery,05:12,night,2024-08-22,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio tukio lilivutia watu wengi waliokuwa wakipita.",no
+JKUAT Main Gate,-1.0925,37.011,drug trafficking,14:53,afternoon,2025-03-01,Mimi binafsi niliona jinsi majirani walijaribu kuingilia kati lakini walionekana wakitumia panga na silaha nyingine.,no
+Cherry Park,-1.0948,37.0106,domestic violence,08:53,morning,2025-05-27,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.,no
+Juja Market,-1.096,37.0175,robbery,12:29,afternoon,2024-07-14,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini walionekana wakitumia panga na silaha nyingine.,yes
+Juja Stage,-1.099,37.02,sexual harrasment,04:18,night,2024-09-28,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio kuna mtu alichukua picha kwa kutumia simu.",yes
+JKUAT Hospital,-1.093,37.0155,drug possession,21:08,night,2024-11-26,"Nilipokuwa karibu na eneo hilo, niliona kuwa watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.",yes
+Highpoint,-1.1,37.015,murder,05:46,night,2025-05-07,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku walionekana wakitumia panga na silaha nyingine.,yes
+Juja Square,-1.098,37.019,drug possession,02:43,night,2025-03-21,Mimi binafsi niliona jinsi majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.,yes
+Gate B,-1.0932,37.0125,battery,23:07,night,2024-12-09,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini kulikuwa na vilio na machafuko makubwa.,yes
+JKUAT Main Gate,-1.0925,37.011,fraud,00:00,night,2025-06-17,"Nilipokuwa karibu na eneo hilo, niliona kuwa hakuna aliyekuwa tayari kuingilia kati wakati kulikuwa na vilio na machafuko makubwa.",no
+Cherry Park,-1.0948,37.0106,battery,23:37,night,2024-05-22,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku kulikuwa na vilio na machafuko makubwa.,no
+Juja Police Station,-1.091,37.0135,drug possession,05:30,night,2025-03-01,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.",yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,drug trafficking,10:22,morning,2025-07-06,Kwa macho yangu mwenyewe niliona kwamba mtuhumiwa alikimbilia upande wa polisi walifika baada ya dakika kadhaa.,yes
+Gachororo,-1.0905,37.0119,drug possession,01:27,night,2024-08-13,Mimi binafsi niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati walionekana wakitumia panga na silaha nyingine.,no
+Highpoint,-1.1,37.015,phone snatching,03:13,night,2025-02-24,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini walionekana wakitumia panga na silaha nyingine.,no
+Juja Market,-1.096,37.0175,kidnapping,09:20,morning,2024-09-13,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa walionekana wakitumia panga na silaha nyingine.,yes
+JKUAT Main Gate,-1.0925,37.011,domestic violence,16:41,afternoon,2025-06-01,"Nilipokuwa karibu na eneo hilo, niliona kuwa mtuhumiwa alikimbilia upande wa polisi walifika baada ya dakika kadhaa.",yes
+Gate C,-1.0922,37.0131,drug trafficking,04:32,night,2025-06-25,"Wakati nilipokuwa karibu, niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati kuna mtu alichukua picha kwa kutumia simu.",yes
+Juja Square,-1.098,37.019,armed robbery,00:53,night,2025-02-04,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.,no
+Juja City Mall,-1.095,37.0165,drug possession,10:44,morning,2025-05-01,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio kuna mtu alichukua picha kwa kutumia simu.,no
+JKUAT Enterprises LTD.,-1.0915,37.014,drug possession,15:35,afternoon,2024-11-23,"Nilipokuwa karibu na eneo hilo, niliona kuwa majirani walijaribu kuingilia kati lakini walionekana wakitumia panga na silaha nyingine.",yes
+Highpoint,-1.1,37.015,drug trafficking,17:34,evening,2024-05-02,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.,no
+Gachororo,-1.0905,37.0119,fraud,17:46,evening,2024-05-24,"Nilipokuwa karibu na eneo hilo, niliona kuwa mtuhumiwa alikimbilia upande wa walionekana wakitumia panga na silaha nyingine.",yes
+Juja Market,-1.096,37.0175,murder,22:14,night,2024-12-05,Nilishuhudia tukio hilo ambapo watu walipiga kelele wakitaka msaada huku walionekana wakitumia panga na silaha nyingine.,yes
+Gachororo,-1.0905,37.0119,drug trafficking,22:09,night,2024-09-07,Nilishuhudia tukio hilo ambapo mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.,yes
+Juja Square,-1.098,37.019,domestic violence,20:07,evening,2025-05-29,Nilishuhudia tukio hilo ambapo hakuna aliyekuwa tayari kuingilia kati wakati tukio lilivutia watu wengi waliokuwa wakipita.,no
+Gate B,-1.0932,37.0125,phone snatching,12:20,afternoon,2024-11-29,Kwa macho yangu mwenyewe niliona kwamba mtuhumiwa alikimbilia upande wa walionekana wakitumia panga na silaha nyingine.,no
+Juja Stage,-1.099,37.02,reckless driving,08:17,morning,2024-06-30,"Nilipokuwa karibu na eneo hilo, niliona kuwa mtuhumiwa alikimbilia upande wa polisi walifika baada ya dakika kadhaa.",yes
+Juja Police Station,-1.1,37.015,drug possession,23:07,night,2024-08-02,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio tukio lilivutia watu wengi waliokuwa wakipita.",yes
+JKUAT Main Gate,-1.0925,37.011,drug possession,21:08,night,2025-02-01,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio tukio lilivutia watu wengi waliokuwa wakipita.",no
+Cherry Park,-1.0948,37.0106,assault,22:08,night,2024-06-10,Kwa macho yangu mwenyewe niliona kwamba hakuna aliyekuwa tayari kuingilia kati wakati tukio lilivutia watu wengi waliokuwa wakipita.,no
+JKUAT Hospital,-1.0932,37.0125,assault,10:14,morning,2024-07-11,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.,no
+Juja Market,-1.096,37.0175,phone snatching,16:28,afternoon,2024-11-12,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio tukio lilivutia watu wengi waliokuwa wakipita.",no
+Juja Market,-1.096,37.0175,burglary,16:22,afternoon,2025-05-09,Nilishuhudia tukio hilo ambapo hakuna aliyekuwa tayari kuingilia kati wakati kuna mtu alichukua picha kwa kutumia simu.,no
+Juja Market,-1.096,37.0175,phone snatching,22:13,night,2024-06-20,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.,no
+JKUAT hostels area,-1.09,37.012,robbery,20:37,evening,2025-03-02,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.",yes
+Gate B,-1.0932,37.0125,phone snatching,05:28,night,2025-02-02,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini walionekana wakitumia panga na silaha nyingine.,no
+JKUAT Main Gate,-1.0925,37.011,robbery,06:25,morning,2025-04-21,"Wakati nilipokuwa karibu, niliona jinsi majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.",yes
+Highpoint,-1.1,37.015,drug possession,00:23,night,2024-06-25,"Wakati nilipokuwa karibu, niliona jinsi majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.",no
+Juja Stage,-1.099,37.02,fraud,02:01,night,2024-06-30,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.,yes
+JKUAT Hospital,-1.09,37.012,drug trafficking,11:21,morning,2024-06-09,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio tukio lilivutia watu wengi waliokuwa wakipita.",no
+Gachororo,-1.0905,37.0119,armed robbery,13:30,afternoon,2024-08-04,"Nilipokuwa karibu na eneo hilo, niliona kuwa majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.",yes
+Juja City Mall,-1.095,37.0165,fraud,18:30,evening,2024-05-28,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio kuna mtu alichukua picha kwa kutumia simu.",no
+Gachororo,-1.0905,37.0119,domestic violence,15:08,afternoon,2025-01-25,Nilishuhudia tukio hilo ambapo mhalifu alikimbia mara moja baada ya tukio tukio lilivutia watu wengi waliokuwa wakipita.,yes
+Gate C,-1.0922,37.0131,burglary,00:40,night,2024-08-23,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.",no
+JKUAT hostels area,-1.09,37.012,drug possession,02:15,night,2025-04-19,"Wakati nilipokuwa karibu, niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati kulikuwa na vilio na machafuko makubwa.",no
+Juja City Mall,-1.095,37.0165,kidnapping,01:12,night,2024-12-17,"Wakati nilipokuwa karibu, niliona jinsi mtuhumiwa alikimbilia upande wa polisi walifika baada ya dakika kadhaa.",yes
+JKUAT Main Gate,-1.0925,37.011,robbery,23:11,night,2024-06-12,"Nilipokuwa karibu na eneo hilo, niliona kuwa majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.",no
+Juja City Mall,-1.095,37.0165,traffic violations,04:06,night,2024-07-25,"Wakati nilipokuwa karibu, niliona jinsi majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.",yes
+Juja Square,-1.098,37.019,drug possession,08:08,morning,2025-05-19,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.",yes
+Cherry Park,-1.0948,37.0106,drug possession,07:13,morning,2025-03-20,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini kuna mtu alichukua picha kwa kutumia simu.,no
+Juja City Mall,-1.095,37.0165,traffic violations,02:54,night,2025-07-02,Nilishuhudia tukio hilo ambapo watu walipiga kelele wakitaka msaada huku walionekana wakitumia panga na silaha nyingine.,yes
+Cherry Park,-1.0948,37.0106,armed robbery,12:25,afternoon,2024-09-09,"Wakati nilipokuwa karibu, niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati walionekana wakitumia panga na silaha nyingine.",yes
+Juja City Mall,-1.095,37.0165,domestic violence,18:05,evening,2024-07-01,Kwa macho yangu mwenyewe niliona kwamba hakuna aliyekuwa tayari kuingilia kati wakati polisi walifika baada ya dakika kadhaa.,no
+Highpoint,-1.1,37.015,assault,08:17,morning,2024-07-23,Nilishuhudia tukio hilo ambapo mhalifu alikimbia mara moja baada ya tukio tukio lilivutia watu wengi waliokuwa wakipita.,yes
+Cherry Park,-1.0948,37.0106,robbery,10:34,morning,2025-06-04,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.,no
+Gate B,-1.0932,37.0125,traffic violations,06:11,morning,2025-07-06,"Wakati nilipokuwa karibu, niliona jinsi watu walipiga kelele wakitaka msaada huku walionekana wakitumia panga na silaha nyingine.",yes
+Cherry Park,-1.0948,37.0106,robbery,20:50,evening,2024-11-24,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.",no
+Juja City Mall,-1.095,37.0165,phone snatching,11:10,morning,2024-10-12,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa tukio lilivutia watu wengi waliokuwa wakipita.,no
+JKUAT hostels area,-1.09,37.012,drug possession,23:07,night,2024-06-10,Mimi binafsi niliona jinsi majirani walijaribu kuingilia kati lakini kulikuwa na vilio na machafuko makubwa.,no
+Gate B,-1.0932,37.0125,reckless driving,08:36,morning,2024-06-26,"Wakati nilipokuwa karibu, niliona jinsi mtuhumiwa alikimbilia upande wa tukio lilivutia watu wengi waliokuwa wakipita.",no
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,robbery,11:06,morning,2024-09-08,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.",no
+JKUAT Hospital,-1.091,37.0135,drug possession,03:32,night,2025-03-22,Kwa macho yangu mwenyewe niliona kwamba mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.,yes
+Gate B,-1.0932,37.0125,drug trafficking,00:25,night,2024-10-17,"Nilipokuwa karibu na eneo hilo, niliona kuwa majirani walijaribu kuingilia kati lakini kulikuwa na vilio na machafuko makubwa.",yes
+Cherry Park,-1.0948,37.0106,sexual harrasment,19:42,evening,2025-04-20,"Wakati nilipokuwa karibu, niliona jinsi watu walipiga kelele wakitaka msaada huku walionekana wakitumia panga na silaha nyingine.",no
+Juja City Mall,-1.095,37.0165,drug possession,11:53,morning,2024-05-31,"Nilipokuwa karibu na eneo hilo, niliona kuwa watu walipiga kelele wakitaka msaada huku kulikuwa na vilio na machafuko makubwa.",yes
+Juja City Mall,-1.095,37.0165,domestic violence,05:51,night,2024-05-04,"Wakati nilipokuwa karibu, niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati walionekana wakitumia panga na silaha nyingine.",yes
+JKUAT Hospital,-1.0925,37.011,drug trafficking,00:54,night,2025-02-02,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio tukio lilivutia watu wengi waliokuwa wakipita.",no
+Gate B,-1.0932,37.0125,traffic violations,02:05,night,2024-06-26,"Nilipokuwa karibu na eneo hilo, niliona kuwa mtuhumiwa alikimbilia upande wa tukio lilivutia watu wengi waliokuwa wakipita.",no
+Cherry Park,-1.0948,37.0106,burglary,04:59,night,2024-09-18,Kwa macho yangu mwenyewe niliona kwamba mtuhumiwa alikimbilia upande wa walionekana wakitumia panga na silaha nyingine.,no
+Gate C,-1.0922,37.0131,reckless driving,01:46,night,2025-04-12,Mimi binafsi niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati tukio lilivutia watu wengi waliokuwa wakipita.,no
+JKUAT Enterprises LTD.,-1.0915,37.014,drug trafficking,04:04,night,2024-10-29,"Nilipokuwa karibu na eneo hilo, niliona kuwa majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.",yes
+JKUAT hostels area,-1.09,37.012,drug possession,04:28,night,2024-07-29,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio kuna mtu alichukua picha kwa kutumia simu.",yes
+JKUAT Main Gate,-1.0925,37.011,sexual harrasment,08:06,morning,2025-02-22,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.",no
+Cherry Park,-1.0948,37.0106,battery,11:06,morning,2025-03-31,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.",no
+Gate C,-1.0922,37.0131,robbery,12:20,afternoon,2025-03-19,Kwa macho yangu mwenyewe niliona kwamba watu walipiga kelele wakitaka msaada huku kuna mtu alichukua picha kwa kutumia simu.,no
+JKUAT Main Gate,-1.0925,37.011,sexual harrasment,21:47,night,2025-04-17,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.,no
+Juja City Mall,-1.095,37.0165,robbery,10:21,morning,2024-12-07,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.,yes
+Gate C,-1.0922,37.0131,robbery,22:05,night,2025-02-27,Kwa macho yangu mwenyewe niliona kwamba hakuna aliyekuwa tayari kuingilia kati wakati kuna mtu alichukua picha kwa kutumia simu.,yes
+Juja City Mall,-1.095,37.0165,drug possession,22:45,night,2024-08-10,Kwa macho yangu mwenyewe niliona kwamba watu walipiga kelele wakitaka msaada huku tukio lilivutia watu wengi waliokuwa wakipita.,yes
+Juja City Mall,-1.095,37.0165,assault,06:10,morning,2024-05-10,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio tukio lilivutia watu wengi waliokuwa wakipita.,no
+Gachororo,-1.0905,37.0119,phone snatching,22:59,night,2024-08-22,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.",no
+JKUAT Enterprises LTD.,-1.0915,37.014,fraud,09:44,morning,2024-10-20,"Wakati nilipokuwa karibu, niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati kuna mtu alichukua picha kwa kutumia simu.",no
+Juja Square,-1.098,37.019,domestic violence,17:53,evening,2025-04-11,"Nilipokuwa karibu na eneo hilo, niliona kuwa watu walipiga kelele wakitaka msaada huku walionekana wakitumia panga na silaha nyingine.",no
+Juja City Mall,-1.095,37.0165,armed robbery,23:47,night,2024-05-04,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.,no
+JKUAT hostels area,-1.09,37.012,kidnapping,04:22,night,2024-07-31,Nilishuhudia tukio hilo ambapo watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.,no
+Highpoint,-1.1,37.015,kidnapping,02:39,night,2025-05-16,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.,yes
+Juja Stage,-1.099,37.02,assault,09:13,morning,2024-09-02,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio tukio lilivutia watu wengi waliokuwa wakipita.",yes
+Juja Police Station,-1.0905,37.0119,drug possession,17:38,evening,2025-02-11,"Wakati nilipokuwa karibu, niliona jinsi watu walipiga kelele wakitaka msaada huku kuna mtu alichukua picha kwa kutumia simu.",yes
+Juja Market,-1.096,37.0175,battery,12:17,afternoon,2025-04-21,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa polisi walifika baada ya dakika kadhaa.,yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,reckless driving,12:10,afternoon,2024-12-04,Kwa macho yangu mwenyewe niliona kwamba watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.,no
+JKUAT Enterprises LTD.,-1.0915,37.014,assault,18:37,evening,2025-05-08,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.,no
+Juja Square,-1.098,37.019,murder,08:39,morning,2025-02-04,"Nilipokuwa karibu na eneo hilo, niliona kuwa watu walipiga kelele wakitaka msaada huku tukio lilivutia watu wengi waliokuwa wakipita.",yes
+JKUAT Hospital,-1.09,37.012,drug possession,18:47,evening,2024-09-30,Kwa macho yangu mwenyewe niliona kwamba watu walipiga kelele wakitaka msaada huku kulikuwa na vilio na machafuko makubwa.,yes
+JKUAT Enterprises LTD.,-1.0915,37.014,drug possession,15:05,afternoon,2025-05-12,Nilishuhudia tukio hilo ambapo watu walipiga kelele wakitaka msaada huku kulikuwa na vilio na machafuko makubwa.,no
+Juja Stage,-1.099,37.02,phone snatching,05:52,night,2025-06-02,"Wakati nilipokuwa karibu, niliona jinsi majirani walijaribu kuingilia kati lakini kulikuwa na vilio na machafuko makubwa.",no
+Juja Market,-1.096,37.0175,sexual harrasment,13:36,afternoon,2025-03-25,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio kuna mtu alichukua picha kwa kutumia simu.",yes
+Highpoint,-1.1,37.015,fraud,04:01,night,2024-07-17,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa kulikuwa na vilio na machafuko makubwa.,yes
+Gachororo,-1.0905,37.0119,reckless driving,03:23,night,2024-06-03,"Nilipokuwa karibu na eneo hilo, niliona kuwa watu walipiga kelele wakitaka msaada huku kuna mtu alichukua picha kwa kutumia simu.",no
+Gate C,-1.0922,37.0131,armed robbery,12:05,afternoon,2024-06-06,Nilishuhudia tukio hilo ambapo mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.,no
+Gate B,-1.0932,37.0125,fraud,03:26,night,2024-09-20,"Wakati nilipokuwa karibu, niliona jinsi watu walipiga kelele wakitaka msaada huku walionekana wakitumia panga na silaha nyingine.",no
+Juja Market,-1.096,37.0175,robbery,08:09,morning,2024-06-27,Mimi binafsi niliona jinsi majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.,yes
+Juja Square,-1.098,37.019,phone snatching,11:10,morning,2024-12-21,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini walionekana wakitumia panga na silaha nyingine.,no
+Gate C,-1.0922,37.0131,battery,05:11,night,2025-02-04,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.",no
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,drug trafficking,19:59,evening,2024-06-19,Nilishuhudia tukio hilo ambapo mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.,no
+Highpoint,-1.1,37.015,phone snatching,07:10,morning,2025-06-13,Mimi binafsi niliona jinsi mtuhumiwa alikimbilia upande wa tukio lilivutia watu wengi waliokuwa wakipita.,no
+Cherry Park,-1.0948,37.0106,domestic violence,03:39,night,2025-01-04,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.",yes
+Juja Square,-1.098,37.019,domestic violence,12:19,afternoon,2025-03-01,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio tukio lilivutia watu wengi waliokuwa wakipita.",no
+Juja Square,-1.098,37.019,reckless driving,04:29,night,2024-07-26,Mimi binafsi niliona jinsi majirani walijaribu kuingilia kati lakini kuna mtu alichukua picha kwa kutumia simu.,no
+Juja Stage,-1.099,37.02,fraud,04:31,night,2024-11-13,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.,no
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,sexual harrasment,14:17,afternoon,2024-06-13,"Wakati nilipokuwa karibu, niliona jinsi watu walipiga kelele wakitaka msaada huku kulikuwa na vilio na machafuko makubwa.",yes
+Gate C,-1.0922,37.0131,burglary,21:14,night,2024-12-14,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini walionekana wakitumia panga na silaha nyingine.,no
+JKUAT Enterprises LTD.,-1.0915,37.014,drug possession,20:17,evening,2024-05-20,"Wakati nilipokuwa karibu, niliona jinsi majirani walijaribu kuingilia kati lakini walionekana wakitumia panga na silaha nyingine.",yes
+Gate B,-1.0932,37.0125,reckless driving,11:21,morning,2024-10-10,"Nilipokuwa karibu na eneo hilo, niliona kuwa mtuhumiwa alikimbilia upande wa tukio lilivutia watu wengi waliokuwa wakipita.",no
+Gate B,-1.0932,37.0125,murder,06:46,morning,2024-07-24,Mimi binafsi niliona jinsi majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.,yes
+Highpoint,-1.1,37.015,phone snatching,19:36,evening,2024-11-08,"Nilipokuwa karibu na eneo hilo, niliona kuwa mtuhumiwa alikimbilia upande wa kulikuwa na vilio na machafuko makubwa.",no
+Juja Square,-1.098,37.019,kidnapping,11:25,morning,2024-12-09,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.,no
+JKUAT hostels area,-1.09,37.012,robbery,14:52,afternoon,2024-10-30,Mimi binafsi niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati polisi walifika baada ya dakika kadhaa.,no
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,traffic violations,08:42,morning,2025-04-23,Kwa macho yangu mwenyewe niliona kwamba mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.,no
+Juja Square,-1.098,37.019,drug possession,10:14,morning,2024-06-10,"Wakati nilipokuwa karibu, niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati polisi walifika baada ya dakika kadhaa.",yes
+Gate B,-1.0932,37.0125,drug possession,09:24,morning,2025-06-26,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.,yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,kidnapping,21:38,night,2025-06-30,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini kulikuwa na vilio na machafuko makubwa.,yes
+JKUAT Enterprises LTD.,-1.0915,37.014,battery,02:06,night,2025-01-04,Nilishuhudia tukio hilo ambapo hakuna aliyekuwa tayari kuingilia kati wakati tukio lilivutia watu wengi waliokuwa wakipita.,no
+Gachororo,-1.0905,37.0119,armed robbery,21:36,night,2025-05-05,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.,no
+Gate B,-1.0932,37.0125,sexual harrasment,16:07,afternoon,2024-06-13,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa kulikuwa na vilio na machafuko makubwa.,no
+Gachororo,-1.0905,37.0119,burglary,03:41,night,2025-03-19,Kwa macho yangu mwenyewe niliona kwamba mtuhumiwa alikimbilia upande wa kuna mtu alichukua picha kwa kutumia simu.,yes
+Juja Stage,-1.099,37.02,kidnapping,01:52,night,2025-07-11,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa kulikuwa na vilio na machafuko makubwa.,yes
+Juja Police Station,-1.096,37.0175,drug trafficking,14:24,afternoon,2025-03-18,"Nilipokuwa karibu na eneo hilo, niliona kuwa hakuna aliyekuwa tayari kuingilia kati wakati kulikuwa na vilio na machafuko makubwa.",yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,kidnapping,11:47,morning,2025-02-14,Kwa macho yangu mwenyewe niliona kwamba hakuna aliyekuwa tayari kuingilia kati wakati tukio lilivutia watu wengi waliokuwa wakipita.,no
+Juja City Mall,-1.095,37.0165,robbery,17:05,evening,2025-01-19,Kwa macho yangu mwenyewe niliona kwamba hakuna aliyekuwa tayari kuingilia kati wakati kulikuwa na vilio na machafuko makubwa.,no
+Cherry Park,-1.0948,37.0106,battery,17:09,evening,2024-11-12,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.",yes
+JKUAT hostels area,-1.09,37.012,fraud,18:14,evening,2024-12-09,Kwa macho yangu mwenyewe niliona kwamba watu walipiga kelele wakitaka msaada huku tukio lilivutia watu wengi waliokuwa wakipita.,yes
+Juja City Mall,-1.095,37.0165,kidnapping,07:07,morning,2024-06-21,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.",no
+Juja Stage,-1.099,37.02,traffic violations,17:43,evening,2024-06-20,"Wakati nilipokuwa karibu, niliona jinsi watu walipiga kelele wakitaka msaada huku walionekana wakitumia panga na silaha nyingine.",no
+Gachororo,-1.0905,37.0119,armed robbery,07:20,morning,2025-04-26,Mimi binafsi niliona jinsi mtuhumiwa alikimbilia upande wa kulikuwa na vilio na machafuko makubwa.,no
+Juja Square,-1.098,37.019,domestic violence,12:31,afternoon,2024-07-25,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini kuna mtu alichukua picha kwa kutumia simu.,no
+Cherry Park,-1.0948,37.0106,murder,02:35,night,2024-11-13,Mimi binafsi niliona jinsi mtuhumiwa alikimbilia upande wa tukio lilivutia watu wengi waliokuwa wakipita.,yes
+JKUAT Main Gate,-1.0925,37.011,reckless driving,20:22,evening,2024-11-02,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku kuna mtu alichukua picha kwa kutumia simu.,no
+Gate C,-1.0922,37.0131,domestic violence,06:15,morning,2025-04-11,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.,yes
+Highpoint,-1.1,37.015,fraud,05:37,night,2025-05-24,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa walionekana wakitumia panga na silaha nyingine.,no
+Juja Stage,-1.099,37.02,burglary,18:17,evening,2024-05-10,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini walionekana wakitumia panga na silaha nyingine.,no
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,assault,11:46,morning,2024-06-09,Mimi binafsi niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati polisi walifika baada ya dakika kadhaa.,no
+Juja Market,-1.096,37.0175,drug trafficking,03:43,night,2025-06-22,Kwa macho yangu mwenyewe niliona kwamba mhalifu alikimbia mara moja baada ya tukio tukio lilivutia watu wengi waliokuwa wakipita.,yes
+Juja Square,-1.098,37.019,fraud,10:09,morning,2024-10-02,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.",no
+Gate B,-1.0932,37.0125,robbery,22:32,night,2024-10-29,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini kuna mtu alichukua picha kwa kutumia simu.,no
+Juja Police Station,-1.097,37.018,drug trafficking,19:13,evening,2024-08-27,Nilishuhudia tukio hilo ambapo watu walipiga kelele wakitaka msaada huku kuna mtu alichukua picha kwa kutumia simu.,yes
+JKUAT Hospital,-1.091,37.0135,drug possession,05:30,night,2025-03-01,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.",yes
+JKUAT Hospital,-1.0932,37.0125,drug possession,01:54,night,2024-11-29,"Nilipokuwa karibu na eneo hilo, niliona kuwa watu walipiga kelele wakitaka msaada huku tukio lilivutia watu wengi waliokuwa wakipita.",no
+JKUAT Hospital,-1.0948,37.0106,drug trafficking,11:40,morning,2025-02-07,Kwa macho yangu mwenyewe niliona kwamba hakuna aliyekuwa tayari kuingilia kati wakati kuna mtu alichukua picha kwa kutumia simu.,no
+Cherry Park,-1.0948,37.0106,burglary,23:14,night,2025-05-10,"Wakati nilipokuwa karibu, niliona jinsi majirani walijaribu kuingilia kati lakini kuna mtu alichukua picha kwa kutumia simu.",yes
+JKUAT Hospital,-1.091,37.0135,drug trafficking,10:36,morning,2025-02-12,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini kulikuwa na vilio na machafuko makubwa.,yes
+JKUAT Main Gate,-1.0925,37.011,phone snatching,18:31,evening,2025-01-08,Nilishuhudia tukio hilo ambapo mhalifu alikimbia mara moja baada ya tukio kuna mtu alichukua picha kwa kutumia simu.,no
+Cherry Park,-1.0948,37.0106,kidnapping,21:41,night,2024-08-07,"Wakati nilipokuwa karibu, niliona jinsi watu walipiga kelele wakitaka msaada huku tukio lilivutia watu wengi waliokuwa wakipita.",yes
+Highpoint,-1.1,37.015,murder,16:06,afternoon,2025-04-14,Kwa macho yangu mwenyewe niliona kwamba mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.,no
+JKUAT Main Gate,-1.0925,37.011,phone snatching,12:36,afternoon,2024-10-11,Nilishuhudia tukio hilo ambapo mhalifu alikimbia mara moja baada ya tukio kuna mtu alichukua picha kwa kutumia simu.,yes
+Juja Market,-1.096,37.0175,murder,14:04,afternoon,2025-01-21,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.",no
+JKUAT hostels area,-1.09,37.012,drug possession,11:39,morning,2024-09-24,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini kulikuwa na vilio na machafuko makubwa.,yes
+Highpoint,-1.1,37.015,reckless driving,15:46,afternoon,2024-11-14,"Wakati nilipokuwa karibu, niliona jinsi majirani walijaribu kuingilia kati lakini kulikuwa na vilio na machafuko makubwa.",no
+Gate B,-1.0932,37.0125,robbery,07:16,morning,2024-06-20,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.,no
+Gachororo,-1.0905,37.0119,murder,12:24,afternoon,2025-06-07,Kwa macho yangu mwenyewe niliona kwamba hakuna aliyekuwa tayari kuingilia kati wakati walionekana wakitumia panga na silaha nyingine.,no
+JKUAT Enterprises LTD.,-1.0915,37.014,phone snatching,19:23,evening,2025-01-23,Nilishuhudia tukio hilo ambapo mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.,no
+Juja Police Station,-1.09,37.012,drug possession,18:47,evening,2024-09-30,Kwa macho yangu mwenyewe niliona kwamba watu walipiga kelele wakitaka msaada huku kulikuwa na vilio na machafuko makubwa.,yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,assault,19:00,evening,2025-03-16,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.",yes
+Highpoint,-1.1,37.015,murder,00:11,night,2025-03-25,"Nilipokuwa karibu na eneo hilo, niliona kuwa watu walipiga kelele wakitaka msaada huku walionekana wakitumia panga na silaha nyingine.",yes
+Juja Stage,-1.099,37.02,fraud,11:29,morning,2025-06-22,Kwa macho yangu mwenyewe niliona kwamba mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.,no
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,drug possession,19:36,evening,2025-01-18,Nilishuhudia tukio hilo ambapo watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.,yes
+JKUAT hostels area,-1.09,37.012,reckless driving,16:33,afternoon,2024-07-05,Mimi binafsi niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati polisi walifika baada ya dakika kadhaa.,yes
+JKUAT hostels area,-1.09,37.012,kidnapping,11:56,morning,2025-06-07,"Nilipokuwa karibu na eneo hilo, niliona kuwa hakuna aliyekuwa tayari kuingilia kati wakati kulikuwa na vilio na machafuko makubwa.",yes
+Cherry Park,-1.0948,37.0106,armed robbery,12:51,afternoon,2025-04-04,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.",no
+Juja Market,-1.096,37.0175,fraud,14:45,afternoon,2024-06-18,"Wakati nilipokuwa karibu, niliona jinsi mtuhumiwa alikimbilia upande wa kulikuwa na vilio na machafuko makubwa.",no
+JKUAT hostels area,-1.09,37.012,sexual harrasment,10:41,morning,2025-03-26,Nilishuhudia tukio hilo ambapo mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.,no
+Highpoint,-1.1,37.015,fraud,09:24,morning,2024-08-11,"Wakati nilipokuwa karibu, niliona jinsi watu walipiga kelele wakitaka msaada huku kulikuwa na vilio na machafuko makubwa.",no
+JKUAT hostels area,-1.09,37.012,traffic violations,20:04,evening,2024-05-25,"Nilipokuwa karibu na eneo hilo, niliona kuwa majirani walijaribu kuingilia kati lakini walionekana wakitumia panga na silaha nyingine.",yes
+Juja Square,-1.098,37.019,phone snatching,15:26,afternoon,2024-09-17,"Wakati nilipokuwa karibu, niliona jinsi majirani walijaribu kuingilia kati lakini walionekana wakitumia panga na silaha nyingine.",no
+Gate C,-1.0922,37.0131,drug trafficking,17:56,evening,2024-12-14,"Nilipokuwa karibu na eneo hilo, niliona kuwa majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.",yes
+Juja City Mall,-1.095,37.0165,murder,10:49,morning,2025-03-23,"Wakati nilipokuwa karibu, niliona jinsi majirani walijaribu kuingilia kati lakini kuna mtu alichukua picha kwa kutumia simu.",no
+Juja Square,-1.098,37.019,fraud,03:52,night,2024-12-17,"Wakati nilipokuwa karibu, niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati kuna mtu alichukua picha kwa kutumia simu.",yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,traffic violations,12:53,afternoon,2024-07-08,"Wakati nilipokuwa karibu, niliona jinsi majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.",yes
+Gachororo,-1.0905,37.0119,kidnapping,17:45,evening,2025-01-07,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa kuna mtu alichukua picha kwa kutumia simu.,no
+Juja Market,-1.096,37.0175,robbery,18:36,evening,2025-03-13,Kwa macho yangu mwenyewe niliona kwamba mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.,no
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,battery,08:52,morning,2024-11-29,"Wakati nilipokuwa karibu, niliona jinsi watu walipiga kelele wakitaka msaada huku tukio lilivutia watu wengi waliokuwa wakipita.",no
+Cherry Park,-1.0948,37.0106,kidnapping,14:16,afternoon,2025-06-10,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.,no
+Gate B,-1.0932,37.0125,fraud,04:58,night,2024-12-18,Kwa macho yangu mwenyewe niliona kwamba mtuhumiwa alikimbilia upande wa polisi walifika baada ya dakika kadhaa.,no
+JKUAT Main Gate,-1.0925,37.011,assault,20:59,evening,2024-09-30,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.,no
+Juja City Mall,-1.095,37.0165,traffic violations,10:40,morning,2025-03-15,Nilishuhudia tukio hilo ambapo watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.,yes
+Highpoint,-1.1,37.015,murder,02:27,night,2024-06-24,Kwa macho yangu mwenyewe niliona kwamba mtuhumiwa alikimbilia upande wa walionekana wakitumia panga na silaha nyingine.,no
+Gachororo,-1.0905,37.0119,phone snatching,02:56,night,2025-01-03,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.,yes
+Cherry Park,-1.0948,37.0106,murder,21:40,night,2024-07-02,Mimi binafsi niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati walionekana wakitumia panga na silaha nyingine.,yes
+Highpoint,-1.1,37.015,drug possession,16:39,afternoon,2025-05-13,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa polisi walifika baada ya dakika kadhaa.,no
+Highpoint,-1.1,37.015,battery,12:05,afternoon,2024-10-06,"Nilipokuwa karibu na eneo hilo, niliona kuwa mtuhumiwa alikimbilia upande wa kuna mtu alichukua picha kwa kutumia simu.",yes
+Gachororo,-1.0905,37.0119,sexual harrasment,18:59,evening,2024-10-25,"Nilipokuwa karibu na eneo hilo, niliona kuwa majirani walijaribu kuingilia kati lakini kuna mtu alichukua picha kwa kutumia simu.",yes
+Juja Square,-1.098,37.019,drug trafficking,00:41,night,2025-01-19,Nilishuhudia tukio hilo ambapo mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.,no
+Gate B,-1.0932,37.0125,murder,05:47,night,2024-08-02,Mimi binafsi niliona jinsi mtuhumiwa alikimbilia upande wa kuna mtu alichukua picha kwa kutumia simu.,no
+Juja Market,-1.096,37.0175,kidnapping,07:59,morning,2024-08-24,Kwa macho yangu mwenyewe niliona kwamba watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.,no
+Gate B,-1.0932,37.0125,sexual harrasment,00:49,night,2024-11-02,Mimi binafsi niliona jinsi majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.,yes
+JKUAT Main Gate,-1.0925,37.011,assault,16:55,afternoon,2024-11-18,"Nilipokuwa karibu na eneo hilo, niliona kuwa watu walipiga kelele wakitaka msaada huku walionekana wakitumia panga na silaha nyingine.",no
+Gate B,-1.0932,37.0125,fraud,17:30,evening,2025-02-20,Kwa macho yangu mwenyewe niliona kwamba mhalifu alikimbia mara moja baada ya tukio kuna mtu alichukua picha kwa kutumia simu.,no
+Highpoint,-1.1,37.015,armed robbery,14:02,afternoon,2024-08-03,Nilishuhudia tukio hilo ambapo hakuna aliyekuwa tayari kuingilia kati wakati kulikuwa na vilio na machafuko makubwa.,no
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,domestic violence,00:38,night,2024-09-04,"Nilipokuwa karibu na eneo hilo, niliona kuwa mtuhumiwa alikimbilia upande wa walionekana wakitumia panga na silaha nyingine.",yes
+JKUAT Enterprises LTD.,-1.0915,37.014,armed robbery,20:01,evening,2025-03-22,"Wakati nilipokuwa karibu, niliona jinsi majirani walijaribu kuingilia kati lakini walionekana wakitumia panga na silaha nyingine.",yes
+JKUAT hostels area,-1.09,37.012,sexual harrasment,09:02,morning,2025-06-04,Kwa macho yangu mwenyewe niliona kwamba mtuhumiwa alikimbilia upande wa tukio lilivutia watu wengi waliokuwa wakipita.,yes
+Juja Police Station,-1.091,37.0135,drug trafficking,10:36,morning,2025-02-12,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini kulikuwa na vilio na machafuko makubwa.,yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,kidnapping,17:17,evening,2025-04-30,"Wakati nilipokuwa karibu, niliona jinsi watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.",yes
+Gate B,-1.0932,37.0125,sexual harrasment,06:59,morning,2025-01-30,Nilishuhudia tukio hilo ambapo mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.,no
+Juja City Mall,-1.095,37.0165,burglary,09:55,morning,2025-03-16,Kwa macho yangu mwenyewe niliona kwamba watu walipiga kelele wakitaka msaada huku tukio lilivutia watu wengi waliokuwa wakipita.,no
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,drug possession,06:49,morning,2024-08-24,Kwa macho yangu mwenyewe niliona kwamba mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.,yes
+Gachororo,-1.0905,37.0119,domestic violence,19:49,evening,2025-05-20,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini kulikuwa na vilio na machafuko makubwa.,no
+Gate C,-1.0922,37.0131,battery,11:53,morning,2024-07-03,"Wakati nilipokuwa karibu, niliona jinsi watu walipiga kelele wakitaka msaada huku tukio lilivutia watu wengi waliokuwa wakipita.",yes
+Cherry Park,-1.0948,37.0106,kidnapping,05:02,night,2025-05-27,Kwa macho yangu mwenyewe niliona kwamba hakuna aliyekuwa tayari kuingilia kati wakati kulikuwa na vilio na machafuko makubwa.,no
+Juja Square,-1.098,37.019,robbery,19:50,evening,2024-11-29,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini kuna mtu alichukua picha kwa kutumia simu.,no
+Highpoint,-1.1,37.015,sexual harrasment,19:37,evening,2024-07-09,"Nilipokuwa karibu na eneo hilo, niliona kuwa mtuhumiwa alikimbilia upande wa kulikuwa na vilio na machafuko makubwa.",yes
+Highpoint,-1.1,37.015,drug possession,06:20,morning,2024-12-24,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.",no
+Cherry Park,-1.0948,37.0106,battery,16:43,afternoon,2024-09-25,"Wakati nilipokuwa karibu, niliona jinsi watu walipiga kelele wakitaka msaada huku kuna mtu alichukua picha kwa kutumia simu.",no
+JKUAT Enterprises LTD.,-1.0915,37.014,phone snatching,21:12,night,2025-02-19,"Nilipokuwa karibu na eneo hilo, niliona kuwa mtuhumiwa alikimbilia upande wa tukio lilivutia watu wengi waliokuwa wakipita.",no
+Cherry Park,-1.0948,37.0106,assault,08:29,morning,2024-08-15,Kwa macho yangu mwenyewe niliona kwamba watu walipiga kelele wakitaka msaada huku walionekana wakitumia panga na silaha nyingine.,yes
+JKUAT Enterprises LTD.,-1.0915,37.014,fraud,16:11,afternoon,2024-05-31,Kwa macho yangu mwenyewe niliona kwamba hakuna aliyekuwa tayari kuingilia kati wakati kuna mtu alichukua picha kwa kutumia simu.,yes
+Cherry Park,-1.0948,37.0106,phone snatching,21:34,night,2025-04-02,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio kuna mtu alichukua picha kwa kutumia simu.",no
+Juja Market,-1.096,37.0175,battery,20:59,evening,2025-04-01,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku kuna mtu alichukua picha kwa kutumia simu.,yes
+Gachororo,-1.0905,37.0119,reckless driving,18:10,evening,2024-10-14,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.",yes
+Juja City Mall,-1.095,37.0165,robbery,03:42,night,2024-11-09,Nilishuhudia tukio hilo ambapo mhalifu alikimbia mara moja baada ya tukio tukio lilivutia watu wengi waliokuwa wakipita.,no
+JKUAT Enterprises LTD.,-1.0915,37.014,assault,02:14,night,2025-02-07,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio tukio lilivutia watu wengi waliokuwa wakipita.",yes
+Gate C,-1.0922,37.0131,phone snatching,12:47,afternoon,2025-04-29,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.",no
+JKUAT Enterprises LTD.,-1.0915,37.014,domestic violence,21:51,night,2024-12-14,Kwa macho yangu mwenyewe niliona kwamba watu walipiga kelele wakitaka msaada huku tukio lilivutia watu wengi waliokuwa wakipita.,yes
+Gachororo,-1.0905,37.0119,kidnapping,19:44,evening,2025-02-02,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.,no
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,traffic violations,13:33,afternoon,2024-05-30,"Nilipokuwa karibu na eneo hilo, niliona kuwa majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.",no
+Gate C,-1.0922,37.0131,murder,07:24,morning,2025-07-07,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku walionekana wakitumia panga na silaha nyingine.,yes
+Gachororo,-1.0905,37.0119,fraud,10:55,morning,2025-04-22,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini walionekana wakitumia panga na silaha nyingine.,yes
+Gachororo,-1.0905,37.0119,drug possession,07:10,morning,2025-05-01,Nilishuhudia tukio hilo ambapo watu walipiga kelele wakitaka msaada huku kuna mtu alichukua picha kwa kutumia simu.,yes
+JKUAT Enterprises LTD.,-1.0915,37.014,reckless driving,00:35,night,2024-05-16,"Wakati nilipokuwa karibu, niliona jinsi majirani walijaribu kuingilia kati lakini walionekana wakitumia panga na silaha nyingine.",yes
+JKUAT Enterprises LTD.,-1.0915,37.014,traffic violations,00:15,night,2025-07-02,Nilishuhudia tukio hilo ambapo hakuna aliyekuwa tayari kuingilia kati wakati tukio lilivutia watu wengi waliokuwa wakipita.,yes
+Gate C,-1.0922,37.0131,phone snatching,12:54,afternoon,2025-02-13,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.,no
+Gate B,-1.0932,37.0125,assault,10:58,morning,2025-06-04,Nilishuhudia tukio hilo ambapo hakuna aliyekuwa tayari kuingilia kati wakati walionekana wakitumia panga na silaha nyingine.,yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,domestic violence,21:57,night,2025-03-25,"Nilipokuwa karibu na eneo hilo, niliona kuwa majirani walijaribu kuingilia kati lakini kulikuwa na vilio na machafuko makubwa.",no
+Juja City Mall,-1.095,37.0165,fraud,10:55,morning,2025-07-06,"Nilipokuwa karibu na eneo hilo, niliona kuwa majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.",yes
+Juja City Mall,-1.095,37.0165,sexual harrasment,17:29,evening,2025-02-22,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio tukio lilivutia watu wengi waliokuwa wakipita.",yes
+JKUAT Main Gate,-1.0925,37.011,kidnapping,10:34,morning,2024-09-03,Nilishuhudia tukio hilo ambapo hakuna aliyekuwa tayari kuingilia kati wakati tukio lilivutia watu wengi waliokuwa wakipita.,yes
+Juja Market,-1.096,37.0175,battery,05:34,night,2025-01-10,"Nilipokuwa karibu na eneo hilo, niliona kuwa majirani walijaribu kuingilia kati lakini walionekana wakitumia panga na silaha nyingine.",yes
+Gate B,-1.0932,37.0125,sexual harrasment,14:42,afternoon,2025-02-18,"Wakati nilipokuwa karibu, niliona jinsi majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.",yes
+Highpoint,-1.1,37.015,robbery,12:25,afternoon,2025-03-29,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.,no
+Juja City Mall,-1.095,37.0165,drug trafficking,18:30,evening,2024-10-04,"Wakati nilipokuwa karibu, niliona jinsi majirani walijaribu kuingilia kati lakini kuna mtu alichukua picha kwa kutumia simu.",yes
+JKUAT Enterprises LTD.,-1.0915,37.014,reckless driving,11:34,morning,2024-08-22,"Wakati nilipokuwa karibu, niliona jinsi watu walipiga kelele wakitaka msaada huku tukio lilivutia watu wengi waliokuwa wakipita.",no
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,fraud,07:34,morning,2024-10-01,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini walionekana wakitumia panga na silaha nyingine.,no
+Juja City Mall,-1.095,37.0165,drug trafficking,23:24,night,2024-11-21,Nilishuhudia tukio hilo ambapo hakuna aliyekuwa tayari kuingilia kati wakati kulikuwa na vilio na machafuko makubwa.,no
+Highpoint,-1.1,37.015,fraud,13:59,afternoon,2024-05-21,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.",no
+JKUAT hostels area,-1.09,37.012,drug possession,04:58,night,2024-12-22,Nilishuhudia tukio hilo ambapo watu walipiga kelele wakitaka msaada huku kulikuwa na vilio na machafuko makubwa.,no
+Juja Police Station,-1.0948,37.0106,drug trafficking,11:40,morning,2025-02-07,Kwa macho yangu mwenyewe niliona kwamba hakuna aliyekuwa tayari kuingilia kati wakati kuna mtu alichukua picha kwa kutumia simu.,no
+Gate B,-1.0932,37.0125,reckless driving,05:04,night,2024-12-04,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.,no
+JKUAT Enterprises LTD.,-1.0915,37.014,battery,16:34,afternoon,2025-04-23,"Nilipokuwa karibu na eneo hilo, niliona kuwa majirani walijaribu kuingilia kati lakini kuna mtu alichukua picha kwa kutumia simu.",yes
+Juja City Mall,-1.095,37.0165,assault,14:50,afternoon,2025-07-12,"Wakati nilipokuwa karibu, niliona jinsi watu walipiga kelele wakitaka msaada huku kuna mtu alichukua picha kwa kutumia simu.",yes
+Juja City Mall,-1.095,37.0165,drug possession,10:24,morning,2024-11-12,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa tukio lilivutia watu wengi waliokuwa wakipita.,no
+JKUAT Main Gate,-1.0925,37.011,reckless driving,00:07,night,2025-04-15,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.",yes
+Juja Stage,-1.099,37.02,drug trafficking,00:23,night,2025-03-18,"Wakati nilipokuwa karibu, niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati polisi walifika baada ya dakika kadhaa.",yes
+Gate B,-1.0932,37.0125,kidnapping,05:23,night,2025-01-19,"Nilipokuwa karibu na eneo hilo, niliona kuwa hakuna aliyekuwa tayari kuingilia kati wakati polisi walifika baada ya dakika kadhaa.",no
+Highpoint,-1.1,37.015,battery,02:58,night,2025-05-05,"Wakati nilipokuwa karibu, niliona jinsi mtuhumiwa alikimbilia upande wa tukio lilivutia watu wengi waliokuwa wakipita.",yes
+JKUAT Main Gate,-1.0925,37.011,armed robbery,18:21,evening,2024-11-12,Mimi binafsi niliona jinsi majirani walijaribu kuingilia kati lakini kuna mtu alichukua picha kwa kutumia simu.,yes
+JKUAT Main Gate,-1.0925,37.011,fraud,03:36,night,2024-08-28,Kwa macho yangu mwenyewe niliona kwamba mtuhumiwa alikimbilia upande wa tukio lilivutia watu wengi waliokuwa wakipita.,yes
+JKUAT Main Gate,-1.0925,37.011,traffic violations,11:56,morning,2024-06-04,Kwa macho yangu mwenyewe niliona kwamba mhalifu alikimbia mara moja baada ya tukio tukio lilivutia watu wengi waliokuwa wakipita.,no
+Gate B,-1.0932,37.0125,robbery,03:35,night,2024-08-20,Nilishuhudia tukio hilo ambapo hakuna aliyekuwa tayari kuingilia kati wakati walionekana wakitumia panga na silaha nyingine.,yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,sexual harrasment,14:42,afternoon,2024-11-08,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.,yes
+JKUAT Main Gate,-1.0925,37.011,kidnapping,17:20,evening,2025-03-13,"Wakati nilipokuwa karibu, niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati walionekana wakitumia panga na silaha nyingine.",no
+JKUAT hostels area,-1.09,37.012,drug trafficking,01:20,night,2024-12-14,Mimi binafsi niliona jinsi mtuhumiwa alikimbilia upande wa polisi walifika baada ya dakika kadhaa.,no
+Cherry Park,-1.0948,37.0106,fraud,15:40,afternoon,2024-11-22,Kwa macho yangu mwenyewe niliona kwamba watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.,no
+Gachororo,-1.0905,37.0119,murder,13:42,afternoon,2025-04-02,Kwa macho yangu mwenyewe niliona kwamba mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.,yes
+Juja Police Station,-1.0948,37.0106,assault,02:21,night,2024-05-15,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.,yes
+JKUAT Hospital,-1.09,37.012,assault,07:46,morning,2024-09-12,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa kulikuwa na vilio na machafuko makubwa.,yes
+Juja City Mall,-1.095,37.0165,kidnapping,03:08,night,2024-05-22,"Nilipokuwa karibu na eneo hilo, niliona kuwa majirani walijaribu kuingilia kati lakini walionekana wakitumia panga na silaha nyingine.",no
+Gate C,-1.0922,37.0131,drug possession,06:29,morning,2024-05-16,"Wakati nilipokuwa karibu, niliona jinsi mtuhumiwa alikimbilia upande wa tukio lilivutia watu wengi waliokuwa wakipita.",no
+Juja Square,-1.098,37.019,drug possession,14:39,afternoon,2024-12-16,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.,yes
+Juja Stage,-1.099,37.02,murder,02:29,night,2024-05-05,Mimi binafsi niliona jinsi majirani walijaribu kuingilia kati lakini walionekana wakitumia panga na silaha nyingine.,yes
+Gachororo,-1.0905,37.0119,assault,07:48,morning,2024-07-10,"Nilipokuwa karibu na eneo hilo, niliona kuwa hakuna aliyekuwa tayari kuingilia kati wakati kuna mtu alichukua picha kwa kutumia simu.",no
+Gachororo,-1.0905,37.0119,kidnapping,01:14,night,2025-06-15,"Wakati nilipokuwa karibu, niliona jinsi watu walipiga kelele wakitaka msaada huku tukio lilivutia watu wengi waliokuwa wakipita.",no
+Juja Police Station,-1.0905,37.0119,drug possession,04:29,night,2024-05-10,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.,yes
+Juja Square,-1.098,37.019,traffic violations,00:45,night,2024-12-13,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.,yes
+Gate B,-1.0932,37.0125,traffic violations,10:59,morning,2025-03-03,Mimi binafsi niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati kuna mtu alichukua picha kwa kutumia simu.,yes
+Cherry Park,-1.0948,37.0106,phone snatching,08:16,morning,2025-06-09,Nilishuhudia tukio hilo ambapo mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.,yes
+JKUAT Enterprises LTD.,-1.0915,37.014,reckless driving,06:46,morning,2025-01-23,Nilishuhudia tukio hilo ambapo mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.,yes
+Juja City Mall,-1.095,37.0165,fraud,00:43,night,2024-11-19,"Wakati nilipokuwa karibu, niliona jinsi watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.",yes
+JKUAT Hospital,-1.095,37.0165,drug possession,19:50,evening,2025-06-29,Nilishuhudia tukio hilo ambapo watu walipiga kelele wakitaka msaada huku tukio lilivutia watu wengi waliokuwa wakipita.,yes
+Juja Square,-1.098,37.019,armed robbery,06:24,morning,2024-08-22,Mimi binafsi niliona jinsi mtuhumiwa alikimbilia upande wa kuna mtu alichukua picha kwa kutumia simu.,no
+Gachororo,-1.0905,37.0119,phone snatching,20:21,evening,2024-07-15,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini kuna mtu alichukua picha kwa kutumia simu.,yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,sexual harrasment,07:09,morning,2024-06-22,Mimi binafsi niliona jinsi mtuhumiwa alikimbilia upande wa walionekana wakitumia panga na silaha nyingine.,no
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,drug possession,01:19,night,2024-09-01,Mimi binafsi niliona jinsi mtuhumiwa alikimbilia upande wa walionekana wakitumia panga na silaha nyingine.,yes
+Juja Stage,-1.099,37.02,traffic violations,07:36,morning,2024-05-17,Mimi binafsi niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati kuna mtu alichukua picha kwa kutumia simu.,no
+Highpoint,-1.1,37.015,domestic violence,21:47,night,2025-05-03,Kwa macho yangu mwenyewe niliona kwamba mtuhumiwa alikimbilia upande wa polisi walifika baada ya dakika kadhaa.,yes
+JKUAT Enterprises LTD.,-1.0915,37.014,domestic violence,09:52,morning,2024-10-10,Mimi binafsi niliona jinsi majirani walijaribu kuingilia kati lakini kulikuwa na vilio na machafuko makubwa.,no
+JKUAT Enterprises LTD.,-1.0915,37.014,traffic violations,02:33,night,2024-06-12,Nilishuhudia tukio hilo ambapo mhalifu alikimbia mara moja baada ya tukio kuna mtu alichukua picha kwa kutumia simu.,no
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,reckless driving,07:52,morning,2024-12-14,"Wakati nilipokuwa karibu, niliona jinsi mtuhumiwa alikimbilia upande wa kuna mtu alichukua picha kwa kutumia simu.",no
+Highpoint,-1.1,37.015,domestic violence,06:08,morning,2025-07-13,"Wakati nilipokuwa karibu, niliona jinsi mtuhumiwa alikimbilia upande wa kuna mtu alichukua picha kwa kutumia simu.",no
+Highpoint,-1.1,37.015,murder,17:11,evening,2024-09-23,Mimi binafsi niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati kulikuwa na vilio na machafuko makubwa.,yes
+Juja Stage,-1.099,37.02,robbery,10:44,morning,2024-09-06,"Nilipokuwa karibu na eneo hilo, niliona kuwa majirani walijaribu kuingilia kati lakini kuna mtu alichukua picha kwa kutumia simu.",no
+Gachororo,-1.0905,37.0119,drug possession,18:58,evening,2025-02-14,"Wakati nilipokuwa karibu, niliona jinsi watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.",no
+Juja Square,-1.098,37.019,fraud,02:11,night,2024-12-28,"Nilipokuwa karibu na eneo hilo, niliona kuwa watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.",yes
+Gachororo,-1.0905,37.0119,reckless driving,09:23,morning,2024-06-21,Mimi binafsi niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati walionekana wakitumia panga na silaha nyingine.,no
+Juja Square,-1.098,37.019,traffic violations,12:55,afternoon,2024-06-28,Mimi binafsi niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati kuna mtu alichukua picha kwa kutumia simu.,yes
+Juja Stage,-1.099,37.02,sexual harrasment,17:46,evening,2024-11-07,"Wakati nilipokuwa karibu, niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati tukio lilivutia watu wengi waliokuwa wakipita.",no
+Gate C,-1.0922,37.0131,reckless driving,04:54,night,2024-06-08,Kwa macho yangu mwenyewe niliona kwamba mtuhumiwa alikimbilia upande wa polisi walifika baada ya dakika kadhaa.,yes
+JKUAT Enterprises LTD.,-1.0915,37.014,drug trafficking,14:19,afternoon,2025-05-12,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa kulikuwa na vilio na machafuko makubwa.,yes
+Gate C,-1.0922,37.0131,kidnapping,01:47,night,2025-01-23,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.,yes
+Juja Square,-1.098,37.019,armed robbery,19:38,evening,2025-06-21,"Wakati nilipokuwa karibu, niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati kuna mtu alichukua picha kwa kutumia simu.",yes
+Highpoint,-1.1,37.015,drug trafficking,08:02,morning,2024-12-26,Mimi binafsi niliona jinsi mtuhumiwa alikimbilia upande wa tukio lilivutia watu wengi waliokuwa wakipita.,yes
+JKUAT Main Gate,-1.0925,37.011,fraud,05:41,night,2024-08-27,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.",no
+JKUAT Enterprises LTD.,-1.0915,37.014,phone snatching,02:42,night,2025-06-30,"Wakati nilipokuwa karibu, niliona jinsi mtuhumiwa alikimbilia upande wa kuna mtu alichukua picha kwa kutumia simu.",yes
+Juja City Mall,-1.095,37.0165,armed robbery,17:17,evening,2024-09-03,Kwa macho yangu mwenyewe niliona kwamba watu walipiga kelele wakitaka msaada huku walionekana wakitumia panga na silaha nyingine.,no
+JKUAT hostels area,-1.09,37.012,armed robbery,08:27,morning,2025-04-23,Kwa macho yangu mwenyewe niliona kwamba hakuna aliyekuwa tayari kuingilia kati wakati polisi walifika baada ya dakika kadhaa.,yes
+JKUAT Enterprises LTD.,-1.0915,37.014,phone snatching,04:38,night,2025-03-28,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.",no
+Juja Police Station,-1.091,37.0135,drug possession,05:38,night,2025-02-16,Nilishuhudia tukio hilo ambapo hakuna aliyekuwa tayari kuingilia kati wakati polisi walifika baada ya dakika kadhaa.,no
+JKUAT Main Gate,-1.0925,37.011,drug trafficking,09:00,morning,2025-02-09,Nilishuhudia tukio hilo ambapo watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.,yes
+JKUAT hostels area,-1.09,37.012,armed robbery,19:22,evening,2024-08-02,Kwa macho yangu mwenyewe niliona kwamba watu walipiga kelele wakitaka msaada huku walionekana wakitumia panga na silaha nyingine.,yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,murder,00:32,night,2025-04-19,"Nilipokuwa karibu na eneo hilo, niliona kuwa hakuna aliyekuwa tayari kuingilia kati wakati tukio lilivutia watu wengi waliokuwa wakipita.",yes
+JKUAT Enterprises LTD.,-1.0915,37.014,domestic violence,14:16,afternoon,2024-05-15,"Nilipokuwa karibu na eneo hilo, niliona kuwa mtuhumiwa alikimbilia upande wa walionekana wakitumia panga na silaha nyingine.",no
+Highpoint,-1.1,37.015,robbery,13:55,afternoon,2025-06-21,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.,yes
+Gate C,-1.0922,37.0131,reckless driving,03:07,night,2024-09-10,"Wakati nilipokuwa karibu, niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati polisi walifika baada ya dakika kadhaa.",no
+JKUAT Enterprises LTD.,-1.0915,37.014,kidnapping,05:54,night,2024-12-02,Kwa macho yangu mwenyewe niliona kwamba watu walipiga kelele wakitaka msaada huku tukio lilivutia watu wengi waliokuwa wakipita.,no
+Gachororo,-1.0905,37.0119,armed robbery,08:43,morning,2024-10-27,"Nilipokuwa karibu na eneo hilo, niliona kuwa hakuna aliyekuwa tayari kuingilia kati wakati kulikuwa na vilio na machafuko makubwa.",no
+Gate C,-1.0922,37.0131,battery,09:16,morning,2025-02-28,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio kuna mtu alichukua picha kwa kutumia simu.",yes
+Juja City Mall,-1.095,37.0165,burglary,15:32,afternoon,2024-11-05,Kwa macho yangu mwenyewe niliona kwamba mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.,yes
+Gate C,-1.0922,37.0131,battery,17:26,evening,2025-06-24,Kwa macho yangu mwenyewe niliona kwamba mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.,yes
+Juja Police Station,-1.0922,37.0131,drug trafficking,00:06,night,2024-07-25,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.",no
+JKUAT hostels area,-1.09,37.012,phone snatching,20:01,evening,2024-12-05,"Wakati nilipokuwa karibu, niliona jinsi mtuhumiwa alikimbilia upande wa kuna mtu alichukua picha kwa kutumia simu.",yes
+Juja Stage,-1.099,37.02,domestic violence,22:56,night,2024-09-27,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa kulikuwa na vilio na machafuko makubwa.,yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,assault,09:10,morning,2025-04-01,Kwa macho yangu mwenyewe niliona kwamba mtuhumiwa alikimbilia upande wa tukio lilivutia watu wengi waliokuwa wakipita.,no
+Gate C,-1.0922,37.0131,phone snatching,01:14,night,2024-12-29,"Nilipokuwa karibu na eneo hilo, niliona kuwa hakuna aliyekuwa tayari kuingilia kati wakati polisi walifika baada ya dakika kadhaa.",no
+Gate C,-1.0922,37.0131,drug possession,11:14,morning,2024-05-18,Mimi binafsi niliona jinsi majirani walijaribu kuingilia kati lakini kulikuwa na vilio na machafuko makubwa.,no
+JKUAT hostels area,-1.09,37.012,robbery,14:43,afternoon,2024-05-03,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa tukio lilivutia watu wengi waliokuwa wakipita.,no
+Highpoint,-1.1,37.015,fraud,01:55,night,2024-05-29,Nilishuhudia tukio hilo ambapo watu walipiga kelele wakitaka msaada huku kuna mtu alichukua picha kwa kutumia simu.,no
+JKUAT Main Gate,-1.0925,37.011,armed robbery,16:25,afternoon,2025-04-07,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini kuna mtu alichukua picha kwa kutumia simu.,yes
+Juja Police Station,-1.097,37.018,drug possession,06:39,morning,2024-12-01,Mimi binafsi niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati walionekana wakitumia panga na silaha nyingine.,no
+Gachororo,-1.0905,37.0119,assault,19:35,evening,2025-04-18,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio tukio lilivutia watu wengi waliokuwa wakipita.",yes
+JKUAT Enterprises LTD.,-1.0915,37.014,murder,00:12,night,2025-04-01,Mimi binafsi niliona jinsi majirani walijaribu kuingilia kati lakini kuna mtu alichukua picha kwa kutumia simu.,yes
+Gate B,-1.0932,37.0125,fraud,02:39,night,2024-07-30,Mimi binafsi niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati tukio lilivutia watu wengi waliokuwa wakipita.,yes
+Gate B,-1.0932,37.0125,drug trafficking,14:00,afternoon,2025-03-26,Kwa macho yangu mwenyewe niliona kwamba mtuhumiwa alikimbilia upande wa walionekana wakitumia panga na silaha nyingine.,yes
+Gate C,-1.0922,37.0131,phone snatching,09:02,morning,2025-06-18,"Wakati nilipokuwa karibu, niliona jinsi mtuhumiwa alikimbilia upande wa tukio lilivutia watu wengi waliokuwa wakipita.",no
+Gate C,-1.0922,37.0131,sexual harrasment,01:41,night,2024-12-03,"Nilipokuwa karibu na eneo hilo, niliona kuwa mtuhumiwa alikimbilia upande wa walionekana wakitumia panga na silaha nyingine.",yes
+Gate B,-1.0932,37.0125,domestic violence,08:44,morning,2024-08-20,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini kuna mtu alichukua picha kwa kutumia simu.,no
+JKUAT Main Gate,-1.0925,37.011,assault,23:25,night,2025-02-03,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.",yes
+Gate C,-1.0922,37.0131,fraud,06:16,morning,2024-12-15,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio kuna mtu alichukua picha kwa kutumia simu.,yes
+Gate C,-1.0922,37.0131,burglary,07:45,morning,2024-11-14,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.",no
+JKUAT Hospital,-1.099,37.02,assault,12:50,afternoon,2025-04-05,Mimi binafsi niliona jinsi mtuhumiwa alikimbilia upande wa tukio lilivutia watu wengi waliokuwa wakipita.,yes
+Juja Market,-1.096,37.0175,drug possession,18:11,evening,2024-05-25,"Wakati nilipokuwa karibu, niliona jinsi mtuhumiwa alikimbilia upande wa kuna mtu alichukua picha kwa kutumia simu.",no
+Cherry Park,-1.0948,37.0106,kidnapping,15:25,afternoon,2025-03-03,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini walionekana wakitumia panga na silaha nyingine.,no
+Juja Square,-1.098,37.019,armed robbery,23:48,night,2024-07-04,Kwa macho yangu mwenyewe niliona kwamba mtuhumiwa alikimbilia upande wa tukio lilivutia watu wengi waliokuwa wakipita.,no
+Juja Police Station,-1.098,37.019,drug possession,08:08,morning,2025-05-19,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.",yes
+Juja Market,-1.096,37.0175,kidnapping,06:23,morning,2025-07-12,"Wakati nilipokuwa karibu, niliona jinsi mtuhumiwa alikimbilia upande wa kuna mtu alichukua picha kwa kutumia simu.",yes
+JKUAT Enterprises LTD.,-1.0915,37.014,drug possession,13:49,afternoon,2024-10-13,Mimi binafsi niliona jinsi majirani walijaribu kuingilia kati lakini kulikuwa na vilio na machafuko makubwa.,yes
+Juja Police Station,-1.0922,37.0131,drug possession,10:16,morning,2024-12-15,Nilishuhudia tukio hilo ambapo hakuna aliyekuwa tayari kuingilia kati wakati kulikuwa na vilio na machafuko makubwa.,yes
+Juja Market,-1.096,37.0175,murder,18:35,evening,2024-10-05,Kwa macho yangu mwenyewe niliona kwamba hakuna aliyekuwa tayari kuingilia kati wakati kulikuwa na vilio na machafuko makubwa.,no
+Gachororo,-1.0905,37.0119,drug possession,04:51,night,2025-04-13,Kwa macho yangu mwenyewe niliona kwamba hakuna aliyekuwa tayari kuingilia kati wakati tukio lilivutia watu wengi waliokuwa wakipita.,yes
+Juja City Mall,-1.095,37.0165,sexual harrasment,18:02,evening,2024-08-13,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.,no
+Highpoint,-1.1,37.015,sexual harrasment,15:10,afternoon,2024-11-11,"Wakati nilipokuwa karibu, niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati kulikuwa na vilio na machafuko makubwa.",yes
+Gachororo,-1.0905,37.0119,assault,22:50,night,2025-05-23,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.,yes
+Gate C,-1.0922,37.0131,fraud,22:15,night,2025-01-26,Mimi binafsi niliona jinsi majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.,no
+Juja Police Station,-1.0915,37.014,drug possession,16:11,afternoon,2025-04-21,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio kuna mtu alichukua picha kwa kutumia simu.",yes
+Gate C,-1.0922,37.0131,murder,19:03,evening,2025-01-29,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini walionekana wakitumia panga na silaha nyingine.,no
+Gachororo,-1.0905,37.0119,phone snatching,11:12,morning,2024-08-28,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.,yes
+Juja Police Station,-1.095,37.0165,drug possession,19:50,evening,2025-06-29,Nilishuhudia tukio hilo ambapo watu walipiga kelele wakitaka msaada huku tukio lilivutia watu wengi waliokuwa wakipita.,yes
+JKUAT Enterprises LTD.,-1.0915,37.014,drug possession,02:37,night,2024-10-13,"Nilipokuwa karibu na eneo hilo, niliona kuwa majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.",no
+Highpoint,-1.1,37.015,traffic violations,11:39,morning,2024-06-13,Mimi binafsi niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati tukio lilivutia watu wengi waliokuwa wakipita.,no
+Juja Market,-1.096,37.0175,reckless driving,00:36,night,2024-11-19,"Nilipokuwa karibu na eneo hilo, niliona kuwa hakuna aliyekuwa tayari kuingilia kati wakati kuna mtu alichukua picha kwa kutumia simu.",no
+JKUAT hostels area,-1.09,37.012,sexual harrasment,03:08,night,2024-06-10,Kwa macho yangu mwenyewe niliona kwamba mtuhumiwa alikimbilia upande wa walionekana wakitumia panga na silaha nyingine.,no
+Cherry Park,-1.0948,37.0106,murder,21:04,night,2024-08-10,"Nilipokuwa karibu na eneo hilo, niliona kuwa hakuna aliyekuwa tayari kuingilia kati wakati tukio lilivutia watu wengi waliokuwa wakipita.",yes
+Juja Square,-1.098,37.019,drug trafficking,11:48,morning,2025-05-27,Nilishuhudia tukio hilo ambapo mhalifu alikimbia mara moja baada ya tukio tukio lilivutia watu wengi waliokuwa wakipita.,yes
+Highpoint,-1.1,37.015,assault,21:03,night,2025-05-07,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.,no
+Juja Market,-1.096,37.0175,assault,01:31,night,2025-03-08,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini kulikuwa na vilio na machafuko makubwa.,no
+JKUAT hostels area,-1.09,37.012,burglary,12:19,afternoon,2024-10-11,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.,yes
+JKUAT Main Gate,-1.0925,37.011,kidnapping,17:19,evening,2024-07-07,"Wakati nilipokuwa karibu, niliona jinsi mtuhumiwa alikimbilia upande wa tukio lilivutia watu wengi waliokuwa wakipita.",yes
+Juja Square,-1.098,37.019,assault,09:08,morning,2024-08-27,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.,yes
+JKUAT hostels area,-1.09,37.012,burglary,07:03,morning,2024-12-03,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku walionekana wakitumia panga na silaha nyingine.,yes
+Gachororo,-1.0905,37.0119,robbery,04:12,night,2025-02-12,Nilishuhudia tukio hilo ambapo mhalifu alikimbia mara moja baada ya tukio tukio lilivutia watu wengi waliokuwa wakipita.,yes
+Juja Stage,-1.099,37.02,reckless driving,02:15,night,2024-12-11,"Nilipokuwa karibu na eneo hilo, niliona kuwa hakuna aliyekuwa tayari kuingilia kati wakati tukio lilivutia watu wengi waliokuwa wakipita.",no
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,sexual harrasment,04:49,night,2025-01-13,Mimi binafsi niliona jinsi mtuhumiwa alikimbilia upande wa kulikuwa na vilio na machafuko makubwa.,no
+JKUAT Enterprises LTD.,-1.0915,37.014,kidnapping,16:48,afternoon,2025-04-20,"Nilipokuwa karibu na eneo hilo, niliona kuwa hakuna aliyekuwa tayari kuingilia kati wakati tukio lilivutia watu wengi waliokuwa wakipita.",yes
+Cherry Park,-1.0948,37.0106,sexual harrasment,13:11,afternoon,2024-08-08,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.",no
+Juja Stage,-1.099,37.02,assault,11:41,morning,2024-12-20,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.",no
+Gachororo,-1.0905,37.0119,fraud,09:11,morning,2024-11-05,"Nilipokuwa karibu na eneo hilo, niliona kuwa mtuhumiwa alikimbilia upande wa kuna mtu alichukua picha kwa kutumia simu.",no
+JKUAT Hospital,-1.096,37.0175,drug trafficking,14:24,afternoon,2025-03-18,"Nilipokuwa karibu na eneo hilo, niliona kuwa hakuna aliyekuwa tayari kuingilia kati wakati kulikuwa na vilio na machafuko makubwa.",yes
+JKUAT Enterprises LTD.,-1.0915,37.014,murder,06:58,morning,2024-12-18,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.,no
+Gachororo,-1.0905,37.0119,drug possession,11:24,morning,2024-10-26,Nilishuhudia tukio hilo ambapo watu walipiga kelele wakitaka msaada huku walionekana wakitumia panga na silaha nyingine.,no
+JKUAT Enterprises LTD.,-1.0915,37.014,battery,08:28,morning,2024-07-08,Kwa macho yangu mwenyewe niliona kwamba watu walipiga kelele wakitaka msaada huku walionekana wakitumia panga na silaha nyingine.,yes
+Highpoint,-1.1,37.015,fraud,16:22,afternoon,2025-07-06,"Wakati nilipokuwa karibu, niliona jinsi majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.",yes
+Juja Square,-1.098,37.019,burglary,04:44,night,2024-06-08,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio kuna mtu alichukua picha kwa kutumia simu.",yes
+Cherry Park,-1.0948,37.0106,traffic violations,19:02,evening,2024-10-19,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku kulikuwa na vilio na machafuko makubwa.,yes
+Juja City Mall,-1.095,37.0165,armed robbery,07:26,morning,2024-11-17,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku walionekana wakitumia panga na silaha nyingine.,no
+JKUAT Main Gate,-1.0925,37.011,traffic violations,09:18,morning,2024-12-21,Nilishuhudia tukio hilo ambapo hakuna aliyekuwa tayari kuingilia kati wakati polisi walifika baada ya dakika kadhaa.,no
+Gate B,-1.0932,37.0125,domestic violence,01:30,night,2024-11-28,"Nilipokuwa karibu na eneo hilo, niliona kuwa watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.",no
+Juja Police Station,-1.0948,37.0106,assault,00:11,night,2025-01-22,"Wakati nilipokuwa karibu, niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati tukio lilivutia watu wengi waliokuwa wakipita.",yes
+JKUAT Enterprises LTD.,-1.0915,37.014,drug possession,17:19,evening,2024-11-03,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.,yes
+JKUAT Enterprises LTD.,-1.0915,37.014,traffic violations,00:21,night,2024-10-27,Kwa macho yangu mwenyewe niliona kwamba mtuhumiwa alikimbilia upande wa kuna mtu alichukua picha kwa kutumia simu.,no
+Juja Market,-1.096,37.0175,battery,21:59,night,2024-06-03,Nilishuhudia tukio hilo ambapo watu walipiga kelele wakitaka msaada huku kuna mtu alichukua picha kwa kutumia simu.,no
+Cherry Park,-1.0948,37.0106,drug trafficking,02:24,night,2025-06-14,Nilishuhudia tukio hilo ambapo watu walipiga kelele wakitaka msaada huku walionekana wakitumia panga na silaha nyingine.,yes
+JKUAT hostels area,-1.09,37.012,drug trafficking,04:21,night,2024-11-15,Nilishuhudia tukio hilo ambapo mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.,no
+Gate C,-1.0922,37.0131,murder,02:18,night,2024-06-11,"Wakati nilipokuwa karibu, niliona jinsi majirani walijaribu kuingilia kati lakini kuna mtu alichukua picha kwa kutumia simu.",no
+Highpoint,-1.1,37.015,drug trafficking,06:25,morning,2024-11-05,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.",yes
+Gate B,-1.0932,37.0125,phone snatching,02:09,night,2025-01-22,Mimi binafsi niliona jinsi majirani walijaribu kuingilia kati lakini walionekana wakitumia panga na silaha nyingine.,no
+JKUAT hostels area,-1.09,37.012,armed robbery,01:51,night,2024-09-03,Kwa macho yangu mwenyewe niliona kwamba mtuhumiwa alikimbilia upande wa polisi walifika baada ya dakika kadhaa.,yes
+Juja Square,-1.098,37.019,drug trafficking,07:03,morning,2024-12-05,Mimi binafsi niliona jinsi mtuhumiwa alikimbilia upande wa tukio lilivutia watu wengi waliokuwa wakipita.,no
+Gate B,-1.0932,37.0125,burglary,17:43,evening,2025-02-03,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku walionekana wakitumia panga na silaha nyingine.,no
+Juja City Mall,-1.095,37.0165,phone snatching,10:49,morning,2024-05-05,"Wakati nilipokuwa karibu, niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati kulikuwa na vilio na machafuko makubwa.",no
+Juja City Mall,-1.095,37.0165,sexual harrasment,02:52,night,2025-01-09,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio tukio lilivutia watu wengi waliokuwa wakipita.",no
+Juja Square,-1.098,37.019,murder,07:45,morning,2024-07-30,"Nilipokuwa karibu na eneo hilo, niliona kuwa watu walipiga kelele wakitaka msaada huku kulikuwa na vilio na machafuko makubwa.",yes
+Cherry Park,-1.0948,37.0106,fraud,04:39,night,2024-06-02,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini kulikuwa na vilio na machafuko makubwa.,no
+Gachororo,-1.0905,37.0119,armed robbery,08:38,morning,2024-07-02,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.,no
+JKUAT hostels area,-1.09,37.012,drug trafficking,16:19,afternoon,2025-01-06,"Nilipokuwa karibu na eneo hilo, niliona kuwa mtuhumiwa alikimbilia upande wa walionekana wakitumia panga na silaha nyingine.",no
+Highpoint,-1.1,37.015,drug possession,00:02,night,2024-06-17,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.,yes
+Juja Police Station,-1.0948,37.0106,drug trafficking,03:48,night,2024-09-20,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.",no
+Juja Square,-1.098,37.019,armed robbery,17:04,evening,2024-07-29,Kwa macho yangu mwenyewe niliona kwamba mtuhumiwa alikimbilia upande wa polisi walifika baada ya dakika kadhaa.,no
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,burglary,12:47,afternoon,2025-05-02,Mimi binafsi niliona jinsi mtuhumiwa alikimbilia upande wa kulikuwa na vilio na machafuko makubwa.,no
+Cherry Park,-1.0948,37.0106,burglary,08:00,morning,2025-05-08,Mimi binafsi niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati tukio lilivutia watu wengi waliokuwa wakipita.,yes
+Gate C,-1.0922,37.0131,phone snatching,10:49,morning,2024-10-03,Kwa macho yangu mwenyewe niliona kwamba watu walipiga kelele wakitaka msaada huku walionekana wakitumia panga na silaha nyingine.,no
+Gate C,-1.0922,37.0131,kidnapping,08:30,morning,2024-11-01,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini kulikuwa na vilio na machafuko makubwa.,no
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,drug trafficking,13:29,afternoon,2024-12-15,Mimi binafsi niliona jinsi majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.,yes
+JKUAT hostels area,-1.09,37.012,drug possession,17:17,evening,2024-05-20,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.",no
+JKUAT Main Gate,-1.0925,37.011,fraud,14:42,afternoon,2024-12-14,"Nilipokuwa karibu na eneo hilo, niliona kuwa watu walipiga kelele wakitaka msaada huku tukio lilivutia watu wengi waliokuwa wakipita.",no
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,fraud,19:51,evening,2025-05-08,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa walionekana wakitumia panga na silaha nyingine.,no
+Gate C,-1.0922,37.0131,traffic violations,16:01,afternoon,2024-05-18,"Wakati nilipokuwa karibu, niliona jinsi majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.",no
+JKUAT Hospital,-1.0948,37.0106,assault,02:21,night,2024-05-15,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.,yes
+Gate B,-1.0932,37.0125,reckless driving,07:16,morning,2025-04-08,Mimi binafsi niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati tukio lilivutia watu wengi waliokuwa wakipita.,no
+JKUAT Enterprises LTD.,-1.0915,37.014,armed robbery,10:54,morning,2024-06-23,Mimi binafsi niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati tukio lilivutia watu wengi waliokuwa wakipita.,yes
+JKUAT Enterprises LTD.,-1.0915,37.014,robbery,04:56,night,2025-02-22,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa walionekana wakitumia panga na silaha nyingine.,no
+Juja Square,-1.098,37.019,reckless driving,05:19,night,2024-05-14,Nilishuhudia tukio hilo ambapo watu walipiga kelele wakitaka msaada huku walionekana wakitumia panga na silaha nyingine.,no
+Juja City Mall,-1.095,37.0165,drug trafficking,23:58,night,2024-05-11,"Nilipokuwa karibu na eneo hilo, niliona kuwa hakuna aliyekuwa tayari kuingilia kati wakati polisi walifika baada ya dakika kadhaa.",yes
+JKUAT Enterprises LTD.,-1.0915,37.014,burglary,23:57,night,2024-08-03,Nilishuhudia tukio hilo ambapo hakuna aliyekuwa tayari kuingilia kati wakati polisi walifika baada ya dakika kadhaa.,yes
+Juja Stage,-1.099,37.02,domestic violence,00:39,night,2024-12-15,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.,no
+Gate B,-1.0932,37.0125,drug trafficking,06:56,morning,2025-01-17,"Nilipokuwa karibu na eneo hilo, niliona kuwa mtuhumiwa alikimbilia upande wa kuna mtu alichukua picha kwa kutumia simu.",no
+JKUAT hostels area,-1.09,37.012,phone snatching,06:50,morning,2024-08-26,Mimi binafsi niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati polisi walifika baada ya dakika kadhaa.,no
+Juja Stage,-1.099,37.02,drug possession,18:09,evening,2025-01-30,Nilishuhudia tukio hilo ambapo watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.,yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,armed robbery,16:09,afternoon,2024-06-27,"Wakati nilipokuwa karibu, niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati kuna mtu alichukua picha kwa kutumia simu.",no
+JKUAT hostels area,-1.09,37.012,kidnapping,08:35,morning,2024-07-10,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.",yes
+JKUAT Enterprises LTD.,-1.0915,37.014,armed robbery,05:52,night,2024-12-15,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio kuna mtu alichukua picha kwa kutumia simu.",no
+JKUAT Hospital,-1.097,37.018,drug trafficking,19:13,evening,2024-08-27,Nilishuhudia tukio hilo ambapo watu walipiga kelele wakitaka msaada huku kuna mtu alichukua picha kwa kutumia simu.,yes
+Juja Square,-1.098,37.019,robbery,10:30,morning,2025-01-05,"Wakati nilipokuwa karibu, niliona jinsi watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.",no
+JKUAT Enterprises LTD.,-1.0915,37.014,battery,16:14,afternoon,2025-04-20,Mimi binafsi niliona jinsi majirani walijaribu kuingilia kati lakini walionekana wakitumia panga na silaha nyingine.,no
+JKUAT hostels area,-1.09,37.012,armed robbery,16:28,afternoon,2024-10-05,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa kuna mtu alichukua picha kwa kutumia simu.,yes
+Juja Stage,-1.099,37.02,armed robbery,01:10,night,2025-05-27,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.,no
+Cherry Park,-1.0948,37.0106,domestic violence,00:23,night,2024-09-21,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.,yes
+Juja City Mall,-1.095,37.0165,drug trafficking,21:12,night,2024-09-06,Kwa macho yangu mwenyewe niliona kwamba mtuhumiwa alikimbilia upande wa walionekana wakitumia panga na silaha nyingine.,yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,robbery,22:05,night,2024-08-05,Kwa macho yangu mwenyewe niliona kwamba mtuhumiwa alikimbilia upande wa kulikuwa na vilio na machafuko makubwa.,no
+Cherry Park,-1.0948,37.0106,fraud,23:24,night,2025-06-14,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.,no
+Cherry Park,-1.0948,37.0106,traffic violations,19:57,evening,2024-07-25,"Wakati nilipokuwa karibu, niliona jinsi watu walipiga kelele wakitaka msaada huku tukio lilivutia watu wengi waliokuwa wakipita.",no
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,domestic violence,12:07,afternoon,2024-11-05,Kwa macho yangu mwenyewe niliona kwamba hakuna aliyekuwa tayari kuingilia kati wakati tukio lilivutia watu wengi waliokuwa wakipita.,no
+JKUAT Main Gate,-1.0925,37.011,phone snatching,00:37,night,2025-06-12,Mimi binafsi niliona jinsi majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.,yes
+Juja Police Station,-1.0932,37.0125,assault,10:14,morning,2024-07-11,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.,no
+Gate B,-1.0932,37.0125,sexual harrasment,05:36,night,2025-06-29,"Nilipokuwa karibu na eneo hilo, niliona kuwa majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.",no
+Highpoint,-1.1,37.015,assault,08:26,morning,2024-10-25,"Nilipokuwa karibu na eneo hilo, niliona kuwa majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.",yes
+JKUAT Enterprises LTD.,-1.0915,37.014,drug possession,04:59,night,2025-05-08,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.,no
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,fraud,18:35,evening,2024-09-30,Nilishuhudia tukio hilo ambapo watu walipiga kelele wakitaka msaada huku kuna mtu alichukua picha kwa kutumia simu.,no
+Juja Police Station,-1.0922,37.0131,drug possession,06:49,morning,2024-12-19,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.",yes
+Juja City Mall,-1.095,37.0165,traffic violations,10:26,morning,2024-10-05,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio tukio lilivutia watu wengi waliokuwa wakipita.",yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,traffic violations,20:56,evening,2025-05-09,"Wakati nilipokuwa karibu, niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati kulikuwa na vilio na machafuko makubwa.",yes
+Highpoint,-1.1,37.015,battery,10:01,morning,2025-02-05,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.,yes
+Juja City Mall,-1.095,37.0165,robbery,06:25,morning,2024-06-20,Mimi binafsi niliona jinsi majirani walijaribu kuingilia kati lakini kulikuwa na vilio na machafuko makubwa.,no
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,phone snatching,20:31,evening,2024-06-25,"Nilipokuwa karibu na eneo hilo, niliona kuwa hakuna aliyekuwa tayari kuingilia kati wakati polisi walifika baada ya dakika kadhaa.",no
+Juja Stage,-1.099,37.02,reckless driving,00:06,night,2025-05-24,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.,no
+Juja Market,-1.096,37.0175,armed robbery,03:39,night,2024-10-11,Nilishuhudia tukio hilo ambapo hakuna aliyekuwa tayari kuingilia kati wakati kulikuwa na vilio na machafuko makubwa.,no
+Juja City Mall,-1.095,37.0165,armed robbery,06:38,morning,2024-05-27,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio tukio lilivutia watu wengi waliokuwa wakipita.,no
+JKUAT Enterprises LTD.,-1.0915,37.014,traffic violations,16:31,afternoon,2025-05-14,Kwa macho yangu mwenyewe niliona kwamba watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.,no
+Juja Square,-1.098,37.019,kidnapping,18:01,evening,2025-01-15,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa kulikuwa na vilio na machafuko makubwa.,yes
+Gachororo,-1.0905,37.0119,traffic violations,19:13,evening,2025-02-27,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio kuna mtu alichukua picha kwa kutumia simu.",yes
+JKUAT Enterprises LTD.,-1.0915,37.014,armed robbery,03:34,night,2025-04-17,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio tukio lilivutia watu wengi waliokuwa wakipita.,no
+Juja Police Station,-1.098,37.019,drug trafficking,14:05,afternoon,2025-02-08,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.,no
+Gachororo,-1.0905,37.0119,sexual harrasment,06:24,morning,2024-07-13,Mimi binafsi niliona jinsi majirani walijaribu kuingilia kati lakini walionekana wakitumia panga na silaha nyingine.,yes
+Juja Square,-1.098,37.019,drug possession,21:19,night,2024-06-04,"Nilipokuwa karibu na eneo hilo, niliona kuwa watu walipiga kelele wakitaka msaada huku kulikuwa na vilio na machafuko makubwa.",yes
+JKUAT Enterprises LTD.,-1.0915,37.014,drug possession,16:11,afternoon,2025-04-21,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio kuna mtu alichukua picha kwa kutumia simu.",yes
+JKUAT hostels area,-1.09,37.012,drug trafficking,06:09,morning,2025-01-08,Nilishuhudia tukio hilo ambapo hakuna aliyekuwa tayari kuingilia kati wakati tukio lilivutia watu wengi waliokuwa wakipita.,yes
+Juja City Mall,-1.095,37.0165,assault,13:35,afternoon,2025-03-05,Nilishuhudia tukio hilo ambapo mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.,no
+JKUAT Enterprises LTD.,-1.0915,37.014,murder,00:59,night,2024-10-31,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio kuna mtu alichukua picha kwa kutumia simu.,no
+JKUAT hostels area,-1.09,37.012,fraud,11:36,morning,2025-05-23,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.,no
+Juja Market,-1.096,37.0175,drug trafficking,14:13,afternoon,2025-04-28,Mimi binafsi niliona jinsi mtuhumiwa alikimbilia upande wa walionekana wakitumia panga na silaha nyingine.,no
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,drug trafficking,13:38,afternoon,2025-07-02,"Nilipokuwa karibu na eneo hilo, niliona kuwa hakuna aliyekuwa tayari kuingilia kati wakati polisi walifika baada ya dakika kadhaa.",yes
+Gate C,-1.0922,37.0131,sexual harrasment,04:37,night,2024-12-12,Mimi binafsi niliona jinsi majirani walijaribu kuingilia kati lakini kuna mtu alichukua picha kwa kutumia simu.,yes
+Gate C,-1.0922,37.0131,burglary,10:49,morning,2024-11-03,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio kuna mtu alichukua picha kwa kutumia simu.,no
+JKUAT hostels area,-1.09,37.012,fraud,23:08,night,2025-01-23,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.",yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,drug trafficking,08:36,morning,2024-11-27,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa polisi walifika baada ya dakika kadhaa.,yes
+Gate C,-1.0922,37.0131,drug trafficking,00:06,night,2024-07-25,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.",no
+Juja Market,-1.096,37.0175,traffic violations,05:37,night,2024-08-24,Kwa macho yangu mwenyewe niliona kwamba watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.,yes
+Juja Market,-1.096,37.0175,assault,19:36,evening,2025-01-12,Nilishuhudia tukio hilo ambapo hakuna aliyekuwa tayari kuingilia kati wakati kuna mtu alichukua picha kwa kutumia simu.,no
+Highpoint,-1.1,37.015,domestic violence,14:00,afternoon,2024-06-08,Kwa macho yangu mwenyewe niliona kwamba watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.,yes
+JKUAT Hospital,-1.0932,37.0125,assault,23:07,night,2024-09-17,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa tukio lilivutia watu wengi waliokuwa wakipita.,no
+Gachororo,-1.0905,37.0119,kidnapping,09:01,morning,2024-06-19,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.",no
+Juja Stage,-1.099,37.02,burglary,05:24,night,2025-04-03,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.,yes
+Juja Stage,-1.099,37.02,armed robbery,09:39,morning,2025-01-25,"Wakati nilipokuwa karibu, niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati tukio lilivutia watu wengi waliokuwa wakipita.",yes
+Juja Market,-1.096,37.0175,robbery,21:29,night,2024-09-29,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa walionekana wakitumia panga na silaha nyingine.,no
+Juja Stage,-1.099,37.02,drug trafficking,18:07,evening,2024-08-20,Kwa macho yangu mwenyewe niliona kwamba watu walipiga kelele wakitaka msaada huku walionekana wakitumia panga na silaha nyingine.,yes
+Juja Police Station,-1.0925,37.011,drug trafficking,00:54,night,2025-02-02,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio tukio lilivutia watu wengi waliokuwa wakipita.",no
+JKUAT Hospital,-1.0915,37.014,drug possession,16:11,afternoon,2025-04-21,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio kuna mtu alichukua picha kwa kutumia simu.",yes
+Gate C,-1.0922,37.0131,kidnapping,23:35,night,2024-12-24,"Wakati nilipokuwa karibu, niliona jinsi mtuhumiwa alikimbilia upande wa walionekana wakitumia panga na silaha nyingine.",yes
+JKUAT Enterprises LTD.,-1.0915,37.014,sexual harrasment,18:46,evening,2024-08-07,Mimi binafsi niliona jinsi majirani walijaribu kuingilia kati lakini kuna mtu alichukua picha kwa kutumia simu.,yes
+Juja Square,-1.098,37.019,fraud,02:14,night,2025-03-08,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.",yes
+Cherry Park,-1.0948,37.0106,sexual harrasment,05:21,night,2024-09-11,Kwa macho yangu mwenyewe niliona kwamba mhalifu alikimbia mara moja baada ya tukio kuna mtu alichukua picha kwa kutumia simu.,yes
+Juja City Mall,-1.095,37.0165,phone snatching,02:52,night,2024-08-13,Kwa macho yangu mwenyewe niliona kwamba mtuhumiwa alikimbilia upande wa kuna mtu alichukua picha kwa kutumia simu.,no
+JKUAT hostels area,-1.09,37.012,reckless driving,17:21,evening,2024-11-22,Mimi binafsi niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati kuna mtu alichukua picha kwa kutumia simu.,yes
+JKUAT Hospital,-1.0922,37.0131,assault,04:06,night,2024-11-23,Nilishuhudia tukio hilo ambapo mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.,yes
+JKUAT Main Gate,-1.0925,37.011,sexual harrasment,19:37,evening,2025-04-26,Nilishuhudia tukio hilo ambapo watu walipiga kelele wakitaka msaada huku tukio lilivutia watu wengi waliokuwa wakipita.,yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,drug possession,16:44,afternoon,2025-03-31,"Nilipokuwa karibu na eneo hilo, niliona kuwa hakuna aliyekuwa tayari kuingilia kati wakati walionekana wakitumia panga na silaha nyingine.",no
+Juja City Mall,-1.095,37.0165,battery,23:31,night,2024-11-25,Kwa macho yangu mwenyewe niliona kwamba mtuhumiwa alikimbilia upande wa kuna mtu alichukua picha kwa kutumia simu.,yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,burglary,03:17,night,2025-06-14,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa kuna mtu alichukua picha kwa kutumia simu.,yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,assault,14:02,afternoon,2024-08-07,"Nilipokuwa karibu na eneo hilo, niliona kuwa watu walipiga kelele wakitaka msaada huku kulikuwa na vilio na machafuko makubwa.",yes
+Gate C,-1.0922,37.0131,sexual harrasment,04:13,night,2025-01-25,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.,no
+Gate B,-1.0932,37.0125,drug trafficking,18:06,evening,2024-12-21,Nilishuhudia tukio hilo ambapo mhalifu alikimbia mara moja baada ya tukio tukio lilivutia watu wengi waliokuwa wakipita.,no
+Gate C,-1.0922,37.0131,fraud,04:07,night,2024-06-26,"Nilipokuwa karibu na eneo hilo, niliona kuwa mtuhumiwa alikimbilia upande wa tukio lilivutia watu wengi waliokuwa wakipita.",no
+Gate B,-1.0932,37.0125,fraud,16:56,afternoon,2025-06-25,"Nilipokuwa karibu na eneo hilo, niliona kuwa hakuna aliyekuwa tayari kuingilia kati wakati kulikuwa na vilio na machafuko makubwa.",no
+Gate C,-1.0922,37.0131,drug possession,19:34,evening,2025-02-17,"Nilipokuwa karibu na eneo hilo, niliona kuwa hakuna aliyekuwa tayari kuingilia kati wakati polisi walifika baada ya dakika kadhaa.",yes
+JKUAT Main Gate,-1.0925,37.011,assault,18:32,evening,2025-03-31,Nilishuhudia tukio hilo ambapo hakuna aliyekuwa tayari kuingilia kati wakati tukio lilivutia watu wengi waliokuwa wakipita.,yes
+Gachororo,-1.0905,37.0119,fraud,01:05,night,2024-09-16,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.,yes
+Juja Market,-1.096,37.0175,murder,04:12,night,2024-07-17,Kwa macho yangu mwenyewe niliona kwamba hakuna aliyekuwa tayari kuingilia kati wakati kulikuwa na vilio na machafuko makubwa.,yes
+JKUAT Hospital,-1.099,37.02,drug trafficking,02:52,night,2024-12-21,Kwa macho yangu mwenyewe niliona kwamba hakuna aliyekuwa tayari kuingilia kati wakati kuna mtu alichukua picha kwa kutumia simu.,no
+Gate B,-1.0932,37.0125,murder,09:29,morning,2025-05-01,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.,yes
+Cherry Park,-1.0948,37.0106,battery,19:35,evening,2024-08-07,Kwa macho yangu mwenyewe niliona kwamba mtuhumiwa alikimbilia upande wa kulikuwa na vilio na machafuko makubwa.,yes
+Gate B,-1.0932,37.0125,traffic violations,00:19,night,2024-11-02,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa polisi walifika baada ya dakika kadhaa.,yes
+Juja Square,-1.098,37.019,assault,10:34,morning,2025-03-24,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini kuna mtu alichukua picha kwa kutumia simu.,no
+Highpoint,-1.1,37.015,burglary,13:32,afternoon,2024-06-25,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.,no
+Juja Market,-1.096,37.0175,sexual harrasment,06:09,morning,2024-05-16,"Nilipokuwa karibu na eneo hilo, niliona kuwa watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.",yes
+Juja City Mall,-1.095,37.0165,fraud,15:51,afternoon,2025-03-06,Mimi binafsi niliona jinsi mtuhumiwa alikimbilia upande wa tukio lilivutia watu wengi waliokuwa wakipita.,no
+JKUAT hostels area,-1.09,37.012,reckless driving,11:12,morning,2025-01-09,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.,no
+Gate C,-1.0922,37.0131,burglary,08:29,morning,2024-09-16,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini kuna mtu alichukua picha kwa kutumia simu.,no
+Juja City Mall,-1.095,37.0165,burglary,17:48,evening,2025-05-09,Kwa macho yangu mwenyewe niliona kwamba watu walipiga kelele wakitaka msaada huku kuna mtu alichukua picha kwa kutumia simu.,no
+JKUAT hostels area,-1.09,37.012,burglary,14:50,afternoon,2025-05-13,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.",yes
+Highpoint,-1.1,37.015,murder,12:54,afternoon,2025-03-14,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.",yes
+Gachororo,-1.0905,37.0119,armed robbery,21:48,night,2025-07-08,"Nilipokuwa karibu na eneo hilo, niliona kuwa majirani walijaribu kuingilia kati lakini walionekana wakitumia panga na silaha nyingine.",yes
+Juja Market,-1.096,37.0175,traffic violations,10:42,morning,2024-06-06,Mimi binafsi niliona jinsi majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.,no
+Highpoint,-1.1,37.015,phone snatching,07:45,morning,2024-09-26,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio tukio lilivutia watu wengi waliokuwa wakipita.",yes
+Gachororo,-1.0905,37.0119,burglary,23:46,night,2025-06-03,Mimi binafsi niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati kuna mtu alichukua picha kwa kutumia simu.,no
+JKUAT Enterprises LTD.,-1.0915,37.014,burglary,04:34,night,2024-06-19,Mimi binafsi niliona jinsi majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.,no
+Juja Market,-1.096,37.0175,robbery,13:42,afternoon,2024-06-13,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio kuna mtu alichukua picha kwa kutumia simu.",no
+Highpoint,-1.1,37.015,reckless driving,23:52,night,2024-07-04,Mimi binafsi niliona jinsi majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.,yes
+JKUAT Hospital,-1.098,37.019,drug trafficking,14:05,afternoon,2025-02-08,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.,no
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,burglary,12:45,afternoon,2024-11-07,Kwa macho yangu mwenyewe niliona kwamba mtuhumiwa alikimbilia upande wa kulikuwa na vilio na machafuko makubwa.,yes
+Gachororo,-1.0905,37.0119,battery,11:37,morning,2025-04-10,Kwa macho yangu mwenyewe niliona kwamba mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.,yes
+Juja City Mall,-1.095,37.0165,sexual harrasment,20:27,evening,2024-12-22,Kwa macho yangu mwenyewe niliona kwamba watu walipiga kelele wakitaka msaada huku kulikuwa na vilio na machafuko makubwa.,no
+Gate C,-1.0922,37.0131,phone snatching,13:17,afternoon,2024-12-13,Mimi binafsi niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati walionekana wakitumia panga na silaha nyingine.,yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,sexual harrasment,16:52,afternoon,2025-02-08,"Wakati nilipokuwa karibu, niliona jinsi majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.",yes
+Gate C,-1.0922,37.0131,burglary,05:17,night,2025-03-29,"Nilipokuwa karibu na eneo hilo, niliona kuwa watu walipiga kelele wakitaka msaada huku tukio lilivutia watu wengi waliokuwa wakipita.",yes
+Juja Market,-1.096,37.0175,kidnapping,01:28,night,2024-11-04,Kwa macho yangu mwenyewe niliona kwamba watu walipiga kelele wakitaka msaada huku kuna mtu alichukua picha kwa kutumia simu.,no
+Highpoint,-1.1,37.015,domestic violence,09:54,morning,2024-12-12,Mimi binafsi niliona jinsi majirani walijaribu kuingilia kati lakini kulikuwa na vilio na machafuko makubwa.,no
+Gate B,-1.0932,37.0125,drug possession,05:47,night,2025-06-13,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa tukio lilivutia watu wengi waliokuwa wakipita.,no
+Cherry Park,-1.0948,37.0106,robbery,12:40,afternoon,2024-10-15,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.,no
+Cherry Park,-1.0948,37.0106,armed robbery,18:41,evening,2024-10-13,Nilishuhudia tukio hilo ambapo hakuna aliyekuwa tayari kuingilia kati wakati polisi walifika baada ya dakika kadhaa.,yes
+Highpoint,-1.1,37.015,robbery,10:22,morning,2025-04-28,Nilishuhudia tukio hilo ambapo watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.,no
+Gachororo,-1.0905,37.0119,assault,15:20,afternoon,2025-02-13,Kwa macho yangu mwenyewe niliona kwamba watu walipiga kelele wakitaka msaada huku kulikuwa na vilio na machafuko makubwa.,no
+Gate C,-1.0922,37.0131,burglary,23:57,night,2025-04-15,"Nilipokuwa karibu na eneo hilo, niliona kuwa mtuhumiwa alikimbilia upande wa kulikuwa na vilio na machafuko makubwa.",yes
+JKUAT Enterprises LTD.,-1.0915,37.014,robbery,07:05,morning,2024-11-02,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini walionekana wakitumia panga na silaha nyingine.,no
+Juja Stage,-1.099,37.02,robbery,19:46,evening,2024-05-16,Mimi binafsi niliona jinsi majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.,yes
+Juja Stage,-1.099,37.02,murder,13:39,afternoon,2024-07-14,"Wakati nilipokuwa karibu, niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati kuna mtu alichukua picha kwa kutumia simu.",yes
+Gate B,-1.0932,37.0125,kidnapping,09:06,morning,2024-05-03,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio kuna mtu alichukua picha kwa kutumia simu.,yes
+JKUAT hostels area,-1.09,37.012,battery,15:10,afternoon,2024-05-26,"Wakati nilipokuwa karibu, niliona jinsi majirani walijaribu kuingilia kati lakini kulikuwa na vilio na machafuko makubwa.",yes
+Juja City Mall,-1.095,37.0165,battery,11:55,morning,2025-01-17,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.",yes
+Juja Stage,-1.099,37.02,drug trafficking,13:38,afternoon,2024-10-21,Kwa macho yangu mwenyewe niliona kwamba mtuhumiwa alikimbilia upande wa walionekana wakitumia panga na silaha nyingine.,yes
+JKUAT hostels area,-1.09,37.012,assault,23:51,night,2025-06-02,Mimi binafsi niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati kulikuwa na vilio na machafuko makubwa.,yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,domestic violence,04:02,night,2025-06-05,"Nilipokuwa karibu na eneo hilo, niliona kuwa hakuna aliyekuwa tayari kuingilia kati wakati polisi walifika baada ya dakika kadhaa.",no
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,fraud,05:47,night,2024-11-27,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku kulikuwa na vilio na machafuko makubwa.,no
+Gachororo,-1.0905,37.0119,kidnapping,04:50,night,2025-07-02,"Wakati nilipokuwa karibu, niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati polisi walifika baada ya dakika kadhaa.",yes
+Highpoint,-1.1,37.015,burglary,09:25,morning,2024-12-29,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.",no
+Highpoint,-1.1,37.015,drug trafficking,16:30,afternoon,2024-12-02,Kwa macho yangu mwenyewe niliona kwamba mhalifu alikimbia mara moja baada ya tukio tukio lilivutia watu wengi waliokuwa wakipita.,no
+Juja Stage,-1.099,37.02,battery,13:14,afternoon,2024-07-21,Kwa macho yangu mwenyewe niliona kwamba hakuna aliyekuwa tayari kuingilia kati wakati kulikuwa na vilio na machafuko makubwa.,yes
+Cherry Park,-1.0948,37.0106,domestic violence,04:43,night,2024-07-11,Kwa macho yangu mwenyewe niliona kwamba hakuna aliyekuwa tayari kuingilia kati wakati walionekana wakitumia panga na silaha nyingine.,yes
+JKUAT hostels area,-1.09,37.012,sexual harrasment,08:19,morning,2024-09-25,Nilishuhudia tukio hilo ambapo hakuna aliyekuwa tayari kuingilia kati wakati walionekana wakitumia panga na silaha nyingine.,yes
+Juja Market,-1.096,37.0175,reckless driving,17:33,evening,2024-07-02,"Nilipokuwa karibu na eneo hilo, niliona kuwa hakuna aliyekuwa tayari kuingilia kati wakati tukio lilivutia watu wengi waliokuwa wakipita.",yes
+Juja City Mall,-1.095,37.0165,robbery,12:59,afternoon,2024-09-04,Nilishuhudia tukio hilo ambapo hakuna aliyekuwa tayari kuingilia kati wakati tukio lilivutia watu wengi waliokuwa wakipita.,yes
+Juja Police Station,-1.0932,37.0125,drug possession,14:09,afternoon,2024-08-18,Nilishuhudia tukio hilo ambapo hakuna aliyekuwa tayari kuingilia kati wakati polisi walifika baada ya dakika kadhaa.,yes
+Gachororo,-1.0905,37.0119,traffic violations,13:15,afternoon,2025-06-09,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.",no
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,traffic violations,00:06,night,2025-07-12,"Nilipokuwa karibu na eneo hilo, niliona kuwa hakuna aliyekuwa tayari kuingilia kati wakati kuna mtu alichukua picha kwa kutumia simu.",yes
+Gate C,-1.0922,37.0131,battery,10:00,morning,2025-02-18,"Nilipokuwa karibu na eneo hilo, niliona kuwa watu walipiga kelele wakitaka msaada huku kulikuwa na vilio na machafuko makubwa.",yes
+Gate C,-1.0922,37.0131,kidnapping,09:20,morning,2024-11-18,Nilishuhudia tukio hilo ambapo hakuna aliyekuwa tayari kuingilia kati wakati kuna mtu alichukua picha kwa kutumia simu.,no
+Juja Square,-1.098,37.019,kidnapping,10:26,morning,2024-10-12,"Wakati nilipokuwa karibu, niliona jinsi mtuhumiwa alikimbilia upande wa walionekana wakitumia panga na silaha nyingine.",no
+Juja City Mall,-1.095,37.0165,traffic violations,06:43,morning,2024-05-01,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.",no
+Juja Market,-1.096,37.0175,murder,10:05,morning,2025-03-13,Kwa macho yangu mwenyewe niliona kwamba mtuhumiwa alikimbilia upande wa tukio lilivutia watu wengi waliokuwa wakipita.,yes
+JKUAT Main Gate,-1.0925,37.011,assault,16:28,afternoon,2024-08-06,Nilishuhudia tukio hilo ambapo watu walipiga kelele wakitaka msaada huku kuna mtu alichukua picha kwa kutumia simu.,no
+Cherry Park,-1.0948,37.0106,phone snatching,17:02,evening,2025-02-05,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio polisi walifika baada ya dakika kadhaa.,yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,robbery,14:11,afternoon,2025-04-14,"Wakati nilipokuwa karibu, niliona jinsi majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.",yes
+Gate C,-1.0922,37.0131,domestic violence,14:15,afternoon,2024-10-24,Nilishuhudia tukio hilo ambapo watu walipiga kelele wakitaka msaada huku tukio lilivutia watu wengi waliokuwa wakipita.,yes
+Juja Square,-1.098,37.019,assault,13:25,afternoon,2025-04-23,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.,no
+Gate C,-1.0922,37.0131,battery,15:07,afternoon,2024-07-09,Nilishuhudia tukio hilo ambapo mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.,no
+Gachororo,-1.0905,37.0119,drug possession,21:35,night,2024-10-20,Kwa macho yangu mwenyewe niliona kwamba watu walipiga kelele wakitaka msaada huku kulikuwa na vilio na machafuko makubwa.,no
+Highpoint,-1.1,37.015,reckless driving,05:34,night,2024-05-12,"Nilipokuwa karibu na eneo hilo, niliona kuwa watu walipiga kelele wakitaka msaada huku walionekana wakitumia panga na silaha nyingine.",yes
+Cherry Park,-1.0948,37.0106,robbery,21:08,night,2025-06-20,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio kuna mtu alichukua picha kwa kutumia simu.",yes
+Juja Square,-1.098,37.019,phone snatching,23:03,night,2025-06-12,Nilishuhudia tukio hilo ambapo hakuna aliyekuwa tayari kuingilia kati wakati kulikuwa na vilio na machafuko makubwa.,no
+JKUAT hostels area,-1.09,37.012,assault,16:50,afternoon,2025-05-23,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.,no
+JKUAT Enterprises LTD.,-1.0915,37.014,murder,17:41,evening,2024-08-12,"Wakati nilipokuwa karibu, niliona jinsi watu walipiga kelele wakitaka msaada huku tukio lilivutia watu wengi waliokuwa wakipita.",no
+Highpoint,-1.1,37.015,drug trafficking,06:43,morning,2025-06-07,Kwa macho yangu mwenyewe niliona kwamba hakuna aliyekuwa tayari kuingilia kati wakati kuna mtu alichukua picha kwa kutumia simu.,yes
+Highpoint,-1.1,37.015,kidnapping,01:10,night,2024-06-17,Nilishuhudia tukio hilo ambapo mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.,yes
+Gachororo,-1.0905,37.0119,murder,00:52,night,2024-07-05,"Nilipokuwa karibu na eneo hilo, niliona kuwa majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.",no
+Juja Market,-1.096,37.0175,traffic violations,11:56,morning,2024-11-30,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku kulikuwa na vilio na machafuko makubwa.,no
+Juja Police Station,-1.093,37.0155,assault,03:01,night,2024-05-17,Kwa macho yangu mwenyewe niliona kwamba mhalifu alikimbia mara moja baada ya tukio kuna mtu alichukua picha kwa kutumia simu.,yes
+JKUAT Enterprises LTD.,-1.0915,37.014,armed robbery,03:41,night,2024-12-12,Kwa macho yangu mwenyewe niliona kwamba hakuna aliyekuwa tayari kuingilia kati wakati tukio lilivutia watu wengi waliokuwa wakipita.,no
+Juja City Mall,-1.095,37.0165,reckless driving,05:11,night,2024-09-06,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.,no
+Juja Stage,-1.099,37.02,armed robbery,02:51,night,2024-12-18,"Wakati nilipokuwa karibu, niliona jinsi majirani walijaribu kuingilia kati lakini kulikuwa na vilio na machafuko makubwa.",yes
+Juja Square,-1.098,37.019,kidnapping,21:52,night,2024-12-13,"Wakati nilipokuwa karibu, niliona jinsi majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.",yes
+Gate C,-1.0922,37.0131,domestic violence,00:24,night,2025-06-07,Nilishuhudia tukio hilo ambapo watu walipiga kelele wakitaka msaada huku kulikuwa na vilio na machafuko makubwa.,yes
+JKUAT Main Gate,-1.0925,37.011,burglary,22:57,night,2024-07-11,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio tukio lilivutia watu wengi waliokuwa wakipita.,no
+Highpoint,-1.1,37.015,robbery,16:49,afternoon,2025-01-31,"Nilipokuwa karibu na eneo hilo, niliona kuwa mtuhumiwa alikimbilia upande wa polisi walifika baada ya dakika kadhaa.",no
+JKUAT Enterprises LTD.,-1.0915,37.014,burglary,21:51,night,2024-12-30,Kwa macho yangu mwenyewe niliona kwamba mtuhumiwa alikimbilia upande wa kuna mtu alichukua picha kwa kutumia simu.,no
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,robbery,17:40,evening,2024-07-20,"Nilipokuwa karibu na eneo hilo, niliona kuwa watu walipiga kelele wakitaka msaada huku kuna mtu alichukua picha kwa kutumia simu.",no
+Highpoint,-1.1,37.015,phone snatching,13:13,afternoon,2025-06-20,Mimi binafsi niliona jinsi mtuhumiwa alikimbilia upande wa kuna mtu alichukua picha kwa kutumia simu.,no
+Gachororo,-1.0905,37.0119,reckless driving,11:03,morning,2025-01-04,Nilishuhudia tukio hilo ambapo hakuna aliyekuwa tayari kuingilia kati wakati kulikuwa na vilio na machafuko makubwa.,yes
+JKUAT hostels area,-1.09,37.012,reckless driving,17:41,evening,2024-05-13,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.",yes
+JKUAT Enterprises LTD.,-1.0915,37.014,kidnapping,20:17,evening,2025-01-16,"Wakati nilipokuwa karibu, niliona jinsi watu walipiga kelele wakitaka msaada huku kuna mtu alichukua picha kwa kutumia simu.",yes
+JKUAT Main Gate,-1.0925,37.011,robbery,11:23,morning,2024-12-24,"Nilipokuwa karibu na eneo hilo, niliona kuwa hakuna aliyekuwa tayari kuingilia kati wakati kuna mtu alichukua picha kwa kutumia simu.",no
+Juja City Mall,-1.095,37.0165,kidnapping,02:26,night,2024-07-20,Mimi binafsi niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati kuna mtu alichukua picha kwa kutumia simu.,yes
+JKUAT Hospital,-1.0922,37.0131,drug possession,20:02,evening,2024-09-07,Nilishuhudia tukio hilo ambapo watu walipiga kelele wakitaka msaada huku tukio lilivutia watu wengi waliokuwa wakipita.,yes
+Gate B,-1.0932,37.0125,drug trafficking,00:25,night,2025-06-19,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.,yes
+JKUAT Main Gate,-1.0925,37.011,battery,06:20,morning,2024-10-09,"Nilipokuwa karibu na eneo hilo, niliona kuwa mtuhumiwa alikimbilia upande wa walionekana wakitumia panga na silaha nyingine.",no
+Gachororo,-1.0905,37.0119,domestic violence,11:26,morning,2025-02-20,"Wakati nilipokuwa karibu, niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati kulikuwa na vilio na machafuko makubwa.",yes
+Highpoint,-1.1,37.015,reckless driving,20:51,evening,2024-07-18,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku walionekana wakitumia panga na silaha nyingine.,yes
+JKUAT Main Gate,-1.0925,37.011,burglary,02:17,night,2025-05-23,Nilishuhudia tukio hilo ambapo watu walipiga kelele wakitaka msaada huku walionekana wakitumia panga na silaha nyingine.,yes
+JKUAT Main Gate,-1.0925,37.011,murder,21:16,night,2024-08-22,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio kuna mtu alichukua picha kwa kutumia simu.",no
+Cherry Park,-1.0948,37.0106,robbery,11:42,morning,2025-04-21,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa walionekana wakitumia panga na silaha nyingine.,no
+Juja Stage,-1.099,37.02,robbery,23:18,night,2024-12-21,"Nilipokuwa karibu na eneo hilo, niliona kuwa majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.",no
+Cherry Park,-1.0948,37.0106,murder,20:18,evening,2024-09-26,"Nilipokuwa karibu na eneo hilo, niliona kuwa majirani walijaribu kuingilia kati lakini kuna mtu alichukua picha kwa kutumia simu.",no
+Juja City Mall,-1.095,37.0165,drug possession,02:28,night,2024-09-09,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa kulikuwa na vilio na machafuko makubwa.,yes
+JKUAT Main Gate,-1.0925,37.011,sexual harrasment,12:27,afternoon,2025-07-04,Kwa macho yangu mwenyewe niliona kwamba mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.,no
+Cherry Park,-1.0948,37.0106,reckless driving,00:53,night,2025-05-05,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.,no
+Highpoint,-1.1,37.015,fraud,20:51,evening,2025-06-27,"Nilipokuwa karibu na eneo hilo, niliona kuwa watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.",no
+JKUAT hostels area,-1.09,37.012,traffic violations,12:05,afternoon,2024-10-17,Mimi binafsi niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati polisi walifika baada ya dakika kadhaa.,no
+Gate B,-1.0932,37.0125,reckless driving,16:59,afternoon,2025-06-18,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku walionekana wakitumia panga na silaha nyingine.,no
+Gachororo,-1.0905,37.0119,sexual harrasment,08:59,morning,2024-07-21,"Nilipokuwa karibu na eneo hilo, niliona kuwa watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.",yes
+Juja Market,-1.096,37.0175,sexual harrasment,10:15,morning,2024-07-27,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku tukio lilivutia watu wengi waliokuwa wakipita.,no
+Cherry Park,-1.0948,37.0106,reckless driving,13:11,afternoon,2025-03-13,"Nilipokuwa karibu na eneo hilo, niliona kuwa majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.",no
+Gachororo,-1.0905,37.0119,phone snatching,15:54,afternoon,2024-06-13,Nilishuhudia tukio hilo ambapo hakuna aliyekuwa tayari kuingilia kati wakati kuna mtu alichukua picha kwa kutumia simu.,no
+Gate B,-1.0932,37.0125,kidnapping,23:30,night,2025-01-14,Nilishuhudia tukio hilo ambapo mhalifu alikimbia mara moja baada ya tukio kuna mtu alichukua picha kwa kutumia simu.,yes
+JKUAT Main Gate,-1.0925,37.011,murder,16:19,afternoon,2025-07-12,"Nilipokuwa karibu na eneo hilo, niliona kuwa hakuna aliyekuwa tayari kuingilia kati wakati kulikuwa na vilio na machafuko makubwa.",yes
+Gachororo,-1.0905,37.0119,sexual harrasment,06:36,morning,2024-11-10,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini kuna mtu alichukua picha kwa kutumia simu.,yes
+Juja Police Station,-1.099,37.02,assault,12:50,afternoon,2025-04-05,Mimi binafsi niliona jinsi mtuhumiwa alikimbilia upande wa tukio lilivutia watu wengi waliokuwa wakipita.,yes
+Juja Square,-1.098,37.019,kidnapping,21:39,night,2025-01-02,"Nilipokuwa karibu na eneo hilo, niliona kuwa majirani walijaribu kuingilia kati lakini walionekana wakitumia panga na silaha nyingine.",yes
+Juja Square,-1.098,37.019,fraud,17:46,evening,2024-05-14,Nilishuhudia tukio hilo ambapo mhalifu alikimbia mara moja baada ya tukio kuna mtu alichukua picha kwa kutumia simu.,no
+JKUAT Enterprises LTD.,-1.0915,37.014,traffic violations,23:05,night,2024-08-01,Mimi binafsi niliona jinsi mtuhumiwa alikimbilia upande wa kuna mtu alichukua picha kwa kutumia simu.,yes
+Juja Police Station,-1.09,37.012,drug trafficking,11:21,morning,2024-06-09,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio tukio lilivutia watu wengi waliokuwa wakipita.",no
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,fraud,00:16,night,2025-06-11,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku kulikuwa na vilio na machafuko makubwa.,yes
+Juja City Mall,-1.095,37.0165,fraud,03:32,night,2024-11-25,"Wakati nilipokuwa karibu, niliona jinsi watu walipiga kelele wakitaka msaada huku tukio lilivutia watu wengi waliokuwa wakipita.",no
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,fraud,08:43,morning,2024-09-27,"Nilipokuwa karibu na eneo hilo, niliona kuwa mhalifu alikimbia mara moja baada ya tukio kuna mtu alichukua picha kwa kutumia simu.",yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,battery,13:07,afternoon,2024-11-29,Kwa macho yangu mwenyewe niliona kwamba mhalifu alikimbia mara moja baada ya tukio tukio lilivutia watu wengi waliokuwa wakipita.,yes
+JKUAT Hospital,-1.0932,37.0125,drug possession,14:09,afternoon,2024-08-18,Nilishuhudia tukio hilo ambapo hakuna aliyekuwa tayari kuingilia kati wakati polisi walifika baada ya dakika kadhaa.,yes
+Cherry Park,-1.0948,37.0106,drug trafficking,00:23,night,2024-09-13,Mimi binafsi niliona jinsi majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.,no
+Gachororo,-1.0905,37.0119,traffic violations,04:43,night,2024-05-15,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.,no
+JKUAT hostels area,-1.09,37.012,drug trafficking,07:35,morning,2024-12-16,Mimi binafsi niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati polisi walifika baada ya dakika kadhaa.,no
+JKUAT Main Gate,-1.0925,37.011,sexual harrasment,14:32,afternoon,2025-06-30,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini walionekana wakitumia panga na silaha nyingine.,yes
+Gate C,-1.0922,37.0131,sexual harrasment,18:30,evening,2024-05-15,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini kulikuwa na vilio na machafuko makubwa.,yes
+Highpoint,-1.1,37.015,sexual harrasment,05:49,night,2025-04-20,Kwa macho yangu mwenyewe niliona kwamba watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.,yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,phone snatching,14:42,afternoon,2024-05-23,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio kuna mtu alichukua picha kwa kutumia simu.,no
+Cherry Park,-1.0948,37.0106,kidnapping,18:21,evening,2025-04-08,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa tukio lilivutia watu wengi waliokuwa wakipita.,no
+JKUAT Enterprises LTD.,-1.0915,37.014,domestic violence,05:15,night,2024-08-22,"Nilipokuwa karibu na eneo hilo, niliona kuwa mtuhumiwa alikimbilia upande wa kuna mtu alichukua picha kwa kutumia simu.",yes
+Gate B,-1.0932,37.0125,assault,18:12,evening,2024-12-20,Mimi binafsi niliona jinsi watu walipiga kelele wakitaka msaada huku walionekana wakitumia panga na silaha nyingine.,yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,robbery,12:45,afternoon,2025-05-15,Kwa macho yangu mwenyewe niliona kwamba hakuna aliyekuwa tayari kuingilia kati wakati kulikuwa na vilio na machafuko makubwa.,yes
+Juja Stage,-1.099,37.02,assault,15:11,afternoon,2024-07-11,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa kuna mtu alichukua picha kwa kutumia simu.,no
+JKUAT Main Gate,-1.0925,37.011,murder,03:31,night,2025-06-14,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini kulikuwa na vilio na machafuko makubwa.,no
+Juja Stage,-1.099,37.02,drug trafficking,17:37,evening,2025-03-16,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.,yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,drug possession,19:06,evening,2024-07-01,Nilishuhudia tukio hilo ambapo mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.,yes
+Juja Stage,-1.099,37.02,assault,18:44,evening,2024-09-20,Nilishuhudia tukio hilo ambapo majirani walijaribu kuingilia kati lakini walionekana wakitumia panga na silaha nyingine.,yes
+Gachororo,-1.0905,37.0119,armed robbery,00:45,night,2025-01-06,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini tukio lilivutia watu wengi waliokuwa wakipita.,yes
+Juja Square,-1.098,37.019,drug trafficking,15:47,afternoon,2024-09-16,"Wakati nilipokuwa karibu, niliona jinsi majirani walijaribu kuingilia kati lakini polisi walifika baada ya dakika kadhaa.",yes
+Cherry Park,-1.0948,37.0106,kidnapping,01:36,night,2025-04-21,"Nilipokuwa karibu na eneo hilo, niliona kuwa mtuhumiwa alikimbilia upande wa kuna mtu alichukua picha kwa kutumia simu.",no
+Juja Stage,-1.099,37.02,reckless driving,01:35,night,2025-01-01,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa tukio lilivutia watu wengi waliokuwa wakipita.,no
+Cherry Park,-1.0948,37.0106,domestic violence,14:48,afternoon,2025-03-22,Nilishuhudia tukio hilo ambapo watu walipiga kelele wakitaka msaada huku walionekana wakitumia panga na silaha nyingine.,no
+Juja Stage,-1.099,37.02,domestic violence,22:06,night,2024-09-07,"Nilipokuwa karibu na eneo hilo, niliona kuwa hakuna aliyekuwa tayari kuingilia kati wakati kulikuwa na vilio na machafuko makubwa.",yes
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,robbery,09:37,morning,2024-05-29,"Wakati nilipokuwa karibu, niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati kuna mtu alichukua picha kwa kutumia simu.",no
+Juja City Mall,-1.095,37.0165,burglary,09:20,morning,2024-05-23,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini kulikuwa na vilio na machafuko makubwa.,yes
+Gate C,-1.0922,37.0131,fraud,15:15,afternoon,2025-01-12,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini kuna mtu alichukua picha kwa kutumia simu.,no
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,fraud,13:30,afternoon,2025-05-25,Kwa macho yangu mwenyewe niliona kwamba mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.,yes
+JKUAT hostels area,-1.09,37.012,armed robbery,07:49,morning,2024-09-15,"Nilipokuwa karibu na eneo hilo, niliona kuwa mtuhumiwa alikimbilia upande wa polisi walifika baada ya dakika kadhaa.",no
+Highpoint,-1.1,37.015,battery,22:07,night,2024-11-13,Kwa macho yangu mwenyewe niliona kwamba mtuhumiwa alikimbilia upande wa kuna mtu alichukua picha kwa kutumia simu.,no
+Gachororo,-1.0905,37.0119,robbery,01:56,night,2025-02-04,"Nilipokuwa karibu na eneo hilo, niliona kuwa watu walipiga kelele wakitaka msaada huku kulikuwa na vilio na machafuko makubwa.",no
+Gachororo,-1.0905,37.0119,domestic violence,00:45,night,2024-06-08,"Nilipokuwa karibu na eneo hilo, niliona kuwa mtuhumiwa alikimbilia upande wa tukio lilivutia watu wengi waliokuwa wakipita.",yes
+JKUAT Hospital,-1.0922,37.0131,drug possession,06:49,morning,2024-12-19,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.",yes
+Juja Market,-1.096,37.0175,drug possession,18:22,evening,2025-02-01,"Wakati nilipokuwa karibu, niliona jinsi mtuhumiwa alikimbilia upande wa polisi walifika baada ya dakika kadhaa.",yes
+Gachororo,-1.0905,37.0119,fraud,02:15,night,2025-06-30,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa kuna mtu alichukua picha kwa kutumia simu.,yes
+Juja Square,-1.098,37.019,drug possession,09:38,morning,2025-01-20,Kwa macho yangu mwenyewe niliona kwamba mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.,yes
+Juja Square,-1.098,37.019,robbery,02:48,night,2024-05-26,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.,yes
+JKUAT hostels area,-1.09,37.012,sexual harrasment,08:29,morning,2025-07-07,"Nilipokuwa karibu na eneo hilo, niliona kuwa hakuna aliyekuwa tayari kuingilia kati wakati tukio lilivutia watu wengi waliokuwa wakipita.",no
+Gate B,-1.0932,37.0125,domestic violence,16:51,afternoon,2025-07-14,Nilishuhudia tukio hilo ambapo mhalifu alikimbia mara moja baada ya tukio walionekana wakitumia panga na silaha nyingine.,yes
+Juja Square,-1.098,37.019,domestic violence,01:56,night,2025-01-11,"Wakati nilipokuwa karibu, niliona jinsi hakuna aliyekuwa tayari kuingilia kati wakati kulikuwa na vilio na machafuko makubwa.",no
+Highpoint,-1.1,37.015,domestic violence,09:34,morning,2024-05-24,Nilishuhudia tukio hilo ambapo mtuhumiwa alikimbilia upande wa polisi walifika baada ya dakika kadhaa.,no
+Cherry Park,-1.0948,37.0106,assault,17:02,evening,2024-09-20,"Wakati nilipokuwa karibu, niliona jinsi mhalifu alikimbia mara moja baada ya tukio kulikuwa na vilio na machafuko makubwa.",yes
+Cherry Park,-1.0948,37.0106,murder,12:30,afternoon,2024-08-23,"Nilipokuwa karibu na eneo hilo, niliona kuwa watu walipiga kelele wakitaka msaada huku polisi walifika baada ya dakika kadhaa.",yes
+Juja Square,-1.098,37.019,domestic violence,00:58,night,2024-08-02,Mimi binafsi niliona jinsi mhalifu alikimbia mara moja baada ya tukio tukio lilivutia watu wengi waliokuwa wakipita.,no
+JKUAT SAJOREC Botanical Garden,-1.093,37.0155,fraud,00:36,night,2024-09-05,"Nilipokuwa karibu na eneo hilo, niliona kuwa watu walipiga kelele wakitaka msaada huku tukio lilivutia watu wengi waliokuwa wakipita.",yes
+JKUAT Main Gate,-1.0925,37.011,armed robbery,19:05,evening,2025-05-09,"Nilipokuwa karibu na eneo hilo, niliona kuwa majirani walijaribu kuingilia kati lakini walionekana wakitumia panga na silaha nyingine.",yes
+Gate C,-1.0922,37.0131,robbery,05:25,night,2024-07-29,"Wakati nilipokuwa karibu, niliona jinsi majirani walijaribu kuingilia kati lakini kuna mtu alichukua picha kwa kutumia simu.",yes
+JKUAT Hospital,-1.0905,37.0119,drug possession,17:38,evening,2025-02-11,"Wakati nilipokuwa karibu, niliona jinsi watu walipiga kelele wakitaka msaada huku kuna mtu alichukua picha kwa kutumia simu.",yes
+Highpoint,-1.1,37.015,kidnapping,13:40,afternoon,2024-09-20,Kwa macho yangu mwenyewe niliona kwamba majirani walijaribu kuingilia kati lakini walionekana wakitumia panga na silaha nyingine.,yes
+Gate C,-1.0922,37.0131,drug trafficking,13:59,afternoon,2024-10-02,"Nilipokuwa karibu na eneo hilo, niliona kuwa hakuna aliyekuwa tayari kuingilia kati wakati kuna mtu alichukua picha kwa kutumia simu.",no

@@ -49,7 +49,7 @@ class _HomeViewState extends State<HomeView> {
 
   Future<void> _loadMapHtml() async {
     final htmlContent = await rootBundle.loadString(
-      'assets/images/crime_clusters_map.html',
+      'assets/images/crime_map (2).html',
     );
     setState(() => _mapHtml = htmlContent);
   }

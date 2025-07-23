@@ -1,7 +1,3 @@
-// pubspec.yaml dependencies needed:
-//   pdf: ^3.10.4 to export pdfs
-//   printing: ^5.12.0 for printing timestamp na hio logo hapo ju
-
 // ignore_for_file: unused_import, unnecessary_cast
 
 import 'package:flutter/material.dart';
@@ -16,7 +12,6 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:pdf/widgets.dart' as pw;
 import 'package:printing/printing.dart';
 import 'package:intl/intl.dart';
-import 'dart:typed_data';
 
 class CrimeRateView extends StatefulWidget {
   const CrimeRateView({Key? key}) : super(key: key);
@@ -36,22 +31,15 @@ class _CrimeRateViewState extends State<CrimeRateView> {
       child: Scaffold(
         appBar: AppBar(
           backgroundColor: const Color.fromARGB(255, 96, 125, 139),
-
           elevation: 0.5,
           leading: IconButton(
-            icon: const Icon(
-              Icons.arrow_back_ios,
-              color: Color.fromARGB(255, 250, 248, 248),
-            ),
+            icon: const Icon(Icons.arrow_back_ios, color: Colors.white),
             onPressed: () => Get.offAll(() => BottomNavigationBarWidget()),
           ),
           centerTitle: true,
           title: const Text(
-            'Crime Prediction',
-            style: TextStyle(
-              fontWeight: FontWeight.bold,
-              color: Color.fromARGB(255, 248, 250, 250),
-            ),
+            'Dashboard & Statistics',
+            style: TextStyle(fontWeight: FontWeight.bold, color: Colors.white),
           ),
         ),
         floatingActionButton: Column(
@@ -78,7 +66,6 @@ class _CrimeRateViewState extends State<CrimeRateView> {
 
             _cachedReports = snapshot.data!;
             final filteredReports = _filterReports(_cachedReports);
-
             final now = DateTime.now();
             int daily = 0, weekly = 0, monthly = 0;
             Map<String, int> crimeTypes = {};
@@ -110,11 +97,10 @@ class _CrimeRateViewState extends State<CrimeRateView> {
             final mostCommonCrime = crimeTypes.isNotEmpty
                 ? crimeTypes.entries.reduce((a, b) => a.value > b.value ? a : b)
                 : const MapEntry("N/A", 0);
-            final avgPerDay = (filteredReports.length / 360).toStringAsFixed(1);
-            final avgPerWeek = (filteredReports.length / 54).toStringAsFixed(1);
-            final avgPerMonth = (filteredReports.length / 14).toStringAsFixed(
-              0,
-            );
+
+            final avgPerDay = (filteredReports.length / 30).toStringAsFixed(1);
+            final avgPerWeek = (filteredReports.length / 7).toStringAsFixed(1);
+            final avgPerMonth = (filteredReports.length / 1).toStringAsFixed(0);
 
             final topCrimeTypes = _topEntries(crimeTypes);
             final topLocations = _topEntries(locations);
@@ -177,13 +163,18 @@ class _CrimeRateViewState extends State<CrimeRateView> {
   }
 
   Future<List<Map<String, dynamic>>> _loadAllReports() async {
-    final posts = await FirebaseFirestore.instance.collection('Posts').get();
-    final crimes = await FirebaseFirestore.instance
+    final postsSnapshot = await FirebaseFirestore.instance
+        .collection('Posts')
+        .where('approved', isEqualTo: true)
+        .get();
+
+    final crimesSnapshot = await FirebaseFirestore.instance
         .collection('CrimeReports')
         .get();
+
     return [
-      ...posts.docs.map((e) => e.data() as Map<String, dynamic>),
-      ...crimes.docs.map((e) => e.data() as Map<String, dynamic>),
+      ...postsSnapshot.docs.map((e) => e.data() as Map<String, dynamic>),
+      ...crimesSnapshot.docs.map((e) => e.data() as Map<String, dynamic>),
     ];
   }
 
@@ -278,9 +269,7 @@ class _CrimeRateViewState extends State<CrimeRateView> {
   Future<void> _generatePdf({required bool includeFull}) async {
     final pdf = pw.Document();
     final timestamp = DateFormat('yyyy-MM-dd HH:mm:ss').format(DateTime.now());
-    final logo = await imageFromAssetBundle(
-      'assets/logo.png',
-    ); // Ensure this file exists
+    final logo = await imageFromAssetBundle('assets/logo.png');
 
     pdf.addPage(
       pw.MultiPage(
@@ -321,16 +310,13 @@ class _CrimeRateViewState extends State<CrimeRateView> {
           if (includeFull)
             pw.Table.fromTextArray(
               headers: ['Date', 'Type', 'Location'],
-              data: _cachedReports
-                  .take(10)
-                  .map(
-                    (e) => [
-                      e['date'],
-                      e['crime_type'] ?? e['crimeType'],
-                      e['location'],
-                    ],
-                  )
-                  .toList(),
+              data: _cachedReports.take(10).map((e) {
+                return [
+                  e['date'],
+                  e['crime_type'] ?? e['crimeType'],
+                  e['location'],
+                ];
+              }).toList(),
             ),
         ],
       ),

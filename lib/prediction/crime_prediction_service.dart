@@ -3,7 +3,8 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 class CrimePredictionService {
-  final String _baseUrl = 'http://192.168.100.202:8000';
+  final String _baseUrl =
+      'http://10.2.14.95:8000'; // With actual iPV4 address for the network
 
   Future<Map<String, dynamic>> predictCrime({
     required String location,
